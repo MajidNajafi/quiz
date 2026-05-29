@@ -1,0 +1,12 @@
+{
+  "name": "quiz-generator",
+  "version": "1.0.0",
+  "description": "Generate standalone HTML quiz apps from JSON question files",
+  "type": "module",
+  "bin": {
+    "generate-quiz": "./generate-quiz.js"
+  },
+  "scripts": {
+    "generate": "node generate-quiz.js"
+  }
+}

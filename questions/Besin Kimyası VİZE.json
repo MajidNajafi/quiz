@@ -1,0 +1,1595 @@
+{
+  "1": {
+    "question": "Aşağıdakilerden hangisi yumurta akı proteinlerinden değildir?",
+    "options": {
+      "A": "ovoalbumin",
+      "B": "konalbumin",
+      "C": "kazein",
+      "D": "Lizozim"
+    },
+    "answer": "C"
+  },
+  "2": {
+    "question": "Aşağıdakilerden hangisi a-laktalbuminin özelliklerinden biridir?",
+    "options": {
+      "A": "İki molekülden oluşmuştur",
+      "B": "İki adet disülfit bağı içerir",
+      "C": "serbest sülfidril grupları içermez.",
+      "D": "Sistin içermez"
+    },
+    "answer": "C"
+  },
+  "3": {
+    "question": "Bir öğrenci yumurta akına tuz ekledikten sonra ısıtma yapıyor ve jel oluşumunun daha düzgün olduğunu gözlemliyor. Bunun nedeni nedir?",
+    "options": {
+      "A": "pH artışı.",
+      "B": "Proteinlerin hidrolizi",
+      "C": "Elektrik yükünün nötralizasyonu.",
+      "D": "Lipit bağlanması"
+    },
+    "answer": "C"
+  },
+  "4": {
+    "question": "Yumurta proteinlerine asit (örneğin limon suyu) eklendiğinde koagülasyon nasıl etkilenir?",
+    "options": {
+      "A": "Sıcaklık artar.",
+      "B": "Koagülasyon zorlaşır",
+      "C": "Koagülasyon sıcaklığı düşer",
+      "D": "Etkilenmez"
+    },
+    "answer": "C"
+  },
+  "5": {
+    "question": "Peynir yapımında rennin (peynir mayası) enziminin optimum çalışma koşulları ve etkisi hakkında verilenlerden hangisi doğrudur?",
+    "options": {
+      "A": "Rennin sadece whey proteinlerini çöktürür",
+      "B": "Sütün 100°C'ye ısıtılması enzimin etkisini artırır",
+      "C": "Optimum pH 6 civarıdır ve Ca iyonları koagülasyonu kolaylaştırır",
+      "D": "Süt yağının fazla olması daha sert bir pıhtı sağlar"
+    },
+    "answer": "C"
+  },
+  "6": {
+    "question": "UHT (Ultra High Temperature) işlemi ile sterilizasyon arasındaki en temel fark nedir?",
+    "options": {
+      "A": "Sadece sterilize sütte sporlu mikroorganizmalar ölür",
+      "B": "Sterilizasyonda süt sadece 72 dereceye kadar ısıtılır",
+      "C": "UHT'de çok kısa sürede (1-3 sn) yüksek ısı uygulanarak besin değeri korunur",
+      "D": "UHT sütün raf ömrü klasik sterilize sütten daha kısadır"
+    },
+    "answer": "C"
+  },
+  "7": {
+    "question": "“Sıralama Testi\" (Ranking Test) genellikle hangi amaçla kullanılır?",
+    "options": {
+      "A": "Bir ürünün kesin protein miktarını bulmak için",
+      "B": "Tüketicinin ürünü sevip sevmediğini anlamak için",
+      "C": "Örnekleri belirli bir özelliğin (örn: tatlılık) yoğunluğuna göre dizmek için",
+      "D": "Üründeki mikroorganizmaları saymak için"
+    },
+    "answer": "C"
+  },
+  "8": {
+    "question": "Panelistlerin eğitiminde kullanılan \"kavrama eşiği\" tespiti neyi ifade eder?",
+    "options": {
+      "A": "Panelistin kaç dakika odaklanabildiğini ölçer.",
+      "B": "Panelistin duyusal hassasiyetini ölçer.",
+      "C": "Panelistin kaç adet kelime bildiğini ölçer.",
+      "D": "Panelistin boy ve kilo oranını ölçer."
+    },
+    "answer": "B"
+  },
+  "9": {
+    "question": "Süt bileşimine etki eden etmenlerden biri değildir?",
+    "options": {
+      "A": "kalıtım",
+      "B": "hareket",
+      "C": "cinsiyet",
+      "D": "yaş"
+    },
+    "answer": "C"
+  },
+  "10": {
+    "question": "Yumurtanın işlevsel özelliklerinden biri değildir?",
+    "options": {
+      "A": "bağlayıcı",
+      "B": "besleyici olması",
+      "C": "nem verici",
+      "D": "kalınlaştıcı"
+    },
+    "answer": "B"
+  },
+  "11": {
+    "question": "Yumurtanın sarısında ve beyazındaki protein yüzdeliği sırasıyla nedir?",
+    "options": {
+      "A": "60-40",
+      "B": "45-55",
+      "C": "25-75",
+      "D": "80-20"
+    },
+    "answer": "B"
+  },
+  "12": {
+    "question": "Yukarıda verilen whey proteinlerin özelliklerden hangileri  doğrudur ?",
+    "options": {
+      "A": "I-II-IV",
+      "B": "Hepsi",
+      "C": "IV-V",
+      "D": "Yalnız III"
+    },
+    "answer": "A",
+    "notes": "Sulu ortamda dağılma özellikleri fazladır\nAmfefelik karekterleri yoktur\nIsıdan etkilenmezler\nGlobüler (sıkı yumak) yapıya sahiptir.\nDüzensiz yapı"
+  },
+  "13": {
+    "question": "Aşağıdakilerden hangisi duyusal analizlerin ayrıldığı iki ana değerlendirme dalıdır?",
+    "options": {
+      "A": "Mikrobiyolojik ve Proksimet değerlendirme",
+      "B": "Objektif ve Subjektif değerlendirme",
+      "C": "Klinik ve Duyusal değerlendirme",
+      "D": "Tanımlayıcı ve Farklılaşma testler"
+    },
+    "answer": "B"
+  },
+  "14": {
+    "question": "Süt proteinlerinin yaklaşık %80’ini oluşturan ve sütün beyaz rengini veren ana protein grubu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "kazein",
+      "B": "whey",
+      "C": "B-laktoglobulin",
+      "D": "serum albumin"
+    },
+    "answer": "A"
+  },
+  "15": {
+    "question": "Aşağıdakilerden hangisi yumurta sarısı proteinlerinden biri değildir?",
+    "options": {
+      "A": "vitellin",
+      "B": "livetin",
+      "C": "fosvatin",
+      "D": "Avidin"
+    },
+    "answer": "D"
+  },
+  "16": {
+    "question": "Aşağıdakilerden hangisi küçük yaş grubunda kullanılan duyusal analiz test yöntemidir?",
+    "options": {
+      "A": "ikili üçlü test.",
+      "B": "profil analizleri testi",
+      "C": "hedonik skalalar testi",
+      "D": "tanımlayıcı test"
+    },
+    "answer": "C"
+  },
+  "17": {
+    "question": "Aşağıdakilerden  hangisi duyusal analizlerde kullanılan farklılaşma testlerinden değildir?",
+    "options": {
+      "A": "çit uyarı testi",
+      "B": "siralama test",
+      "C": "çok örnekli test",
+      "D": "ikili üçlü test"
+    },
+    "answer": "B"
+  },
+  "18": {
+    "question": "Aşağıdakilerden hangisi duyusal analizlerde kullanılan tek uyarı testi özelliklerden değildir?",
+    "options": {
+      "A": "standart ürün sunulur sonra örnek ürün verilerek aynı ya da değil yanıtı alınır",
+      "B": "Iki örnek arasında fark olup olmadığı belirlenir",
+      "C": "standart ürün paneliste  birçok kez sunulur ve organoleptik ozellikleri belleğine yerleştirmesi sağlanır",
+      "D": "Paneliste tadımlar aynı anda sunularak aralarındaki farkı ne kadar olduğu sorulur."
+    },
+    "answer": "D"
+  },
+  "19": {
+    "question": "Aşağıdakilerden hangisi sütteki maillerd  reaksiyonunda meydana gelen değişikliklerden değildir ?",
+    "options": {
+      "A": "süte uygulanan hafif bir ısıda reaksiyon gözlenebilir",
+      "B": "sütun depolama süresince reaksiyon ilerlemeye devam eder",
+      "C": "sistein amino  asit  grubu ile aldehit grubu reaksiyona girmesiyle  reaksiyon ortaya çıkar",
+      "D": "Süte uygulanan şiddetli ısı renkte değişmeye neden olur."
+    },
+    "answer": "C"
+  },
+  "20": {
+    "question": "Aşağıdakilerden  hangisi duyusal analizlerde kullanılan farklılaşma testlerinden değildir?",
+    "options": {
+      "A": "çit uyarı testi.",
+      "B": "siralama test",
+      "C": "çok örnekli test",
+      "D": "ikili üçlü test"
+    },
+    "answer": "B"
+  },
+  "21": {
+    "question": "Aşağıdakilerden hangisi duygusal analizlerde kullanılan kalite testlerinden değildir ?",
+    "options": {
+      "A": "puanlama sistemi",
+      "B": "tanımlayıcı test",
+      "C": "üçgen test.",
+      "D": "derecelendirme/ sıralama testi"
+    },
+    "answer": "C"
+  },
+  "22": {
+    "question": "Aşağıdakilerden hangisi sütün bileşimine etki eden etmenlerden biri değildir ?",
+    "options": {
+      "A": "yaş",
+      "B": "kalıtım.",
+      "C": "magnezyum.",
+      "D": "yavrulama"
+    },
+    "answer": "C"
+  },
+  "23": {
+    "question": "Duyusal analizlerde kullanılan test yöntemleri genel olarak farklılaşma testleri ve kalite testleri olmak üzere ikiye ayrılmaktadır. Buna göre aşağıdakilerden hangisi kalite testleri sınıfında yer alan bir yöntem değildir?",
+    "options": {
+      "A": "Hedonik Test.",
+      "B": "Sıralama Testi.",
+      "C": "Puanlama Testi",
+      "D": "Üçgen Test"
+    },
+    "answer": "D"
+  },
+  "24": {
+    "question": "Sütte bulunan temel karbonhidrat aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Glikoz",
+      "B": "Laktoz.",
+      "C": "Galaktoz.",
+      "D": "Sukroz"
+    },
+    "answer": "B"
+  },
+  "25": {
+    "question": "Aşağıdaki süt proteinlerinden hangisi ortamın pH’ı 4.6’ya düşürüldüğünde çökmez?",
+    "options": {
+      "A": "κ-kazein.",
+      "B": "α-kazein.",
+      "C": "Kazein.",
+      "D": "Whey proteinleri"
+    },
+    "answer": "D"
+  },
+  "26": {
+    "question": "Kazein proteinlerinin primer yapılarında suyu seven ve suyu sevmeyen kısımların ayrı bölgelerde bulunması moleküle hangi özelliği kazandırır?",
+    "options": {
+      "A": "Amfoterlik.",
+      "B": "Sinerez özelliği",
+      "C": "Amfipatik özellik.",
+      "D": "Globüler yapı"
+    },
+    "answer": "C"
+  },
+  "27": {
+    "question": "Yumurtanın bekletilmesi ile oluşan fiziksel ve kimyasal değişikliklerle ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "options": {
+      "A": "Vitellin zarı zayıflar",
+      "B": "Yumurta akının viskozitesi artarak daha kıvamlı bir hal alır",
+      "C": "Karbondioksit kaybıyla pH değeri 9.7’e yükselir.",
+      "D": "Genel su kaybı ile yumurtanın içindeki hava boşluğu genişler."
+    },
+    "answer": "B"
+  },
+  "28": {
+    "question": "Süt proteinleri kazein ve whey proteinleri olmak üzere iki ana gruba ayrılır. Aşağıdakilerden hangisi sütte bulunan whey proteinlerinden biri değildir?",
+    "options": {
+      "A": "α-laktoalbümin.",
+      "B": "Serum albümin",
+      "C": "β-laktoglobulin.",
+      "D": "κ-kazein"
+    },
+    "answer": "D"
+  },
+  "29": {
+    "question": "Bir bütün yumurtanın ağırlıkça en büyük kısmını aşağıdakilerden hangisi oluşturur?",
+    "options": {
+      "A": "Yumurta Akı.",
+      "B": "Şalaza.",
+      "C": "Yumurta Sarısı.",
+      "D": "Dış Kabuk"
+    },
+    "answer": "A"
+  },
+  "30": {
+    "question": "Yumurta akında bulunan ve gram pozitif bakterilerin hücre duvarlarını hidroliz ederek antibiyotik etki gösteren protein aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Flavoprotein.",
+      "B": "Lizozim (Ovoglobulin G1)",
+      "C": "Avidin.",
+      "D": "Ovomusin"
+    },
+    "answer": "B"
+  },
+  "31": {
+    "question": "Aşağıdakilerden hangisi ideal panel odasının özelliklerinden biri değildir?",
+    "options": {
+      "A": "Uygun sıcaklıkta olmalı.",
+      "B": "Sessiz olmalı",
+      "C": "Havalandırılmış olmalı.",
+      "D": "Aydınlık olmamalı"
+    },
+    "answer": "D"
+  },
+  "32": {
+    "question": "Sütte uygulanan ısıl işlemler sırasında laktalbumin ve laktoglobulin denatürasyonu ve albümin-globulinlerdeki sülfhidril (–SH) gruplarının açığa çıkması sonucu sütte hangi değişiklik oluşur?",
+    "options": {
+      "A": "Laktozun tatlılığının artması.",
+      "B": "Pişmiş süt lezzeti oluşması",
+      "C": "Sütün renginin kararması.",
+      "D": "Sütün viskozitesinin düşmesi"
+    },
+    "answer": "B"
+  },
+  "33": {
+    "question": "Aşağıdaki ısıl işlemlerden hangisi uygulanarak süt, yüksek sıcaklığa kısa süre maruz bırakılır, mikroorganizmalardan arındırılır ve koruyucu madde eklenmeden oda sıcaklığında aylarca saklanabilir?",
+    "options": {
+      "A": "Termizasyon.",
+      "B": "LTLT pastörizasyon.",
+      "C": "HTST pastörizasyon.",
+      "D": "UHT"
+    },
+    "answer": "D"
+  },
+  "34": {
+    "question": "Bir öğrenci, yumurta akı ile fom oluşturma deneyinde, yumurta akına farklı katkılar ekleyerek fomun oluşumunu gözlemliyor. Aşağıdakilerden hangisi deneyde gözlemlenen etkilerden biridir?",
+    "options": {
+      "A": "Şeker eklenmesi fomun dayanıklılığını artırır",
+      "B": "Mikser kullanımı fomun oluşma süresini uzatır",
+      "C": "Tuz eklenmesi fomun dayanıklılığını artırır",
+      "D": "Tam yumurta eklenmesi fomun dengesini azaltır"
+    },
+    "answer": "A"
+  },
+  "35": {
+    "question": "Yumurta akında bulunan ve biyotini bağlayabilen protein aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ovalbumin.",
+      "B": "Fosvitin.",
+      "C": "Avidin.",
+      "D": "Ovomusin"
+    },
+    "answer": "C"
+  },
+  "36": {
+    "question": "Yumurtanın tazeliğini belirlemek için kullanılan yöntemlerden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Pastörizasyon testi",
+      "B": "Floating (yüzdürme) testi",
+      "C": "Homojenizasyon testi",
+      "D": "Filtrasyon testi"
+    },
+    "answer": "B"
+  },
+  "37": {
+    "question": "Kazein molekülünün amfipatik (amfifilik) özellik göstermesinin temel sebebi nedir?",
+    "options": {
+      "A": "Yapısında yüksek oranda kükürtlü aminoasit içermesi.",
+      "B": "Molekülün sadece hidrofilik (suyu seven) bölgelerden oluşması.",
+      "C": "Primer yapısında hidrofilik ve hidrofobik kısımların ayrı bölgelerde bulunması.",
+      "D": "Sütün pH değerinin 4.6 olması."
+    },
+    "answer": "C"
+  },
+  "38": {
+    "question": "Aşağıdakilerden hangisi süt ve süt ürünlerinin kimyasal özelliklerinden biri değildir?",
+    "options": {
+      "A": "Peynirlerde jelin kıvamı ve pıhtı yapısı, sütün sıcaklığına ve mayalanma süresine bağlıdır.",
+      "B": "Kazeinin enzimatik olarak koagüle olması iki aşamada olur.",
+      "C": "Tuz konsantrasyonunun değişmesi kazeinin dengesini bozmaz.",
+      "D": "Sinerez peynir yapımının temel aşamasıdır."
+    },
+    "answer": "C"
+  },
+  "39": {
+    "question": "Aşağıdaki fom çeşitlerinden hangisi yumuşak mereng ve angel kek yapımında kullanılır?",
+    "options": {
+      "A": "Hafifçe çırpılmış fom.",
+      "B": "Kuru fom",
+      "C": "Sert/ ıslak görünümlü fom.",
+      "D": "Sert form"
+    },
+    "answer": "C"
+  },
+  "40": {
+    "question": "Aşağıdaki yumurta proteinlerinden hangileri ısıya karşı dirençli olup yüksek ısıda koagüle olmazlar?",
+    "options": {
+      "A": "Ovamukoid ve Fosvitin.",
+      "B": "Livetin ve Fosvitin",
+      "C": "Ovoglikoprotein ve Avidin.",
+      "D": "Ovomusin ve Lizozim"
+    },
+    "answer": "A"
+  },
+  "41": {
+    "question": "Bir diyetisyen öğrencisi whey proteinleri ile ilgili aşağıdakilerden hangisini söylerse yanlış olur?",
+    "options": {
+      "A": "Rennin ile çökerler.",
+      "B": "Sulu ortamda dağılma özellikleri fazladır.",
+      "C": "Globüler yapıya sahiptir.",
+      "D": "Enzimden etkilenmezler."
+    },
+    "answer": "A"
+  },
+  "42": {
+    "question": "Bir beslenme ve diyetetik öğrencisi yaptığı “sütte ısının ve asidin etkisi” adlı deney çalışmasında domates püresine sodyumbikarbonat ekleyip nötralize edip oda ısısındaki sütü eklerse karışımda nasıl bir değişim gözlemler?",
+    "options": {
+      "A": "Kazein proteinleri stabilitesini kaybeder ve çöker.",
+      "B": "Sütün ortamın nötralize olması nedeniyle koagüle olması engellenir. Protein yapısı korunur.",
+      "C": "Sodyumbikarbonat asitliği arttırarak çökelmeyi hızlandırır.",
+      "D": "Isı etkisi ile pıhtı oluşur."
+    },
+    "answer": "B"
+  },
+  "43": {
+    "question": "Yeni bir ürün geliştirmek isteyen bir besin firması yukarıdaki duyusal test yöntemlerinden hangilerini tercih etmelidir?",
+    "options": {
+      "A": "1-2-3",
+      "B": "1-3-4-5",
+      "C": "1-3-4-6",
+      "D": "2-3-6"
+    },
+    "answer": "B",
+    "notes": "1. Eşlenmiş kıyaslama\n2. ⁠Üçgen test.\n3. ⁠2’li-3’lü test\n4. ⁠Kalite derecelendirmesi (puanlandırma ile)\n5. ⁠Farklılık derecelendirme\n6. ⁠Hedonik Skalalar"
+  },
+  "44": {
+    "question": "Duyusal analizlere katılan panelistler için aşağıdaki özelliklerden hangileri beklenmez?",
+    "options": {
+      "A": "Panel çalışmalarına katılabilecek zamanlarının olması",
+      "B": "Aşırı içe dönük veya baskın karakterde olmama",
+      "C": "Herhangi bir besin duyarlılığı veya intoleransına sahip olma",
+      "D": "Lezzet konusuna karşı ilgi duyma ve entelektüel bütünlüğü sağlayabilecek olması"
+    },
+    "answer": "C"
+  },
+  "45": {
+    "question": "Aşağıda verilenlerden hangisi ideal panel odasının gereklilikleri arasında yer almaz ?",
+    "options": {
+      "A": "Aydınlık olması",
+      "B": "Kırmızı gibi canlı renkler kullanılması",
+      "C": "Sunulacak örneklerin benzer renkte sunulması",
+      "D": "Uygun sıcaklıkta olması"
+    },
+    "answer": "B"
+  },
+  "46": {
+    "question": "Hangisi sinerez için doğru bir ifadedir?",
+    "options": {
+      "A": "Pıhtının oluşmasıyla sütün çözünür unsurlarının peynir altı suyu olarak pıhtıdan ayrılması olayıdır.",
+      "B": "Sinerez sırasında jel suyu emer.",
+      "C": "Sinerez sadece ısıtma ile gerçekleşir.",
+      "D": "Sinerez jelin daha stabil olmasını sağlar."
+    },
+    "answer": "A"
+  },
+  "47": {
+    "question": "Aşağıdakilerden hangisi süt yağında en çok bulunan yağ asitlerinden biridir?",
+    "options": {
+      "A": "oleik asit.",
+      "B": "Linoleik asit.",
+      "C": "Laurik asit.",
+      "D": "kaprik asit"
+    },
+    "answer": "A"
+  },
+  "48": {
+    "question": "Aşağıdakilerin hangisi besin kalitesi analizleri başlığı altında kullanılan analiz yöntemlerinden biri değildir ?",
+    "options": {
+      "A": "klinik analizler",
+      "B": "Duyusal analizler",
+      "C": "mikrobiyolojik analizler",
+      "D": "Biyolojik analizler"
+    },
+    "answer": "D"
+  },
+  "49": {
+    "question": "Pastörizasyon ile ilgili hangisi yanlıştır?",
+    "options": {
+      "A": "Isıya dayanıklı mikroorganizmaların üremesini ani soğutma ile önlemek",
+      "B": "Tüm mikroorganizmaları yok etmek",
+      "C": "Sütün doğal özelliklerine zarar vermemek",
+      "D": "Enzimlerin büyük kısmını etkisiz duruma getirmek"
+    },
+    "answer": "B"
+  },
+  "50": {
+    "question": "Fom kalitesi aşağıdakilerden hangisi ile değerlendirilmez?",
+    "options": {
+      "A": "Hacim.",
+      "B": "Renk.",
+      "C": "Kıvam.",
+      "D": "Dayanma süresi"
+    },
+    "answer": "B"
+  },
+  "51": {
+    "question": "Aşağıdakilerden hangisi oligosakkaritlerin hidrozilizi sonucu açığa çıkmaz?",
+    "options": {
+      "A": "Laktoz.",
+      "B": "Glukoz.",
+      "C": "Galaktoz.",
+      "D": "Laktaz"
+    },
+    "answer": "D"
+  },
+  "52": {
+    "question": "Aşağıdakilerden hangisi a-Laktalbuminin özelliklerinden değildir?",
+    "options": {
+      "A": "Serbest sülfidril grup içermez.",
+      "B": "4 adet disülfit bağı içerir.",
+      "C": "Fazla oranda sistin içerir.",
+      "D": "Çoklu molekülden oluşmuştur."
+    },
+    "answer": "D"
+  },
+  "53": {
+    "question": "Hedonik testin amacı nedir?",
+    "options": {
+      "A": "Mikroorganizma sayısını belirlemek.",
+      "B": "Besinin kimyasal yapısını analiz etmek",
+      "C": "Tüketici beğenisini ölçmek.",
+      "D": "Besinin raf ömrünü uzatmak"
+    },
+    "answer": "C"
+  },
+  "54": {
+    "question": "Aşağıdakilerden hangisi sütün bileşimini etkileyen faktörlerden biri değildir?",
+    "options": {
+      "A": "İneğin yaşı",
+      "B": "Mevsim değişiklikleri",
+      "C": "Beslenme durumu",
+      "D": "Sütün rengi"
+    },
+    "answer": "D"
+  },
+  "55": {
+    "question": "Aşağıdakilerden hangisi duyusal analizlerde kullanılan kalite test yöntemlerindendir?",
+    "options": {
+      "A": "İkili Üçlü Test (A-AB)",
+      "B": "Çok Örnekli Test",
+      "C": "Derecelendirme / Sıralama Testi.",
+      "D": "Üçgen Test (ABA)"
+    },
+    "answer": "C"
+  },
+  "56": {
+    "question": "Aşağıdakilerden hangisi yumurta akı proteinlerinden biridir?",
+    "options": {
+      "A": "Ovalbumin",
+      "B": "Vitellin.",
+      "C": "Livetin",
+      "D": "Fosvitin"
+    },
+    "answer": "A"
+  },
+  "57": {
+    "question": "Yumurta sarısı proteini olan fosvitin ile ilgili verilen bilgilerden hangisi doğrudur?",
+    "options": {
+      "A": "aside dayanıklıdır.",
+      "B": "Yüksek oranda sistein içerir.",
+      "C": "Proteinin %80’i fosfor’a bağlıdır.",
+      "D": "Fe taşıyıcı özelliği yoktur ."
+    },
+    "answer": "C"
+  },
+  "58": {
+    "question": "Süt karbonhidratları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": {
+      "A": "Laktozun tatlılığı sakkarozdan daha fazladır.",
+      "B": "Laktoz intoleransı olanlar için B-galaktosidaz eklenmiş sütler üretilir",
+      "C": "Esas karbonhidrat laktozdur",
+      "D": "Isıtılmış süt ürünlerinde laktuloz bulunur."
+    },
+    "answer": "A"
+  },
+  "59": {
+    "question": "Yumurta akı köpüğüne (fom) sertlik veren ve yapıda dengeyi sağlayan temel protein aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Globulinler",
+      "B": "Ovomusin",
+      "C": "Flavoprotein",
+      "D": "Lipovitellin"
+    },
+    "answer": "B"
+  },
+  "60": {
+    "question": "Aşağıdakilerden hangisi yumurta akı proteinlerinden biri değildir?",
+    "options": {
+      "A": "Ovalbumin.",
+      "B": "Ovomukoid.",
+      "C": "Fosvitin.",
+      "D": "Lizozim"
+    },
+    "answer": "C"
+  },
+  "61": {
+    "question": "Yumurta akındaki karbonhidratların büyük kısmını hangi bileşik oluşturur?",
+    "options": {
+      "A": "Fruktoz.",
+      "B": "Galaktoz.",
+      "C": "Glukoz.",
+      "D": "Laktoz"
+    },
+    "answer": "C"
+  },
+  "62": {
+    "question": "Yumurta akı proteinlerinin koagülasyon sıcaklığı aralığı nedir?",
+    "options": {
+      "A": "40–50 °C",
+      "B": "52–60 °C",
+      "C": "65–70 °C",
+      "D": "80–90 °C"
+    },
+    "answer": "B"
+  },
+  "63": {
+    "question": "Hedonik testin amacı nedir?",
+    "options": {
+      "A": "Kimyasal analiz yapmak.",
+      "B": "Mikroorganizma saymak",
+      "C": "Tüketici beğenisini ölçmek.",
+      "D": "Protein miktarını belirlemek"
+    },
+    "answer": "C"
+  },
+  "64": {
+    "question": "Yumurtanın yapısı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": {
+      "A": "Yumurta kabuğu toplam ağırlığın yaklaşık %8–11’ini oluşturur.",
+      "B": "Yumurta sarısı, proteinden daha çok yağ içerir.",
+      "C": "Yumurta akı, yağ bakımından zengindir.",
+      "D": "Yumurta akı toplam ağırlığın en büyük kısmını oluşturur."
+    },
+    "answer": "C"
+  },
+  "65": {
+    "question": "Sütün bileşimine etki eden faktörler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": {
+      "A": "İneğin genetik yapısı.",
+      "B": "Mevsim değişiklikleri",
+      "C": "Sütün depolandığı kabın rengi.",
+      "D": "Beslenme durumu"
+    },
+    "answer": "C"
+  },
+  "66": {
+    "question": "Yüksek ısı etkisiyle kazein partiküllerinin dengesi bozulduğunda ne oluşur?",
+    "options": {
+      "A": "Yağ tabakası.",
+      "B": "Pıhtı.",
+      "C": "Şeker.",
+      "D": "Gaz çıkışı"
+    },
+    "answer": "B"
+  },
+  "67": {
+    "question": "Isıya bağlı olarak süt asiditesinde nasıl bir değişim gözlenir?",
+    "options": {
+      "A": "Değişmez.",
+      "B": "Azalır.",
+      "C": "Artar.",
+      "D": "Nörtleşir"
+    },
+    "answer": "C"
+  },
+  "68": {
+    "question": "Bir beslenme ve diyetetik öğrencisi, yeni geliştirilen bir meyve bar ürününü değerlendirecek panel odasını hazırlayan ekiple birlikte çalışmaktadır.\nAşağıdakilerden hangisi panel odası hazırlanırken yanlış bir uygulama olur?",
+    "options": {
+      "A": "Panel odasının doğal aydınlatmalı ve nötral tonlarda olması",
+      "B": "Panelistlere tat, doku, aroma gibi özellikleri puanlayabilecekleri değerlendirme formları verilmesi",
+      "C": "Panelistlerin birbiriyle tartışma ve fikir alışverişi yapması",
+      "D": "Sunulacak örneklerin aynı miktar ve kaplarda sunulması"
+    },
+    "answer": "C"
+  },
+  "69": {
+    "question": "Hangisi sütü pastörize etmenin amaçlarından biri değildir?",
+    "options": {
+      "A": "Patojen mikroorganizmaları öldürmek",
+      "B": "Sütün içindeki laktozu azaltmak",
+      "C": "Vejaktif mikroorganizmaları yok etmek",
+      "D": "Enzimlerin büyük kısmını etkisiz duruma getirmek"
+    },
+    "answer": "B"
+  },
+  "70": {
+    "question": "Aşağıdakilerden hangisi yumurtanın işlevsel özelliklerinden değildir ?",
+    "options": {
+      "A": "Köpük oluşturma-fom.",
+      "B": "Kabartma ajanı",
+      "C": "Asit düzenleyici.",
+      "D": "Kalınlaştırıcı"
+    },
+    "answer": "C"
+  },
+  "71": {
+    "question": "Aşağıdakilerden hangisi yumurtanın koagülasyonu ve koyulaştırıcı etkisinde jel yapıyı etkileyen etmenlerden biri değildir ?",
+    "options": {
+      "A": "protein konsantrasyonu.",
+      "B": "ortamın Ph",
+      "C": "Denatürasyon şiddeti.",
+      "D": "Renk"
+    },
+    "answer": "D"
+  },
+  "72": {
+    "question": "Bir deneyde yumurta akı yüksek hızda uzun süre çırpılmış ve köpük hacmi çok artmış ancak bir süre sonra köpük sulu hale gelip çökmüştür. Bu durum aşağıdakilerden hangisini gösterir?",
+    "options": {
+      "A": "Yumurta proteinleri hiç denatüre olmamıştır",
+      "B": "Köpük oluşumu için globulinler yetersizdir",
+      "C": "Aşırı çırpma sonucu protein ağ yapısı bozulmuştur",
+      "D": "Yumurta sarısı karıştığı için emülsiyon oluşmuştur"
+    },
+    "answer": "C"
+  },
+  "73": {
+    "question": "Yumurta akındaki lizozim (Ovoglobulin G1) için aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Molekül ağırlığı yaklaşık 30.000–45.000 daltondur",
+      "B": "İzolektrik noktası yaklaşık 10.7’dir ve antibakteriyel etki gösterir",
+      "C": "Suda çözünmez ve fibriller yapıdadır",
+      "D": "Köpük oluşumunda temel rol oynayan proteindir"
+    },
+    "answer": "B"
+  },
+  "74": {
+    "question": "Aşağıdakilerden hangisi kaliteli besinler için yanlış bir ifadedir?",
+    "options": {
+      "A": "besin değerini yitirmemiş.",
+      "B": "temizlik yönünden güvenilir olan",
+      "C": "görünüş ve iştaha etkisi olan",
+      "D": "sadece satıcının yararını sağlamak amacıyla satılan besinlerdir"
+    },
+    "answer": "D"
+  },
+  "75": {
+    "question": "Aşağıdakilerden hangisi duyusal analizlerin gıda sanayinde uygulama alanlarından değildir?",
+    "options": {
+      "A": "ürün geliştirme.",
+      "B": "ürünleri karşılaştırma",
+      "C": "mikrobiyolojik analizler.",
+      "D": "standartların yapılması"
+    },
+    "answer": "C"
+  },
+  "76": {
+    "question": "Aşağıdakilerin hangisi sütün whey proteinlerinden biridir?",
+    "options": {
+      "A": "immunoglobulinler.",
+      "B": "nişasta.",
+      "C": "b kazein.",
+      "D": "neurominik asit"
+    },
+    "answer": "A"
+  },
+  "77": {
+    "question": "B – laktoglobulinler için hangisi yanlıştır?",
+    "options": {
+      "A": "birbirine benzer iki molekülden oluşur.",
+      "B": "4 adet düsilfit bağı içerir",
+      "C": "monomer moleküllerdir.",
+      "D": "molekül ağırlı 18.000"
+    },
+    "answer": "B"
+  },
+  "78": {
+    "question": "Aşağıdakilerden hangisi  ovomusin özelliklerinden biridir?",
+    "options": {
+      "A": "suda erimez ve ısıya dayanıklıdır",
+      "B": "enzim olarak işlev görür",
+      "C": "29 aa residue içerir.",
+      "D": "gram+ bakterilerinin hücre duvarlarının hidroliz eder"
+    },
+    "answer": "A"
+  },
+  "79": {
+    "question": "Aşağıdakilerden hangisi yumurtanın işlevsel özelliklerinden biri değildir?",
+    "options": {
+      "A": "kabartma ajanı.",
+      "B": "nem verici ve renklendirici",
+      "C": "kaplama materyali.",
+      "D": "yumurta sarısı demirden ve fosfordan zengindir"
+    },
+    "answer": "D"
+  },
+  "80": {
+    "question": "Aşağıdakilerden hangisi kalite testlerinden değildir?",
+    "options": {
+      "A": "derecelendirme",
+      "B": "Puanlandırma.",
+      "C": "hedonik skala.",
+      "D": "Üçgen test"
+    },
+    "answer": "D"
+  },
+  "81": {
+    "question": "Aşağıdakilerden hangisi yumurta akındaki proteinlerden değil?",
+    "options": {
+      "A": "Ovalbumin.",
+      "B": "Konalbumin.",
+      "C": "Ovomukoid.",
+      "D": "Fosvitin"
+    },
+    "answer": "D"
+  },
+  "82": {
+    "question": "Yumurta akında bulunan; biyotini bağlayan, tuzlu çözeltilerde çözünebilen ve antibakteriyel özellik gösteren protein aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Ovomusin.",
+      "B": "Lizozim.",
+      "C": "Avidin.",
+      "D": "Konalbumin"
+    },
+    "answer": "C"
+  },
+  "83": {
+    "question": "Beslenme ve diyetetik okuyan bir öğrenci, besin kimyası ve analizleri dersi laboratuvarında yumurtanın içine hava kabarcıklarının girmesini sağlayarak bir yapı oluşturmuştur. Bu yapı, yumurtanın hangi işlevsel özelliği kullanılarak yapılmıştır?",
+    "options": {
+      "A": "Nem verici.",
+      "B": "Renklendirici.",
+      "C": "Kaplama.",
+      "D": "Köpük (foam) oluşumu"
+    },
+    "answer": "D"
+  },
+  "84": {
+    "question": "Duyusal analizlere katılan panelistlerin özellikleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Çok aç veya çok tok olmamalı",
+      "B": "Sigara kullanımı panel sonuçlarını etkilemez",
+      "C": "Panelistlerin bir besine duyarlılığı olması sorun oluşturmaz",
+      "D": "Tat ve koku duyusunun gelişmiş olması gerekli değildir"
+    },
+    "answer": "A"
+  },
+  "85": {
+    "question": "Duyusal analizlerde tüketicilerin beğeni ve tercih durumlarını değerlendirmek için kullanılan test yöntemi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Hedonik testi.",
+      "B": "Trio testi.",
+      "C": "Üçgen testi.",
+      "D": "Çift yönlü ayrım testi"
+    },
+    "answer": "A"
+  },
+  "86": {
+    "question": "Standart paneliste niteliklerini tanıtmak amacıyla birçok kez sunulur ve panelistin belleğine yerleştirilir. Standarttan sonra örnek sunulur ve panelistten A gibi veya A gibi değil yanıtı alınır\nYukarıda ki öncülere bakarak aşağıdakilerden hangisi duyusal analiz de kullanılan test yöntemidir?",
+    "options": {
+      "A": "Tek uyarı testi.",
+      "B": "Üçgen test.",
+      "C": "Çok örnekli test.",
+      "D": "Tanımlayıcı test"
+    },
+    "answer": "A"
+  },
+  "87": {
+    "question": "Aşağıdakilerden hangisi ideal panel odasının özelliklerinden değildir?",
+    "options": {
+      "A": "Hijyen kurallarına dikkat edilmeye gerek yoktur.",
+      "B": "Aydınlık olmalı",
+      "C": "Duvar rengi iyi seçilmiş olmalı.",
+      "D": "Sesiz olmalı"
+    },
+    "answer": "A"
+  },
+  "88": {
+    "question": "Süt proteinlerinden olan whey proteinleri formatlarından değildir?",
+    "options": {
+      "A": "İmmunoglobulinler.",
+      "B": "Serum Albumin.",
+      "C": "Peptonlar.",
+      "D": "a ve b kazein"
+    },
+    "answer": "D"
+  },
+  "89": {
+    "question": "Sütte bulunan vitaminlerle ilgili hangisi yanlıştır?",
+    "options": {
+      "A": "Riboflavin içeriği yüksektir.",
+      "B": "B12, A vitamini de içerir.",
+      "C": "En kısıtlı olduğu vitaminler; C vitamini, tiamin.",
+      "D": "Na içerir"
+    },
+    "answer": "D"
+  },
+  "90": {
+    "question": "Aşağıdakilerden hangisi yumurta akının yapısında bulunmaz?",
+    "options": {
+      "A": "Vitellenin",
+      "B": "Ovomakroglobulin.",
+      "C": "Ovoglikoprotein.",
+      "D": "Konalbumin"
+    },
+    "answer": "A"
+  },
+  "91": {
+    "question": "Yumurta sarısı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": {
+      "A": "Yemin bileşime eklenerek yumurta sarısının rengi istenen şekilde ayarlanamaz",
+      "B": "Yumurta sarısı A vitamini ve B vitaminlerden (B2, B6,B12) zengindir",
+      "C": "Yumurta sarısı demir ve fosfordan zengindir.",
+      "D": "Taze yumurtada pH= 6.0, Depolama esnasında pH= 6.4 - 6.9"
+    },
+    "answer": "A"
+  },
+  "92": {
+    "question": "Aşağıdakilerden hangisi süt proteinlerinden kazeinin özelliğidir?",
+    "options": {
+      "A": "Sulu ortamda dağılma özellikleri fazladır",
+      "B": "Moleküle amfipatik (suyu seven+sevmeyen) özellik kazandırır",
+      "C": "Amfefelik karakterleri yoktur",
+      "D": "Globüler (sıkı yumak) yapıya sahiptir"
+    },
+    "answer": "B"
+  },
+  "93": {
+    "question": "Aşağıdakilerden hangisi duyusal analizlerde kullanılan kalite testlerinden değildir?",
+    "options": {
+      "A": "Derecelendirme /sıralama testi.",
+      "B": "Puanlama testi",
+      "C": "Tanımlayıcı test.",
+      "D": "Çok örnekli test"
+    },
+    "answer": "D"
+  },
+  "94": {
+    "question": "Duyusal analizlere katılan panelistlerin özellikleri nelerdir?",
+    "options": {
+      "A": "Sağlıklı olmalı.",
+      "B": "Çok aç veya çok tok olmamalı",
+      "C": "Sigara içmeli.",
+      "D": "Bir besine duyarlılığı veya intoleransı olmamalı"
+    },
+    "answer": "C"
+  },
+  "95": {
+    "question": "Aşağıdakilerden hangisi yumurtanın kalitesini etkileyen üretim etmenleri yanlıştır ?",
+    "options": {
+      "A": "Beslenmesi Ölçü Renk Bileşim",
+      "B": "Soyu.",
+      "C": "Yaşı.",
+      "D": "Rengi"
+    },
+    "answer": "D"
+  },
+  "96": {
+    "question": "Yumurta akı proteinlerinin koagülasyon sıcaklığı kaçtır?",
+    "options": {
+      "A": "40–50°C",
+      "B": "52–60°C",
+      "C": "65–70°C",
+      "D": "70–80°C"
+    },
+    "answer": "B"
+  },
+  "97": {
+    "question": "Aşağıdakilerden hangisi Pastörizasyonun amaçlarından biri değilidir?",
+    "options": {
+      "A": "Enzimlerin büyük kısmını etkisiz hale getirmek",
+      "B": "Patojen mikroorganizmaları korumak",
+      "C": "Sütün doğal özelliklerine zarar vermemek",
+      "D": "Isıya dayanıklı mikroorganizmaların üremesini ani soğutma ile önlemek"
+    },
+    "answer": "B"
+  },
+  "98": {
+    "question": "Temiz,besin değerini yitirmemiş,görünüş ve iştah üzerine olumlu etkisi olan besinler nasıl adlandırılır?",
+    "options": {
+      "A": "İşlenmiş besin.",
+      "B": "Yeni besin.",
+      "C": "İşlenmemiş besin.",
+      "D": "Kaliteli besin"
+    },
+    "answer": "D"
+  },
+  "99": {
+    "question": "İdeal panel odasının özelliklerinden değildir?",
+    "options": {
+      "A": "Kişiler birbirinden veya örnekleri servis eden kişilerden etkilenmeyecek şekilde\nOturtabilmelidir.",
+      "B": "temiz ve sessiz olmalı",
+      "C": "havalandırılmış ve güzel kokulu olmalı",
+      "D": "duvar rengi iyi seçilmiş olmalı"
+    },
+    "answer": "C"
+  },
+  "100": {
+    "question": "Yumurta akı proteinlerinin form oluşmasında forma sertlik veren ve fonda dengeyi sağlayan protein hangisidir?",
+    "options": {
+      "A": "ovomusin.",
+      "B": "ovamukoid.",
+      "C": "globulinler.",
+      "D": "lizozim"
+    },
+    "answer": "A"
+  },
+  "101": {
+    "question": "Besin kalitesinin değerlendirilmesinde kullanılan yöntemlerde duyusal analiz neye ayrılır ?",
+    "options": {
+      "A": "Kimyasal ve fiziksel değerlendirme",
+      "B": "Mikrobiyolojik ve biyokimyasal analiz",
+      "C": "Tat ve koku analiz",
+      "D": "Objektif ve subjektif değerlendirme"
+    },
+    "answer": "D"
+  },
+  "102": {
+    "question": "Duyusal analizlerin gıda sanayisinde uygulama alanları aşağıdakilerden hangileridir ?",
+    "options": {
+      "A": "sadece ürün karşılaştırma",
+      "B": "Sadece kimyasal analizler",
+      "C": "Standartların yapılması , kalite kontrol faaliyetleri , ürün geliştirme",
+      "D": "Paketleme yapmak için"
+    },
+    "answer": "C"
+  },
+  "103": {
+    "question": "Aşağıdaki süt türlerinden hangisi diğerlerinden daha yüksek yağ oranına sahiptir ?",
+    "options": {
+      "A": "Koyun sütü.",
+      "B": "Keçi sütü.",
+      "C": "Manda sütü",
+      "D": "İnek sütü"
+    },
+    "answer": "A"
+  },
+  "104": {
+    "question": "Süt karbonhidratları ile ilgili Maillard reaksiyonu hakkında aşağıdakilerden hangisi doğrudur ?",
+    "options": {
+      "A": "Hafif bir ısı uygulamasında gözle görülemez",
+      "B": "Lizin amino grubu ile laktozun aldehit grubu reaksiyona girdiğinde oluşur",
+      "C": "Depolama sırasında reaksiyon ilerlemeye devam etmez",
+      "D": "Renkte değişme yaratmaz ve ısının şiddetine bağlı değildir"
+    },
+    "answer": "B"
+  },
+  "105": {
+    "question": "Kazein kalsiyum fosfatla birlikte ……………… adı verilen küresel bir yapı halinde bulunur.",
+    "options": {
+      "A": "Vitamin.",
+      "B": "Laktoz.",
+      "C": "Misel",
+      "D": "Protein zinciri"
+    },
+    "answer": "C"
+  },
+  "106": {
+    "question": "Kazeinlerin amfoterlik özelliği nedir?",
+    "options": {
+      "A": "Ortamın pH’sına bağlı olarak hem asit hem baz ile reaksiyona girebilmesi",
+      "B": "Sadece asitle reaksiyona girmesi",
+      "C": "Sadece baz ile reaksiyona girmesi",
+      "D": "Reaksiyona hiç girmemesi"
+    },
+    "answer": "A"
+  },
+  "107": {
+    "question": "Yumurtada kaç tane fom işlemi oluşur ve aşağıda numaralandırılmış olan fom çeşitlerinden hangileridir?",
+    "options": {
+      "A": "1tane oluşur,\n1 ve 4",
+      "B": "6tane oluşur, hepsi",
+      "C": "Yumurtada fom oluşmaz",
+      "D": "5 tane oluşur 1,\n2,\n3,\n5 ve 6"
+    },
+    "answer": "B",
+    "notes": "1-Sert fom\n4-Yumuşak fom\n2-Kuru fom\n5-Aşırı çırpılmış fom\n3-Sert ıslak görünümlü fom\n6-Hafif çırpılmış fom"
+  },
+  "108": {
+    "question": "Süt proteinlerinde aşağıda verilen bilgilerden hangisi kazeinin özelliklerindendir?",
+    "options": {
+      "A": "Gevşek yapıda emülsiyon olaylarında kazeinin kolayca iki yüzey arasına geçmesini kolaylaştırır",
+      "B": "Birbirine benzer iki molekülden oluşur",
+      "C": "Sulu ortamda dağılma özellikleri fazladır",
+      "D": "Her misel 10000 kadar kazein içerir"
+    },
+    "answer": "A"
+  },
+  "109": {
+    "question": "Bir panelde paneliste aynı anda iki örnek sunulmuş ve ilk olarak bir referans noktası örneği verilio diğer örnekle kodlama yapılması istenmiştir. Bu test grubu farklılaşma testlerinden hangisine örnektir?",
+    "options": {
+      "A": "tek uyarı.",
+      "B": "çift uyarı.",
+      "C": "ikili üçlü.",
+      "D": "çok örnekli"
+    },
+    "answer": "B"
+  },
+  "110": {
+    "question": "Süt proteinlerinden olan whey proteinleri kendi arasında sınıflandırılmaktadır Hangisi bu sınıflandırma içerisinde yer almaz ?",
+    "options": {
+      "A": "beta lactoglobulin.",
+      "B": "kazein.",
+      "C": "alpha lactalbumin.",
+      "D": "serum albumin"
+    },
+    "answer": "B"
+  },
+  "111": {
+    "question": "Sütün ozmotik basıncının kanın ozmotik basıncı ile dengede kalmasını sağlayan temel bileşen çifti hangisidir?",
+    "options": {
+      "A": "laktoz ve klorür.",
+      "B": "albumin ve magnezyum",
+      "C": "vitaminler ve yağlar.",
+      "D": "kazein ve kalsiyum"
+    },
+    "answer": "A"
+  },
+  "112": {
+    "question": "Süte uygulanan ısıl işlem sırasında şeker ve proteinler arasında gerçekleşen esmerleşme reaksiyonu nedir ?",
+    "options": {
+      "A": "oksidasyon.",
+      "B": "Maillard Reaksiyonu.",
+      "C": "Koagülasyon.",
+      "D": "lipoliz"
+    },
+    "answer": "B"
+  },
+  "113": {
+    "question": "Peynir üretiminde kazein misellerinin destabilize edilerek pıhtı oluşturması sürecine ne ad verilir?",
+    "options": {
+      "A": "pastörizasyon.",
+      "B": "enzimatik Koagülasyon",
+      "C": "homojenizasyon.",
+      "D": "emülsifikasyon"
+    },
+    "answer": "B"
+  },
+  "114": {
+    "question": "UHT işlemi uygulanmış sütlerin oda sıcaklığında bozulmadan saklanabilmesini sağlayan teknik nedir?",
+    "options": {
+      "A": "modifiye atmosfer.",
+      "B": "Aseptik Ambalajlama",
+      "C": "temizasyon.",
+      "D": "vakum paketleme"
+    },
+    "answer": "B"
+  },
+  "115": {
+    "question": "Sütün donma noktasının sad sudan daha düşük olmasının temel sebebi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "hava kabarcıkları.",
+      "B": "kazein mideleri",
+      "C": "yağ globülleri.",
+      "D": "çözünmüş maddeler"
+    },
+    "answer": "D"
+  },
+  "116": {
+    "question": "Çiğ yumurta akı tüketiminde biyotin vitamininin emilimini engelleyerek besinsel eksikliğe yol açan protein hangisidir?",
+    "options": {
+      "A": "ovalbumin.",
+      "B": "lizozim.",
+      "C": "avidin.",
+      "D": "ovamukoid"
+    },
+    "answer": "C"
+  },
+  "117": {
+    "question": "Yumurta sarısının sahip olduğu yüksek emülsifiye edici özelliğin ve yüksek demir bağlama kapasitesinin temelini oluşturan proteinler sırasıyla hangileridir?",
+    "options": {
+      "A": "Ovomusin ve lizozim",
+      "B": "Livetin ve vitellenin",
+      "C": "ovalbumin ve avidin.",
+      "D": "lipovitellin ve fosvitin"
+    },
+    "answer": "D"
+  },
+  "118": {
+    "question": "Tazeliğini kaybetmiş bir yumurtanın su dolu bir kapta dibe çökmeyip yüzeyde kalmasının fiziksel sebebi nedir?",
+    "options": {
+      "A": "hava boşluğunun büyümesi.",
+      "B": "Akın sulanması",
+      "C": "Vitelin zarının zayıflaması.",
+      "D": "şalazanın kopması"
+    },
+    "answer": "A"
+  },
+  "119": {
+    "question": "Yumurta akındaki karbonhidratlarla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": {
+      "A": "Tamamı serbest halde bulunur.",
+      "B": "Büyük kısmı proteine bağlıdır",
+      "C": "Sadece fruktozdan oluşur.",
+      "D": "Oranı %10’dan fazladır"
+    },
+    "answer": "B"
+  },
+  "120": {
+    "question": "Yumurta akı proteinlerinden hangisi köpüğe yapı kazandırarak stabiliteyi artırır?",
+    "options": {
+      "A": "Ovalbumin.",
+      "B": "Lizozim.",
+      "C": "Ovomusin.",
+      "D": "Avidin"
+    },
+    "answer": "C"
+  },
+  "121": {
+    "question": "Sütte bulunan temel karbonhidrat aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Glikoz.",
+      "B": "Fruktoz.",
+      "C": "Laktoz.",
+      "D": "Sakkaroz"
+    },
+    "answer": "C"
+  },
+  "122": {
+    "question": "Yumurta akının köpük (fom) oluşturma kapasitesi yumurta sarısına göre daha yüksektir. Bunun temel nedenlerinden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Yüksek yağ içeriğine sahip olması",
+      "B": "Proteinlerinin düşük yüzey gerilimi oluşturması",
+      "C": "Daha yüksek karbonhidrat içermesi",
+      "D": "Mineral içeriğinin fazla olması"
+    },
+    "answer": "B"
+  },
+  "123": {
+    "question": "Aşağıdakilerden hangisi fom kalitesinin değerlendirilmesinde kullanılan ölçütlerden biri değildir?",
+    "options": {
+      "A": "Hacim.",
+      "B": "Kıvam.",
+      "C": "Dayanma süresi.",
+      "D": "Renk"
+    },
+    "answer": "D"
+  },
+  "124": {
+    "question": "Sütün pastörize edilmesinin temel amaçları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": {
+      "A": "Patojen mikroorganizmaları öldürmek",
+      "B": "Sütün doğal özelliklerine zarar vermeden enzimlerin büyük kısmını etkisiz hale getirmek",
+      "C": "Sütü sporlu ve sporsuz tüm mikroorganizmalardan tamamen arındırarak steril hale getirmek",
+      "D": "Tat ve koku bozukluklarına yol açan vejetatif mikroorganizmaları yok etmek"
+    },
+    "answer": "C"
+  },
+  "125": {
+    "question": "Aşağıdakilerden hangisi Sütün Bileşimine Etki Eden Etmenlerden değildir ?",
+    "options": {
+      "A": "yaş.",
+      "B": "ırk.",
+      "C": "kalıtım.",
+      "D": "hayvanın tüy rengi"
+    },
+    "answer": "D"
+  },
+  "126": {
+    "question": "Aşağıdakilerden hangisi Pastörizasyonun Amaçlarından biri değildir?",
+    "options": {
+      "A": "Patojen mikrorganizmaları öldürmek",
+      "B": "Yapı, tat, koku bozukluklarına yol açan vejetatif mikrorganizmaları yok etmek",
+      "C": "Sütün doğal özelliklerine zarar vermemek",
+      "D": "Sütün besin değerini ve vitaminlerini tamamen ortadan kaldırmak"
+    },
+    "answer": "D"
+  },
+  "127": {
+    "question": "Aşağıdakilerden hangisi ekmeğin retrogradasyonunu kolaylaştıran etkenlerden biri değildir?",
+    "options": {
+      "A": "Nötral PH.",
+      "B": "Sıcaklığın düşük olması",
+      "C": "Düşük amiloz konsantrasyonu.",
+      "D": "Emülsiye edici madde yokluğu"
+    },
+    "answer": "C"
+  },
+  "128": {
+    "question": "Aşağıdakilerden hangisi gliadinin(Prolamin)özelliklerinden biri değildir?",
+    "options": {
+      "A": "Yalnızca tahıl tohumlarında bulunur",
+      "B": "Bileşiminde prolin ve glutamik asit vardır",
+      "C": "Saf suda çözünür",
+      "D": "%70-80’lik alkolde çözünür"
+    },
+    "answer": "C"
+  },
+  "129": {
+    "question": "Mısır ekmeğinin buğday ekmeğine göre daha kolay ufalanmasının temel sebebi nedir?",
+    "options": {
+      "A": "Çok fazla yağ içermesi",
+      "B": "Gluten ağ yapısının oluşmaması",
+      "C": "Nişasta oranının buğdaydan çok daha düşük olması",
+      "D": "Pişirme süresinin çok kısa tutulması"
+    },
+    "answer": "B"
+  },
+  "130": {
+    "question": "Aşağıdaki durumlardan hangisi ekmeğin daha kolay bayatlamasına neden olur?",
+    "options": {
+      "A": "Düşük amiloz içeriği.",
+      "B": "Yüksek nem",
+      "C": "Yüksek amiloz içeriği.",
+      "D": "Yüksek sıcaklıkta saklama"
+    },
+    "answer": "C"
+  },
+  "131": {
+    "question": "Insan beslenmesinde en fazla paya sahip olan tahıl ürünü hangisidir?",
+    "options": {
+      "A": "mısır.",
+      "B": "buğday.",
+      "C": "pirinç.",
+      "D": "yulaf"
+    },
+    "answer": "B"
+  },
+  "132": {
+    "question": "Ekmek yapımında daha çok kullanılan tahıl ürünü hangisidir ?",
+    "options": {
+      "A": "Çavdar.",
+      "B": "Arpa.",
+      "C": "Buğday.",
+      "D": "Yulaf"
+    },
+    "answer": "A"
+  },
+  "133": {
+    "question": "Buğday tanesinin hangi bölümü nişasta ve proteinden zengindir?",
+    "options": {
+      "A": "Kabuk.",
+      "B": "Kepek.",
+      "C": "Endossperm",
+      "D": "Embriyo"
+    },
+    "answer": "C"
+  },
+  "134": {
+    "question": "Aşağıdakilerden hangisi hamur oluşumunda bulunan giliadin proteinin özelliklerinden değildir?",
+    "options": {
+      "A": "Hamurun uzayabilirliğine katkı sağlar",
+      "B": "Hamurun elastikiyetine katkıda bulunur .",
+      "C": "Asit ,baz ve hidrojen bağları içerir",
+      "D": "Lipitlerle kompleks halinde bulunur"
+    },
+    "answer": "D"
+  },
+  "135": {
+    "question": "Bir pancake uygulamasında hamurun çok fazla karıştırılması sonuç ürünün dokusunda nasıl bir değişikliğe yol açar?",
+    "options": {
+      "A": "Ürün daha yumuşak ve gözenekli olur.",
+      "B": "Gluten fazla geliştiği için ürün sert ve lastiksi bir doku alır.",
+      "C": "Ürünün rengi daha açık olur.",
+      "D": "Kabarma miktarı maksimuma ulaşır."
+    },
+    "answer": "B"
+  },
+  "136": {
+    "question": "Aşağıdakilerden hangisi retrogradasyon işlemini kolaylaştıran etmenlerden biridir?",
+    "options": {
+      "A": "Emülsiye edici madde varlığı",
+      "B": "Nişastanın düşük amiloz konsantrasyonu",
+      "C": "Yüksek sıcaklık",
+      "D": "Nötral pH ve nişastanın yüksek amiloz konsantrasyonu"
+    },
+    "answer": "D"
+  },
+  "137": {
+    "question": "Ekmek hamurunda biyolojik kabartıcı olarak kullanılan mayanın çalıştığı optimum sıcaklık aralığı nedir?",
+    "options": {
+      "A": "7 – 10°C.",
+      "B": "40 – 50°C",
+      "C": "100 – 120°C.",
+      "D": "27 – 30°C"
+    },
+    "answer": "D"
+  },
+  "138": {
+    "question": "Hamur yapımında gluten kompleksini oluşturan iki protein grubu aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Avenin ve Oryzin.",
+      "B": "Peptidler ve Aminoasitler",
+      "C": "Gliadin ve Glutenin.",
+      "D": "Albumin ve Globulin"
+    },
+    "answer": "C"
+  },
+  "139": {
+    "question": "Mayalar, hangi maddenin varlığında karbondioksit gazı oluşturarak hamuru kabartır?",
+    "options": {
+      "A": "yağ.",
+      "B": "şeker.",
+      "C": "tuz.",
+      "D": "krem tartar"
+    },
+    "answer": "B"
+  },
+  "140": {
+    "question": "Hamur hazırlarken ortama süt eklenmesi, hamurun asitlik derecesini nasıl etkiler?",
+    "options": {
+      "A": "pH’ın aşırı asit olmasını önler.",
+      "B": "pH değerini hızla düşürür.",
+      "C": "Hamuru sadece bazik yapar.",
+      "D": "pH üzerinde etkisi yoktur."
+    },
+    "answer": "A"
+  },
+  "141": {
+    "question": "Bir ekmek üretiminde hamura fazla miktarda şeker eklenmiştir.\nBu durum aşağıdakilerden hangisine neden olur?",
+    "options": {
+      "A": "Şekerin gluten oluşumunu artırması",
+      "B": "Şekerin mayanın üremesini engellemesi",
+      "C": "Şekerin hamurun elastikiyetini artırması",
+      "D": "Şekerin pH’ı yükseltmesi"
+    },
+    "answer": "B"
+  },
+  "142": {
+    "question": "Ekmek pişirilirken düşük sıcaklıkta ne olur?",
+    "options": {
+      "A": "Kabuk hızlı oluşur.",
+      "B": "Ekmek çöker",
+      "C": "Hacim artar.",
+      "D": "Gluten yok olur"
+    },
+    "answer": "B"
+  },
+  "143": {
+    "question": "Yağın hamur üzerindeki etkisi nedir?",
+    "options": {
+      "A": "Sertliği artırır.",
+      "B": "Elastikiyeti artırır",
+      "C": "Mayayı öldürür.",
+      "D": "pH düşürür"
+    },
+    "answer": "B"
+  },
+  "144": {
+    "question": "Mısır unuyla yapılan ekmek ile buğday unuyla yapılan ekmek karşılaştırıldığında Mısır unuyla yapılan ekmeğin kolay ufalandığı ,sert bir yapıya sahip olduğu ve kabarmadığı gözlenmiştir. Mısır ekmeğinde görülen bu yapısal farklılıkların temel sebebi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Mısır unundaki nişasta oranının buğday ununa göre çok daha yüksek olması",
+      "B": "Mısır ununda esnek bir gluten ağı oluşturacak yeterli miktarda “gliadin” bulunmaması",
+      "C": "Mısır ununun pişme sırasında suyu buğday unundan daha hızlı hapsetmesi",
+      "D": "Mısır ekmeği hamurunun mayalanma sırasında daha fazla karbondioksit üretmesi"
+    },
+    "answer": "B"
+  },
+  "145": {
+    "question": "Aşağıdakilerden hangisi ekmeğin pişirilmesi sırasında fırın sıcaklığının çok düşük ya da çok yüksek olması sonucunda ortaya çıkabilecek durumlardan biri değildir?",
+    "options": {
+      "A": "Fırın sıcaklığı çok yüksek olduğunda ekmek iç hacmini tamamlamadan yüzeyde kabuk oluşabilir.",
+      "B": "Fırın sıcaklığı düşük olduğunda nişasta jelatinizasyonu ve protein koagülasyonu gecikebilir.",
+      "C": "Düşük sıcaklıkta iç yapı yeterince sabitlenemediği için gaz kaybı yaşanabilir ve ekmek çökmeye eğilim gösterebilir.",
+      "D": "Çok yüksek sıcaklıkta iç kısım hızlıca sabitlendiği için ekmeğin hacmi artar ve gözenek yapısı düzenli olur."
+    },
+    "answer": "D"
+  },
+  "146": {
+    "question": "Aşağıdakilerden hangisi tahıl proteinlerinden biri olan gliadinin özelliklerinden biridir?",
+    "options": {
+      "A": "Bileşimlerinde  büyük miktarda prolin, glutamik asit vardır.",
+      "B": "% 70-80’lik alkolde çözünmezler.",
+      "C": "Tahıl tohumlarında bulunmaz.",
+      "D": "Bileşimlerinde lizin çok bulunur."
+    },
+    "answer": "A"
+  },
+  "147": {
+    "question": "Aşağıdakilerden hangisi ekmek pişirilmesi sırasında gerçekleşen olaylardan biridir?",
+    "options": {
+      "A": "Glutenin içindeki gaz hücreleri küçülür.",
+      "B": "Nişasta granülleri sertleşir ve esnekliği azalır.",
+      "C": "Glutenin içindeki gaz hücreleri genişler.",
+      "D": "Granüller birbirinden uzaklaşır."
+    },
+    "answer": "C"
+  },
+  "148": {
+    "question": "Panelist seçimi kriterlerine göre, aşağıdakilerden hangisi bir panelistin değerlendirme yeteneğini doğrudan olumsuz etkilemez?",
+    "options": {
+      "A": "Aşırı açlık veya tokluk.",
+      "B": "Sigara içmek",
+      "C": "Cinsiyet.",
+      "D": "Besin intoleransı"
+    },
+    "answer": "C"
+  },
+  "149": {
+    "question": "Aşağıdakilerden hangisi materyalde belirtilen \"Kaliteli Besin\" tanımlarından birine uymaz?",
+    "options": {
+      "A": "Görünüşü iştah üzerinde olumsuz etki yapan besin",
+      "B": "Sindirimi engelleyici etmenlerden uzak olan besin",
+      "C": "Besin değerini yitirmemiş olan besin",
+      "D": "Temizlik yönünden güvenilir olan besin"
+    },
+    "answer": "A"
+  },
+  "150": {
+    "question": "Süt karbonhidratı olan laktozun özellikleri hakkında verilen bilgilerden hangisi doğrudur?",
+    "options": {
+      "A": "Çözünürlüğü diğer karbonhidratlardan daha yüksektir.",
+      "B": "Isıtıldığında doğrudan glikoza dönüşür.",
+      "C": "Tatlılık derecesi fruktoz ve glikozdan daha azdır.",
+      "D": "Sütteki proteinlerle reaksiyona girmez."
+    },
+    "answer": "C"
+  },
+  "151": {
+    "question": "Kazein misel yapısında, agregasyonu önleyerek yapının stabilitesini sağlayan kazein türü ve konumu hangisidir?",
+    "options": {
+      "A": "Miselin merkezinde bulunan alfa-kazein",
+      "B": "Submisellerin içinde hapsolmuş beta-kazein",
+      "C": "Çözünmüş halde bulunan gamma-kazein",
+      "D": "Miselin dış kısmına yerleşen kappa-kazein"
+    },
+    "answer": "D"
+  },
+  "152": {
+    "question": "Yumurta akı proteinlerinden biri olan 'Avidin'in beslenme açısından en önemli özelliği aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Biyotini bağlayarak onun emilimini engeller.",
+      "B": "Demiri bağlayarak bakterilerin çoğalmasını engeller.",
+      "C": "Tripsin enzimini inhibe ederek sindirimi zorlaştırır.",
+      "D": "Köpük oluşumunda temel stabiliteyi sağlar."
+    },
+    "answer": "A"
+  },
+  "153": {
+    "question": "Yumurtanın işlevsel özelliklerinden biri olan köpük (fom) oluşumu üzerinde globulinlerin ve ovomusinin temel rolleri nelerdir?",
+    "options": {
+      "A": "Her iki protein de sadece jelleşmeden sorumludur.",
+      "B": "Globulinler köpüğü renklendirir, ovomusin ise hacmi azaltır.",
+      "C": "Globulinler hacmi (fom oluşumunu), ovomusin ise köpük stabilitesini sağlar.",
+      "D": "Ovomusin hacmi artırır, globulinler ise yağı emülsifiye eder."
+    },
+    "answer": "C"
+  },
+  "154": {
+    "question": "Buğday çekirdeğinin yapısında, çekirdek ağırlığının yaklaşık %83'ünü oluşturan ve temel nişasta deposu olan kısım aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Kabuk.",
+      "B": "Embriyo.",
+      "C": "Endosperm.",
+      "D": "Kepek"
+    },
+    "answer": "C"
+  },
+  "155": {
+    "question": "Tahıl proteinleri sınıflandırıldığında, arpa tanesinde bulunan prolamin türü proteinin özel adı nedir?",
+    "options": {
+      "A": "Hordein.",
+      "B": "Secalin.",
+      "C": "Zein.",
+      "D": "Avenin"
+    },
+    "answer": "A"
+  },
+  "156": {
+    "question": "Aşağıdakilerden hangisi hamurun elastikiyetinden sorumlu olan buğday proteindir?",
+    "options": {
+      "A": "Nişasta.",
+      "B": "Gliadin.",
+      "C": "Glutenin.",
+      "D": "Albumin"
+    },
+    "answer": "C"
+  },
+  "157": {
+    "question": "Aşağıdakilerden hangisi gluten oluşumunu etkileyen etmenlerden biri değildir ?",
+    "options": {
+      "A": "mekanik etki.",
+      "B": "süt.",
+      "C": "maya.",
+      "D": "lif"
+    },
+    "answer": "D"
+  },
+  "158": {
+    "question": "Ekmek hamurunun incelenmesi sırasında ekmeğin iç yapısı hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Lipitler hamurdaki şeker ve kabartıcıların suda çözünmesini engelleyerek yapısını korur.",
+      "B": "Endospermdeki proteinlerden biri nişasta granülleri arasını doldurur diğeri ise lipitlerle birleşip nişasta granüllerini tek tek sarar.",
+      "C": "Nişasta granülleri hamurda gluten çatısı içinde toplu durma özelliği kazanmıştır.",
+      "D": "Lipitler sadece pişirme işlemi sırasında eriyerek nişasta granüllerini birbirine bağlar."
+    },
+    "answer": "B"
+  },
+  "159": {
+    "question": "Gluten oluşumunu etkileyen etmenler ile ilgili;\nHamura kalsiyum tuzları ve sodyum klorür eklenmesi elastikiyeti arttırır.\nHamurdaki yağ miktarı ile hamurun gaz tutma özelliği arasında bir denge yoktur.\nÇiğ süt , proteolitik enzimlerin aktivasyonunu arttıran ögeler içerir, ekmek hacmini ve kalitesini düşürür.\nİfadelerinden hangileri doğrudur?",
+    "options": {
+      "A": "I ve III",
+      "B": "I , II ve III",
+      "C": "I ve II",
+      "D": "Yalnız III"
+    },
+    "answer": "A"
+  }
+}
