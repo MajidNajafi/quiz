@@ -3,7 +3,7 @@
     "question": "Aşağıdakilerden hangisi etin yapısında bulunan dokulardan değildir?",
     "options": {
       "A": "Kas doku",
-      "B": "Bitkisel lif.",
+      "B": "Bitkisel lif",
       "C": "Bağ doku",
       "D": "Sinir doku"
     },
@@ -14,7 +14,7 @@
     "options": {
       "A": "Vücudun çeşitli parçalarını bir arada tutup,bağlayan dokudur",
       "B": "Kan damarları ve sinirlerin kasta yayılmasını sağlar",
-      "C": "Kemiklere tendonlar ile bağlanır.",
+      "C": "Kemiklere tendonlar ile bağlanır",
       "D": "Kasın dışını tamamen sararak tipik kas biçiminin oluşmasına yardımcı olur"
     },
     "answer": "C"
@@ -23,7 +23,7 @@
     "question": "Aşağıdakilerden hangisi işlevsel besinlerin ortaya çıkış nedenlerinden biri değildir?",
     "options": {
       "A": "Yaşlı nüfusun artması",
-      "B": "Tarımsal üretimin azalması.",
+      "B": "Tarımsal üretimin azalması",
       "C": "Sağlık harcamalarının artması",
       "D": "Besin düzenlenmesindeki değişiklikler"
     },
@@ -34,7 +34,7 @@
     "options": {
       "A": "Besin olarak kalmalı",
       "B": "Diyetle tüketilebilmeli",
-      "C": "İlaç olarak kullanılabilmeli.",
+      "C": "İlaç olarak kullanılabilmeli",
       "D": "Yaşam kalitesini artırıcı etkisi olmalı"
     },
     "answer": "C"
@@ -43,7 +43,7 @@
     "question": "Soldurma işlemi sırasında çay yaprağındaki su oranı hangi düzeye düşer?",
     "options": {
       "A": "%20-25",
-      "B": "%50-55.",
+      "B": "%50-55",
       "C": "%80-90",
       "D": "%10-20"
     },
@@ -53,7 +53,7 @@
     "question": "Fermente edilmeyen çay türü aşağıdakilerden hangisidir?",
     "options": {
       "A": "Siyah çay",
-      "B": "Yeşil çay.",
+      "B": "Yeşil çay",
       "C": "Oolong çay",
       "D": "Kırmızı çay"
     },
@@ -63,7 +63,7 @@
     "question": "Kahve çekirdeklerinin kurutulması işleminde nem içeriği hangi orana ulaşana kadar kurutma devam eder?",
     "options": {
       "A": "%5",
-      "B": "%11.",
+      "B": "%11",
       "C": "%16",
       "D": "%3"
     },
@@ -74,7 +74,7 @@
     "options": {
       "A": "Riboflavin",
       "B": "Tiamin",
-      "C": "Nikotinik asit.",
+      "C": "Nikotinik asit",
       "D": "C vitamini"
     },
     "answer": "C"
@@ -83,7 +83,7 @@
     "question": "Aşağıdakilerden hangisi probiyotiklerin seçilme kriterli arasında yer almaz?",
     "options": {
       "A": "Patojen ve toksik olmamalı",
-      "B": "İnsan kaynaklı olmamalı.",
+      "B": "İnsan kaynaklı olmamalı",
       "C": "Mide asidine dirençli olmalı",
       "D": "Doğal floraya adapte olabilmeli"
     },
@@ -93,7 +93,7 @@
     "question": "Aşağıdakilerden hangisi prebiyotiklerin özelliklerinden değildir?",
     "options": {
       "A": "Kolon mikroflora bakterileri tarafından hidrolize edilebilmeli",
-      "B": "Sindirime dirençli olmamalı.",
+      "B": "Sindirime dirençli olmamalı",
       "C": "Bir veya kısıtlı sayıda olmak üzere daha çok bakterinin çoğalmasını uyarbilmeli",
       "D": "Konakçının sağlığı üzerinde olumlu etkileri olmalı"
     },
@@ -104,7 +104,7 @@
     "options": {
       "A": "Mide asidine dirençli olması",
       "B": "Barsakta canlı kalabilmesi",
-      "C": "Patojen olması.",
+      "C": "Patojen olması",
       "D": "Barsak duvarına tutunabilmesi"
     },
     "answer": "C"
@@ -112,7 +112,7 @@
   "12": {
     "question": "Prebiyotiklerin fermentasyonu sonucunda oluşan kısa zincirli yağ asitlerinden biri aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Asetik asit.",
+      "A": "Asetik asit",
       "B": "Sülfürik asit",
       "C": "Nitrik asit",
       "D": "Hidroklorik asit"
@@ -123,7 +123,7 @@
     "question": "Kahvede antioksidan aktiviteye önemli katkı sağlayan bileşik grubu aşağıdakilerden hangisidir?",
     "options": {
       "A": "Proteinler",
-      "B": "Fenolik bileşikler.",
+      "B": "Fenolik bileşikler",
       "C": "Mineraller",
       "D": "Lipitler"
     },
@@ -134,7 +134,7 @@
     "options": {
       "A": "20 mg",
       "B": "40 mg",
-      "C": "80 mg.",
+      "C": "80 mg",
       "D": "150 mg"
     },
     "answer": "C"
@@ -143,7 +143,7 @@
     "question": "Dekafeinizasyon işleminin amacı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Kahvenin rengini açmak",
-      "B": "Kafein oranını azaltmak.",
+      "B": "Kafein oranını azaltmak",
       "C": "Aromayı artırmak",
       "D": "Protein miktarını artırmak"
     },
@@ -154,7 +154,7 @@
     "options": {
       "A": "½",
       "B": "1/5",
-      "C": "1/10.",
+      "C": "1/10",
       "D": "1/50"
     },
     "answer": "C"
@@ -164,7 +164,7 @@
     "options": {
       "A": "Siyah çay",
       "B": "Oolong çayı",
-      "C": "Yeşil çay.",
+      "C": "Yeşil çay",
       "D": "Kırmızı çay"
     },
     "answer": "C"
@@ -172,7 +172,7 @@
   "18": {
     "question": "İşlevsel besinlerin taşıması gereken kriterler düşünüldüğünde, aşağıdakilerden hangisi doğru bir yaklaşım değildir?",
     "options": {
-      "A": "Kapsül, tablet veya şurup gibi formlarda bir ilaç olmalıdır.",
+      "A": "Kapsül, tablet veya şurup gibi formlarda bir ilaç olmalıdır",
       "B": "Temel beslenmenin dışında vücutta hedef işlevler üzerine pozitif etkisi olmalıdır",
       "C": "Tüketilen porsiyon miktarlarında etkisini gösterebilmelidir",
       "D": "Yaşam kalitesini artırıcı ve hastalık riskini azaltıcı etkisi bulunmalıdır"
@@ -184,7 +184,7 @@
     "options": {
       "A": "Avrupa Birliği",
       "B": "Kanada",
-      "C": "Japonya.",
+      "C": "Japonya",
       "D": "Amerika Birleşik Devletleri"
     },
     "answer": "C"
@@ -195,7 +195,7 @@
       "A": "Hidroksiprolin ve Hidroksilizin",
       "B": "Prolin ve Alanin",
       "C": "Glisin ve Glütamik asit",
-      "D": "Triptofan ve Sistin."
+      "D": "Triptofan ve Sistin"
     },
     "answer": "D"
   },
@@ -204,7 +204,7 @@
     "options": {
       "A": "Lipidler",
       "B": "Mineraller",
-      "C": "Glikojen.",
+      "C": "Glikojen",
       "D": "Proteinler"
     },
     "answer": "C"
@@ -214,7 +214,7 @@
     "options": {
       "A": "Akut pankreatit",
       "B": "Atopik dermatit",
-      "C": "Mesane kanseri.",
+      "C": "Mesane kanseri",
       "D": "Ürogenital sistem hastalıkları"
     },
     "answer": "C"
@@ -224,7 +224,7 @@
     "options": {
       "A": "Ürik asit miktarı",
       "B": "Kan şekeri düzeyleri",
-      "C": "Serum kolesterol düzeyleri.",
+      "C": "Serum kolesterol düzeyleri",
       "D": "Trigliserit seviyeler"
     },
     "answer": "C"
@@ -234,7 +234,7 @@
     "options": {
       "A": "Coffee Liberica",
       "B": "Coffee Canephora (Robusta)",
-      "C": "Coffee Arabica.",
+      "C": "Coffee Arabica",
       "D": "Coffee Racemosa"
     },
     "answer": "C"
@@ -243,7 +243,7 @@
     "question": "Kahve meyvelerinin toplanmasından sonraki ilk adım hangisidir?",
     "options": {
       "A": "Kavurma",
-      "B": "İşleme (Kuru veya Yaş Yöntem).",
+      "B": "İşleme (Kuru veya Yaş Yöntem)",
       "C": "Ambalajlama",
       "D": "Öğütme"
     },
@@ -253,7 +253,7 @@
     "question": "Tereyağı hangi ham maddenin yoğunlaştırılmasıyla elde edilen geleneksel bir üründür?",
     "options": {
       "A": "Ayçiçek tohumu",
-      "B": "Süt yağı.",
+      "B": "Süt yağı",
       "C": "Zeytinyağı",
       "D": "Palmiye meyvesi"
     },
@@ -262,7 +262,7 @@
   "27": {
     "question": "Ayçiçek yağın tohumlardan çıkarılması için kullanılan yöntemlerden biri aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Presleme (Baskılama) yöntemi.",
+      "A": "Presleme (Baskılama) yöntemi",
       "B": "Kaynatma yöntemi",
       "C": "Mayalama yöntemi",
       "D": "Dondurma yöntemi"
@@ -274,7 +274,7 @@
     "options": {
       "A": "Yeşil çay",
       "B": "Oolong çayı",
-      "C": "Siyah çay.",
+      "C": "Siyah çay",
       "D": "Beyaz çay"
     },
     "answer": "C"
@@ -283,7 +283,7 @@
     "question": "Çay yapraklarındaki hücre öz suyunu dışarı çıkarmak ve biyokimyasal tepkimeleri başlatmak için yapılan işlem hangisidir?",
     "options": {
       "A": "Paketçayı",
-      "B": "Kıvırma.",
+      "B": "Kıvırma",
       "C": "Harmanlama",
       "D": "Kurutma"
     },
@@ -293,7 +293,7 @@
     "question": "Kahve üretiminde “kuru yöntem” nedir?",
     "options": {
       "A": "Kahvenin su içinde bekletilmesi",
-      "B": "Kahve çekirdeklerinin güneşte kurutulması.",
+      "B": "Kahve çekirdeklerinin güneşte kurutulması",
       "C": "Çekirdeklerin dondurulması",
       "D": "Kahvenin öğütülmesi"
     },
@@ -304,7 +304,7 @@
     "options": {
       "A": "Suda tamamen çözünür",
       "B": "Tek zincirli bir proteindir",
-      "C": "3 polipeptit zincirinin birleşmesiyle oluşur.",
+      "C": "3 polipeptit zincirinin birleşmesiyle oluşur",
       "D": "Vitamin çeşididir"
     },
     "answer": "C"
@@ -312,7 +312,7 @@
   "32": {
     "question": "Ayçiçek yağı rafinasyonunun son aşaması olan ‘Deodorizasyon (Koku Giderme)’, yağa çok yüksek sıcaklıklar (220−250 ∘ C) ve yüksek vakum uygulanmasını içerir.\nBu aşamada ham yağda kalan uçucu bileşikler ortamdan uzaklaştırılırken, işlem süresi veya sıcaklık kontrol edilemezse yağın besinsel kalitesinde nasıl bir olumsuz kimyasal değişim tetiklenebilir?",
     "options": {
-      "A": "Çoklu doymamış linoleik asitlerin bir kısmında termal izomerizasyon meydana gelerek eser miktarda trans yağ asitleri oluşabilir ve tokoferol (E vitamini) gibi doğal antioksidanlar zarar görebilir.",
+      "A": "Çoklu doymamış linoleik asitlerin bir kısmında termal izomerizasyon meydana gelerek eser miktarda trans yağ asitleri oluşabilir ve tokoferol (E vitamini) gibi doğal antioksidanlar zarar görebilir",
       "B": "Yağdaki su miktarı %80’e fırlayarak su içinde yağ emülsiyonu kurulur",
       "C": "Trigliseritlerin tamamı sabunlaşarak ürün kahvaltılık sürülebilir katı margarin haline gelir",
       "D": "Yüksek sıcaklık tüm yağı protein tozuna dönüştürerek ürünün sıvı formunu kalıcı olarak yok eder"
@@ -325,7 +325,7 @@
       "A": "Sistem gaz içinde sıvı emülsiyonundan katı emülsiyonuna döner",
       "B": "Çalkalama hareketiyle laktoz molekülleri oleik aside dönüşür ve tüm su ortamdan buharlaşır",
       "C": "Margarindeki lesitinin yapısı bozularak sistem sabunlaşma fazına sokulur",
-      "D": "Mekanik çalkalama, kremanın yapısındaki protein kaplı yağ küreciklerinin membranını (zarını) parçalar; serbest kalan süt yağları birleşerek sürekli fazı oluşturur ve su içine hapsolarak emülsiyon Su içinde Yağ (O/W) formundan Yağ içinde Su (W/O) formuna tersine döner (inversiyon)."
+      "D": "Mekanik çalkalama, kremanın yapısındaki protein kaplı yağ küreciklerinin membranını (zarını) parçalar; serbest kalan süt yağları birleşerek sürekli fazı oluşturur ve su içine hapsolarak emülsiyon Su içinde Yağ (O/W) formundan Yağ içinde Su (W/O) formuna tersine döner (inversiyon)"
     },
     "answer": "D"
   },
@@ -333,7 +333,7 @@
     "question": "Bir diyetisyen, yaşlı bireyler için hazırlanacak menüde “uzun süre pişirilmiş kemikli et yemeklerini” öneriyor. Bunun temel nedeni aşağıdakilerden hangisidir?",
     "options": {
       "A": "Elastinin yüksek sıcaklıkta tamamen çözünmesi",
-      "B": "Kollojenin jelatine dönüşerek etin yumuşamasını sağlaması.",
+      "B": "Kollojenin jelatine dönüşerek etin yumuşamasını sağlaması",
       "C": "Miyoglobinin parçalanarak su tutma kapasitesini artırması",
       "D": "Fosfolipidlerin doymuş yağ asidine dönüşmesi"
     },
@@ -343,7 +343,7 @@
     "question": "Kesimden birkaç saat sonra etin sertleştiği gözleniyor. Bu sırada kas pH’sının yaklaşık 5.3-5.5’e düştüğü belirleniyor. Bu olay aşağıdakilerden hangisiyle açıklanır?",
     "options": {
       "A": "Protein denatürasyonu",
-      "B": "Rigor mortis.",
+      "B": "Rigor mortis",
       "C": "Jelatinizasyon",
       "D": "Oksidatif rancidite"
     },
@@ -353,7 +353,7 @@
     "question": "Bir araştırmacı, siyah çaydaki theaflavin oluşumunu incelemektedir. Buna göre theaflavin oluşumunda aşağıdaki bileşiklerden hangilerinin oksidasyonu rol oynar?",
     "options": {
       "A": "Glukoz ve fruktoz",
-      "B": "Epikateşin ve epigallokateşin.",
+      "B": "Epikateşin ve epigallokateşin",
       "C": "Malik asit ve sitrik asit",
       "D": "Teobromin ve teofilin"
     },
@@ -364,7 +364,7 @@
     "options": {
       "A": "Daha az hidroksil içeren polifenol",
       "B": "Hidroksil grubu bulunmayan bileşik",
-      "C": "Daha fazla hidroksil içeren polifenol.",
+      "C": "Daha fazla hidroksil içeren polifenol",
       "D": "Sadece karbonhidrat içeren yapı"
     },
     "answer": "C"
@@ -374,7 +374,7 @@
     "options": {
       "A": "Sadece doğal besinlerden oluşması",
       "B": "Hastalıkları tamamen tedavi etmesi",
-      "C": "Sağlık üzerine olumlu etkili bileşen içermesi.",
+      "C": "Sağlık üzerine olumlu etkili bileşen içermesi",
       "D": "Vitamin içermemesi"
     },
     "answer": "C"
@@ -382,7 +382,7 @@
   "39": {
     "question": "Bir gıda firması, yoğurdun içerdiği probiyotiklerin miktarını artırarak bağırsak sağlığını destekleyen yeni bir ürün geliştirmiştir.\nBu üretim yaklaşımı aşağıdakilerden hangisine örnektir?",
     "options": {
-      "A": "Besindeki doğal bileşenin konsantrasyonunu artırma.",
+      "A": "Besindeki doğal bileşenin konsantrasyonunu artırma",
       "B": "Zararlı bileşeni eliminasyon",
       "C": "Besin yerine ilaç üretme",
       "D": "Sentetik tatlandırıcı ekleme"
@@ -393,7 +393,7 @@
     "question": "Kahve çekirdeklerinin dekafeinizasyon (kafeinsizleştirme) işlemi, endüstride farklı çözücü ve yöntemlerle yapılabilmektedir. Ancak yöntemin türü ne olursa olsun, tüm dekafeinizasyon süreçleri ortak fiziksel ve kimyasal ilkelere dayanır.\nAşağıdakilerden hangisi dekafeinizasyon işlemlerinin tümünde uygulanan ortak ilkelerden biri değildir?",
     "options": {
       "A": "Yeşil kahve çekirdeklerinin su veya buhar ile şişirilmesi",
-      "B": "Kafein ekstraksiyonunun kavrulmuş çekirdeklere uygulanması.",
+      "B": "Kafein ekstraksiyonunun kavrulmuş çekirdeklere uygulanması",
       "C": "Kalan çözücü kalıntılarının buhar yardımıyla uzaklaştırılması",
       "D": "Kahvenin normal nem düzeyine ulaşıncaya kadar kurutulması"
     },
@@ -403,7 +403,7 @@
     "question": "Kahve kavurma işlemi, çekirdeğin nem içeriğini azaltırken karakteristik aroma ve rengin oluşmasını sağlar. Bu süreçte bazı besin ögeleri parçalanırken bazı mikrobesin ögelerinin miktarında artış gözlenir.\nKavurma sırasında trigonellinin %5-10 oranında dönüşüme uğramasıyla kahvedeki miktarı artan mikrobesin ögesi hangisidir?",
     "options": {
       "A": "Tiamin",
-      "B": "Nikotinik asit.",
+      "B": "Nikotinik asit",
       "C": "Alanin",
       "D": "Klorojenik asit"
     },
@@ -414,7 +414,7 @@
     "options": {
       "A": "Patojenlerin epitele tutunmalarını yarışmalı olarak önlemek",
       "B": "Kısa zincirli yağ asitleri üreterek ortam pH'ını düşürmek",
-      "C": "Bağırsaktaki tüm mukozal tabakayı tamamen sindirip yok etmek.",
+      "C": "Bağırsaktaki tüm mukozal tabakayı tamamen sindirip yok etmek",
       "D": "Epitel ve mukozanın bariyer işlevini güçlendirmek"
     },
     "answer": "C"
@@ -424,7 +424,7 @@
     "options": {
       "A": "Postbiyotik",
       "B": "Antibiyotik",
-      "C": "Simbiyotik (Sinbiyotik).",
+      "C": "Simbiyotik (Sinbiyotik)",
       "D": "Parabiyotik"
     },
     "answer": "C"
@@ -435,7 +435,7 @@
       "A": "Yaşlı nüfusun artması",
       "B": "Sağlık harcamalarının artması",
       "C": "Bireysel sağlığı geliştirme istekliliği ve bunun farkındalığı",
-      "D": "Çocuk nüfusunun artması."
+      "D": "Çocuk nüfusunun artması"
     },
     "answer": "D"
   },
@@ -445,7 +445,7 @@
       "A": "Kuru Yöntem",
       "B": "Yaş Yöntem",
       "C": "Kavurma",
-      "D": "Çektirme."
+      "D": "Çektirme"
     },
     "answer": "D"
   },
@@ -454,7 +454,7 @@
     "options": {
       "A": "Üçgen Test",
       "B": "İkili Üçlü (Duo-Trio) Test",
-      "C": "Hedonik Skalalar.",
+      "C": "Hedonik Skalalar",
       "D": "Eşlenmiş Kıyaslama Testi"
     },
     "answer": "C"
@@ -463,7 +463,7 @@
     "question": "Panelist eğitimlerinde ve duyusal testlerde sıklıkla tercih edilen “Eşlenmiş Kıyaslama Testi” ile ilgili aşağıda verilen özelliklerden hangisi yanlıştır?",
     "options": {
       "A": "Panelistlerin doğru seçeneği tamamen tahminle bulma olasılığı %50’dir",
-      "B": "Panelistin bir önceki örneği unutmasından kaynaklanan “bellek etkisi” en yüksek düzeydedir.",
+      "B": "Panelistin bir önceki örneği unutmasından kaynaklanan “bellek etkisi” en yüksek düzeydedir",
       "C": "Uygulanabilmesi için sunulan örneklerin homojen ve birbirine çok benzer olması gerekir",
       "D": "Bu test yöntemiyle örnekler arasındaki farkın sadece varlığı değil, derecesi de ölçülebilir"
     },
@@ -474,7 +474,7 @@
     "options": {
       "A": "Kazein, pH 4.6’ya ulaştığında veya rennin (peynir mayası) enzimiyle çökmez, sadece yüksek sıcaklıkta çöker",
       "B": "Kazein amfipatik (hem hidrofilik hem hidrofobik) bir özelliğe sahip değildir, tamamen suda çözünür yapıdadır",
-      "C": "Kazein miselinin en dış kısmına kappa-kazein (\\kappa-kazein) yerleşir ve hidrofilik uçları sayesinde misellerin birbiriyle kümeleşmesini (agregasyonu) önler.",
+      "C": "Kazein miselinin en dış kısmına kappa-kazein (\\kappa-kazein) yerleşir ve hidrofilik uçları sayesinde misellerin birbiriyle kümeleşmesini (agregasyonu) önler",
       "D": "Kazein molekülündeki düzenli \\alpha-heliks yapısı, içeriğindeki yüksek prolin aminoasidi sayesinde korunur"
     },
     "answer": "C"
@@ -482,7 +482,7 @@
   "49": {
     "question": "Süt karbonhidratları ve ısısal işlemler sırasında gerçekleşen reaksiyonlarla ilgili aşağıdakilerden hangisi yanlıştır?",
     "options": {
-      "A": "Sütün esas karbonhidratı olan laktozun çözünürlüğü ve tatlılık derecesi früktoz, glikoz ve sukrozdan daha yüksektir.",
+      "A": "Sütün esas karbonhidratı olan laktozun çözünürlüğü ve tatlılık derecesi früktoz, glikoz ve sukrozdan daha yüksektir",
       "B": "Maillard reaksiyonu, lizinin serbest amino grubu ile laktozun aldehit grubunun etkileşime girmesiyle oluşur",
       "C": "Maillard reaksiyonu hafif bir ısı uygulamasında dahi başlayabilir ve depolama sırasında ilerlemeye devam eder",
       "D": "Isıtılmış süt ürünlerinde bir laktoz türevi olan “laktuloz” yapısı meydana gelir"
@@ -495,7 +495,7 @@
       "A": "Ovoalbumin: Yumurta akı kuru maddesinde en fazla bulunan protein olup, depolama sürecinde ısıya daha stabil olan S-ovalbumine dönüşür",
       "B": "Lizozim (Ovoglobulin G1): Gram pozitif bakterilerin hücre duvarını hidroliz ederek antibiyotik/antimikrobiyal etki gösterir",
       "C": "Ovomusin: Çırpma işlemiyle elde edilen yumurta köpüğüne (fom) sertlik verir ve fom yapısında dengeyi (stabiliteyi) sağlar",
-      "D": "Avidin: Yapısındaki yüksek demir (Fe^{+3\n}) bağlama kapasitesi sayesinde bakterilerin çoğalmasını engelleyen bir tripsin inhibitörüdür."
+      "D": "Avidin: Yapısındaki yüksek demir (Fe^{+3\n}) bağlama kapasitesi sayesinde bakterilerin çoğalmasını engelleyen bir tripsin inhibitörüdür"
     },
     "answer": "D"
   },
@@ -503,7 +503,7 @@
     "question": "Yumurtanın tazeliği ve depolanması sırasında meydana gelen fiziksel ve kimyasal değişikliklerle ilgili aşağıda verilen ifadelerden hangisi doğrudur?",
     "options": {
       "A": "Taze yumurtanın akının pH’ı asidiktir (yaklaşık 5.5) ve beklendikçe bazikleşerek 7.0’ye ulaşır",
-      "B": "Yumurta taze iken sarısının etrafındaki vitelin zarı gergin ve sağlamdır; bayatladıkça bu zar zayıflar, su girişi nedeniyle sarı yassılaşır ve kolayca dağılır.",
+      "B": "Yumurta taze iken sarısının etrafındaki vitelin zarı gergin ve sağlamdır; bayatladıkça bu zar zayıflar, su girişi nedeniyle sarı yassılaşır ve kolayca dağılır",
       "C": "Yumurta bayatladıkça kabuktaki gözeneklerden su girişi olur ve bu durum yumurtanın su dolu bir kapta dibe batmasına neden olur",
       "D": "Depolama sırasında yumurta akındaki serbest glikoz miktarı tamamen yok olduğu için Maillard reaksiyonu riski ortadan kalkar"
     },
@@ -513,7 +513,7 @@
     "question": "Ette bulunan pigmentler, etin rengini belirlemede ve tazeliğini yansıtmada kritik bir role sahiptir. Kas dokuda yer alan miyoglobin pigmentinin yapısı, ortamdaki oksijen miktarı ve demirin valans elektron durumu (Fe^{+2\n} veya Fe^{+3\n}), etin rengini doğrudan değiştirir.\nBuna göre, taze kesilmiş etin yüzeyinde ilk başta görülen mor-kırmızı renk ile bu etin hava ile teması sonucu oksijen alarak (oksijenasyon) büründüğü parlak kırmızı renk, sırasıyla hangi miyoglobin türevlerine aittir?",
     "options": {
       "A": "Deoksitoksimiyoglobin / Metmiyoglobin",
-      "B": "Deoksiyoglobin / Oksimiyoglobin.",
+      "B": "Deoksiyoglobin / Oksimiyoglobin",
       "C": "Metmiyoglobin / Nitrozomiyoglobin",
       "D": "Karboksiyoglobin / Sülfmiyoglobin"
     },
@@ -524,7 +524,7 @@
     "options": {
       "A": "Hayvan canlı iken vücut pH’ı 7.3-7.5 civarındayken, ölümle birlikte rigor mortis sürecinde pH 5.3-5.5 civarına kadar düşer",
       "B": "Rigor mortis sürecinde glikojen deposunun laktik aside dönüşmesi (glikoliz) sonucu ortam asitleşir",
-      "C": "Ölüm sertliği oluştuktan sonra etin su tutma kapasitesi (STK) en yüksek seviyeye ulaşır ve et en yumuşak halini alır.",
+      "C": "Ölüm sertliği oluştuktan sonra etin su tutma kapasitesi (STK) en yüksek seviyeye ulaşır ve et en yumuşak halini alır",
       "D": "Kas kasılmasının gerçekleşmesi ve hayvanın hareketsiz hale gelmesiyle karakterize olan bu süreç genellikle 24-48 saat arasında sonlanır"
     },
     "answer": "C"
@@ -535,7 +535,7 @@
       "A": "Geleneksel Besinler: Sebze-meyve, balık, süt",
       "B": "Modifiye Besinler: Omega-3 (n-3) ile zenginleştirilmiş yumurta",
       "C": "Sentezlenen Besin Bileşenleri: Oligosakkaritler ve dirençli nişasta",
-      "D": "Modifiye Besinler: Herhangi bir işlem görmemiş doğal biyoaktif bileşen içeren domates."
+      "D": "Modifiye Besinler: Herhangi bir işlem görmemiş doğal biyoaktif bileşen içeren domates"
     },
     "answer": "D"
   },
@@ -543,7 +543,7 @@
     "question": "Margarin üretim teknolojisinde, sıvı bitkisel yağların yapısındaki doymamış yağ asitlerinin çift bağlarına hidrojen eklenerek daha doymuş ve katı/yarı katı hale getirilmesi işlemine “Hidrojenasyon” denir. Ancak bu işlem sırasında bağların yapısı değişebilir ve sağlık üzerinde olumsuz etkileri olan bazı yan ürünler oluşabilir.\nBuna göre, tam (tamamen) hidrojenasyon yerine kısmi (bölgesel) hidrojenasyon uygulandığında ortaya çıkan ve kalp-damar sağlığı açısından risk oluşturan bu yağ asidi izomeri aşağıdakilerden hangisidir?",
     "options": {
       "A": "Cis-yağ asitleri",
-      "B": "Trans-yağ asitleri.",
+      "B": "Trans-yağ asitleri",
       "C": "Omega-3 yağ asitleri",
       "D": "Orta zincirli yağ asitleri (MCT)"
     },
@@ -553,7 +553,7 @@
     "question": "Çay yapraklarının işlenmesi (proses) sırasında uygulanan işlemler, çayın çeşidini ve kimyasal kompozisyonunu doğrudan belirler. Slaytlardaki çay teknolojisi bilgileri dikkate alındığında, yeşil çay ve siyah çay üretimi arasındaki en temel fark aşağıdakilerden hangisidir?",
     "options": {
       "A": "Siyah çay üretiminde çay yapraklarına yüksek sıcaklıkta fırınlama yapılırken, yeşil çay üretiminde sadece güneşte kurutma yapılması",
-      "B": "Yeşil çay üretiminde yapraklardaki polifenol oksidaz enziminin yüksek ısı (buhar veya kavurma) ile hızlıca inaktive edilerek oksidasyonun (fermantasyonun) önlenmesi, siyah çayda ise bu oksidasyona izin verilmesi.",
+      "B": "Yeşil çay üretiminde yapraklardaki polifenol oksidaz enziminin yüksek ısı (buhar veya kavurma) ile hızlıca inaktive edilerek oksidasyonun (fermantasyonun) önlenmesi, siyah çayda ise bu oksidasyona izin verilmesi",
       "C": "Yeşil çayın sadece genç çay yapraklarından, siyah çayın ise yaşlanmış ve kartlaşmış çay yapraklarından üretilmesi",
       "D": "Siyah çay üretiminde yapraklara kafein ilavesi yapılırken, yeşil çay üretiminde yapay antioksidanlar kullanılması"
     },
@@ -565,7 +565,7 @@
       "A": "Kavurma sırasında çekirdeklerin yapısındaki su uçar ve kuru madde kaybı yaşanır; ancak hacimsel olarak çekirdekler büyür",
       "B": "Kavurma derecesi (açık, orta, koyu) arttıkça kahvenin rengi esmerleşir ve uçucu aroma bileşiklerinin miktarı ile kompozisyonu değişir",
       "C": "Isıl işlemin etkisiyle şekerlerin karamelleşmesi ve Maillard reaksiyonu gerçekleşerek kahveye özgü o karakteristik koku ve esmer renk oluşur",
-      "D": "Kahve çekirdeği ne kadar uzun süre ve koyu (dark) kavrulursa, yapısındaki toplam kafein miktarı o kadar doğrusal olarak artar ve hafif kavrulmuş kahveye göre çok daha yüksek oranda kafein içerir."
+      "D": "Kahve çekirdeği ne kadar uzun süre ve koyu (dark) kavrulursa, yapısındaki toplam kafein miktarı o kadar doğrusal olarak artar ve hafif kavrulmuş kahveye göre çok daha yüksek oranda kafein içerir"
     },
     "answer": "D"
   },
@@ -575,7 +575,7 @@
       "A": "Herhangi bir gıda grubunun, gıdanın veya gıda bileşenlerinin büyüme, gelişme ve vücudun normal işlevleriyle ilişkili fizyolojik etkisini tanımlayan beyanlardır",
       "B": "Vücut fonksiyonlarını geliştirmeye veya sağlığı korumaya yardımcı etkiyi belirten, ileri süren veya ima eden beyanları kapsar",
       "C": "Türkiye’de bu beyanlar ve yasal düzenlemeler Türk Gıda Kodeksi Etiketleme Yönetmeliği çerçevesinde Tarım ve Orman Bakanlığı tarafından yürütülür",
-      "D": "Sağlık beyanları, tüketicinin ilgisini çekmek amacıyla bilimsel bir kanıta ihtiyaç duyulmadan firmalar tarafından serbestçe etiket üzerine yazılabilir."
+      "D": "Sağlık beyanları, tüketicinin ilgisini çekmek amacıyla bilimsel bir kanıta ihtiyaç duyulmadan firmalar tarafından serbestçe etiket üzerine yazılabilir"
     },
     "answer": "D"
   },
@@ -583,7 +583,7 @@
     "question": "Kahve çekirdeklerinde bulunan kafein bileşiğini uzaklaştırmak için uygulanan tüm dekafeinizasyon yöntemlerinde ilk olarak hangi işlem yapılır?",
     "options": {
       "A": "Çekirdeklerin etil asetat çözücüsünde bekletilmesi",
-      "B": "Yeşil kahve çekirdeklerinin su veya buhar ile şişirilmesi.",
+      "B": "Yeşil kahve çekirdeklerinin su veya buhar ile şişirilmesi",
       "C": "Çekirdeklerin yüksek sıcaklıkta koyu kavrulması",
       "D": "Kahvenin dondurularak kurutulması (freeze-drying)"
     },
@@ -593,7 +593,7 @@
     "question": "Etin kesimden sonra olgunlaşması (yaşlandırılması) sürecinde etin daha yumuşak ve lezzetli hale gelmesini sağlayan, kas yapısındaki proteinleri parçalayan en önemli endojen enzim grubu aşağıdakilerden hangisidir?",
     "options": {
       "A": "Lipazlar",
-      "B": "Kalpainler.",
+      "B": "Kalpainler",
       "C": "Amilazlar",
       "D": "Oksidazlar"
     },
@@ -604,7 +604,7 @@
     "options": {
       "A": "Deodorizasyon",
       "B": "Nötralizasyon",
-      "C": "Malaksasyon.",
+      "C": "Malaksasyon",
       "D": "Vinterizasyon"
     },
     "answer": "C"
@@ -614,7 +614,7 @@
     "options": {
       "A": "İnsan kökenli (orijinli) olması",
       "B": "Gastrik asite (mide asidine) ve safra tuzlarına karşı dirençli olması",
-      "C": "Bağırsak epitel hücrelerine tutunma (adhezyon) yeteneğinin olmaması.",
+      "C": "Bağırsak epitel hücrelerine tutunma (adhezyon) yeteneğinin olmaması",
       "D": "Patojen mikroorganizmalara karşı antimikrobiyal aktivite göstermesi"
     },
     "answer": "C"
@@ -623,7 +623,7 @@
     "question": "Probiyotik ve prebiyotiklerin bir arada kullanılmasıyla oluşturulan ve bağırsaktaki yararlı mikroorganizmaların gelişimini daha güçlü bir şekilde destekleyen sistemlere ne ad verilir?",
     "options": {
       "A": "Postbiyotik",
-      "B": "Simbiyotik.",
+      "B": "Simbiyotik",
       "C": "Antibiyotik",
       "D": "Parabiyotik"
     },
@@ -634,7 +634,7 @@
     "options": {
       "A": "Fermentasyon",
       "B": "Kıvırma",
-      "C": "Pastörizasyon.",
+      "C": "Pastörizasyon",
       "D": "Kurutma"
     },
     "answer": "C"
@@ -643,7 +643,7 @@
     "question": "Soldurma işleminin temel amacı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Çayın rengini koyulaştırmak",
-      "B": "Yaprağı kıvırmaya uygun hale getirmek.",
+      "B": "Yaprağı kıvırmaya uygun hale getirmek",
       "C": "Kafein miktarını azaltmak",
       "D": "Mikroorganizmaları öldürmek"
     },
@@ -655,7 +655,7 @@
       "A": "Su yöntemi",
       "B": "Etil asetat yöntemi",
       "C": "Sıvı CO₂ yöntemi",
-      "D": "Pastörizasyon yöntemi."
+      "D": "Pastörizasyon yöntemi"
     },
     "answer": "D"
   },
@@ -663,7 +663,7 @@
     "question": "Kahve aromasının oluşumunda en önemli reaksiyonlardan biri hangisidir?",
     "options": {
       "A": "Hidroliz",
-      "B": "Maillard reaksiyonu.",
+      "B": "Maillard reaksiyonu",
       "C": "Esterifikasyon",
       "D": "Nötralizasyon"
     },
@@ -674,7 +674,7 @@
     "options": {
       "A": "Hidrojenasyon",
       "B": "Pastörizasyon",
-      "C": "İnteresterifikasyon.",
+      "C": "İnteresterifikasyon",
       "D": "Fermentasyon"
     },
     "answer": "C"
@@ -683,7 +683,7 @@
     "question": "Cips üretiminde patateslerin yıkanarak yüzeydeki fazla nişastanın uzaklaştırılmasının temel amacı nedir?",
     "options": {
       "A": "Protein miktarını artırmak",
-      "B": "Kızartma sırasında yapışmayı önlemek.",
+      "B": "Kızartma sırasında yapışmayı önlemek",
       "C": "Yağ oranını yükseltmek",
       "D": "Vitamin kaybını azaltmak"
     },
@@ -694,7 +694,7 @@
     "options": {
       "A": "Yüksek karbonhidrat içermesi",
       "B": "Doymuş yağ oranının fazla olması",
-      "C": "Tekli doymamış yağ asitleri ve antioksidan bileşikler içermesi.",
+      "C": "Tekli doymamış yağ asitleri ve antioksidan bileşikler içermesi",
       "D": "Protein bakımından zengin olması"
     },
     "answer": "C"
@@ -704,7 +704,7 @@
     "options": {
       "A": "Coffee Liberica",
       "B": "Coffee Canephora (Robusta)",
-      "C": "Coffee Arabica.",
+      "C": "Coffee Arabica",
       "D": "Coffee Racemosa"
     },
     "answer": "C"
@@ -713,7 +713,7 @@
     "question": "Kahve üretiminde yaş yöntem uygulanırken kahve çekirdeklerinin fermentasyon tanklarında bekletilmesinin temel amacı nedir",
     "options": {
       "A": "Kafein miktarını artırmak",
-      "B": "Musilajın kaygan tabakasını ayırmak.",
+      "B": "Musilajın kaygan tabakasını ayırmak",
       "C": "Çekirdeğin rengini koyulaştırmak",
       "D": "Yağ miktarını azaltmak"
     },
@@ -724,7 +724,7 @@
     "options": {
       "A": "Nem oranının artması",
       "B": "Tiamin miktarının artması",
-      "C": "Renk, koku ve uçucu lezzet bileşiklerinin oluşması.",
+      "C": "Renk, koku ve uçucu lezzet bileşiklerinin oluşması",
       "D": "Polisakkaritlerin tamamen korunması"
     },
     "answer": "C"
@@ -734,7 +734,7 @@
     "options": {
       "A": "Sindirimi kolaylaştıran vitaminlerdir",
       "B": "Zararlı bakterileri tamamen yok eden ilaçlardır",
-      "C": "Yeterli miktarda alındığında konakçı sağlığını olumlu etkileyen canlı mikroorganizmalardır.",
+      "C": "Yeterli miktarda alındığında konakçı sağlığını olumlu etkileyen canlı mikroorganizmalardır",
       "D": "Yalnızca bağırsakta bulunan enzimlerdir"
     },
     "answer": "C"
@@ -744,7 +744,7 @@
     "options": {
       "A": "Sindirime dirençli olması",
       "B": "Kolon bakterileri tarafından hidrolize edilebilmesi",
-      "C": "İnce bağırsakta tamamen emilmesi.",
+      "C": "İnce bağırsakta tamamen emilmesi",
       "D": "Konakçı sağlığı üzerinde olumlu etkiler göstermesi"
     },
     "answer": "C"
@@ -753,7 +753,7 @@
     "question": "Aşağıdaki seçeneklerden hangisi sinbiyotiklere örnektir?",
     "options": {
       "A": "Yalnızca yoğurt tüketimi",
-      "B": "Bifidobakterium + Fruktooligosakkarit kombinasyonu.",
+      "B": "Bifidobakterium + Fruktooligosakkarit kombinasyonu",
       "C": "Sadece prebiyotik lif kullanımı",
       "D": "Antibiyotik ve vitamin kombinasyonu"
     },
@@ -764,7 +764,7 @@
     "options": {
       "A": "Kurutma işleminin yalnızca kavurma öncesi değil, hasat anında çekirdek üzerindeyken tamamlanması",
       "B": "Su kaynaklarının sınırlı olduğu bölgeler için en uygun ve ekonomik yöntem olması",
-      "C": "Musilaj tabakasını uzaklaştırmak amacıyla çekirdeklerin fermentasyon tanklarında enzim aktivitesine bırakılması.",
+      "C": "Musilaj tabakasını uzaklaştırmak amacıyla çekirdeklerin fermentasyon tanklarında enzim aktivitesine bırakılması",
       "D": "Fermentasyon tanklarında mikroorganizma aktivitesi yerine sadece fiziksel ayrıştırma işleminin kullanılması"
     },
     "answer": "C"
@@ -774,7 +774,7 @@
     "options": {
       "A": "Bu işlem sırasında hiçbir şekilde oksijen kullanılmaz, tamamen anaerobik bir biyolojik değişimdir",
       "B": "Bu aşamada amaç, çay yaprağındaki su oranını %3 seviyesine kadar düşürerek oksidasyonu durdurmaktır",
-      "C": "Fermentasyon, hücre özsuyunda bulunan bileşiklerin oksidaz enzimi etkisiyle değişime uğrayarak siyah çayın renk, koku ve burukluk özelliklerini kazandığı süreçtir.",
+      "C": "Fermentasyon, hücre özsuyunda bulunan bileşiklerin oksidaz enzimi etkisiyle değişime uğrayarak siyah çayın renk, koku ve burukluk özelliklerini kazandığı süreçtir",
       "D": "Fermentasyon sonucunda çay yaprağının rengi yeşilden parlak bir sarıya dönüştürülerek klorofil korunmaya çalışılır"
     },
     "answer": "C"
@@ -783,7 +783,7 @@
     "question": "Probiyotik mikroorganizmaların gastrointestinal sistemde etkili olabilmeleri için sahip olmaları gereken ‘seçilme kriterleri’ göz önüne alındığında, aşağıdakilerden hangisi temel bir zorunluluktur?",
     "options": {
       "A": "Yalnızca besin takviyesi formunda, gıdalardan bağımsız olarak tüketilmeleri",
-      "B": "Mide asiditesi ve safra asitlerine dirençli olarak, sindirim kanalında canlı kalabilmeleri.",
+      "B": "Mide asiditesi ve safra asitlerine dirençli olarak, sindirim kanalında canlı kalabilmeleri",
       "C": "İnsan kaynaklı olmaları yerine, hayvan kaynaklı suşların kullanılmasıyla daha hızlı kolonizasyon sağlamaları",
       "D": "Konakçının bağışıklık sistemini tamamen baskılayarak inflamasyonu durdurmaları"
     },
@@ -792,9 +792,9 @@
   "80": {
     "question": "Aşağıdakilerden hangisi çözünmeyen et proteinidir?",
     "options": {
-      "A": "aktin.",
+      "A": "aktin",
       "B": "Miyojen",
-      "C": "elastin.",
+      "C": "elastin",
       "D": "tropomyosin"
     },
     "answer": "C"
@@ -804,7 +804,7 @@
     "options": {
       "A": "demleme yöntemi",
       "B": "kavurma derecesi",
-      "C": "fenolik asit degredasyonu.",
+      "C": "fenolik asit degredasyonu",
       "D": "Toprak koşulları"
     },
     "answer": "C"
@@ -815,14 +815,14 @@
       "A": "Enterococcus",
       "B": "Bifidobakterium",
       "C": "Entetococcus",
-      "D": "Sacohaomyces çerçevesinde."
+      "D": "Sacohaomyces çerçevesinde"
     },
     "answer": "D"
   },
   "83": {
     "question": "Aşağıdakilerden hangisi probiyotiklerin bağırsak sağlığında  katkısı bulunmaktadır?",
     "options": {
-      "A": "Epitel ve mukozanın koruyucu görevini desteklemesi.",
+      "A": "Epitel ve mukozanın koruyucu görevini desteklemesi",
       "B": "mukozal bariyer zayıflatması",
       "C": "sindirimi tamamen durdurması",
       "D": "bağırsakta toksin üretimini arttırması"
@@ -835,7 +835,7 @@
       "A": "Inülin",
       "B": "fruktooligosakkaritler",
       "C": "galaktooligosakkarittler",
-      "D": "Eikosapentaenoik asit."
+      "D": "Eikosapentaenoik asit"
     },
     "answer": "D"
   },
@@ -843,7 +843,7 @@
     "question": "Vücudun hangi bölümünde probiyotikler fermantasyona uğramaktadır?",
     "options": {
       "A": "Ince bağırsak",
-      "B": "kolon.",
+      "B": "kolon",
       "C": "Mide",
       "D": "Ağız"
     },
@@ -855,7 +855,7 @@
       "A": "Immün fonksiyonların geliştirilmesi",
       "B": "kolon karsinogenezleri önleyici etkisi",
       "C": "yeni nöronların sentezi",
-      "D": "lipit metabolizmasındaki  etkileri."
+      "D": "lipit metabolizmasındaki  etkileri"
     },
     "answer": "C"
   },
@@ -863,7 +863,7 @@
     "question": "Aşağıdakilerden hangisi Probiyotik kaynaklarından değildir?",
     "options": {
       "A": "Hindiba",
-      "B": "Kımız.",
+      "B": "Kımız",
       "C": "enginar",
       "D": "Inulin"
     },
@@ -875,7 +875,7 @@
       "A": "Lösin",
       "B": "Izölösin",
       "C": "Valin",
-      "D": "Sistin."
+      "D": "Sistin"
     },
     "answer": "D"
   },
@@ -885,7 +885,7 @@
       "A": "Hastalıkların daha hızlı yayılmasını sağlar",
       "B": "Hastalıkların tamamen yok olmasına yardımcı olur",
       "C": "Yeni hastalıklar üretilmesini sağlar",
-      "D": "Hastalık riskini azaltıcı etkisi vardır ."
+      "D": "Hastalık riskini azaltıcı etkisi vardır "
     },
     "answer": "D"
   },
@@ -895,7 +895,7 @@
       "A": "Fermentasyon",
       "B": "kurutma",
       "C": "paketleme",
-      "D": "soldurma."
+      "D": "soldurma"
     },
     "answer": "D"
   },
@@ -905,7 +905,7 @@
       "A": "ovomusin",
       "B": "Konalbumin",
       "C": "ovomukoid",
-      "D": "Ovalbumin."
+      "D": "Ovalbumin"
     },
     "answer": "D"
   },
@@ -914,7 +914,7 @@
     "options": {
       "A": "çinko",
       "B": "Demir",
-      "C": "kalsiyum.",
+      "C": "kalsiyum",
       "D": "Bakır"
     },
     "answer": "C"
@@ -924,7 +924,7 @@
     "options": {
       "A": "Fazla şeker eklenmesi jel oluşumunu hızlandırır",
       "B": "Jel oluştuktan sonra çırpılırsa fom yapısı oluşur ve hacim artar",
-      "C": "Jel oluşumu arjinin’nin guanido gruplarının varlığına bağımlıdır.",
+      "C": "Jel oluşumu arjinin’nin guanido gruplarının varlığına bağımlıdır",
       "D": "prolin ve hidroksiprolin nedeniyle heliks yapısı oluşturabilir"
     },
     "answer": "C"
@@ -933,7 +933,7 @@
     "question": "İşlevsel besinlerin üretiminde aşağıdakilerden hangisi amaçlardan biridir?",
     "options": {
       "A": "Besinlerin tamamen yapay hale getirilmesi",
-      "B": "Besin öğelerinin stabilitesini ve biyo yararlılığını artırmak.",
+      "B": "Besin öğelerinin stabilitesini ve biyo yararlılığını artırmak",
       "C": "Besinlerin raf ömrünü azaltmak",
       "D": "Vitaminlerin tamamen yok edilmesi"
     },
@@ -943,7 +943,7 @@
     "question": "Pazardaki işlevsel besinler kaç grupta değerlendirilmektedir?",
     "options": {
       "A": "2",
-      "B": "3.",
+      "B": "3",
       "C": "4",
       "D": "5"
     },
@@ -954,7 +954,7 @@
     "options": {
       "A": "Lactococcus lactis",
       "B": "Enterococcus faecalis",
-      "C": "Saccharomyces cerevisiae (boulardii).",
+      "C": "Saccharomyces cerevisiae (boulardii)",
       "D": "B. Bifidum"
     },
     "answer": "C"
@@ -963,7 +963,7 @@
     "question": "Probiyotiklerin etki mekanizmalarından biri aşağıdakilerden hangisidir?",
     "options": {
       "A": "Vitamin emilimini tamamen durdurmak",
-      "B": "Patojenlerin epitele tutunmasını önlemek.",
+      "B": "Patojenlerin epitele tutunmasını önlemek",
       "C": "Sindirimi yavaşlatmak",
       "D": "Vücut sıcaklığını düşürmek"
     },
@@ -973,7 +973,7 @@
     "question": "Kıvırma işlemi çayda hangi sürecin başlamasına yardımcı olur?",
     "options": {
       "A": "Kuruma",
-      "B": "Oksidasyon.",
+      "B": "Oksidasyon",
       "C": "Dondurma",
       "D": "Filtrasyon"
     },
@@ -985,7 +985,7 @@
       "A": "Yeşil çay",
       "B": "Beyaz çay",
       "C": "Oolong çayı",
-      "D": "Siyah çay."
+      "D": "Siyah çay"
     },
     "answer": "D"
   },
@@ -995,7 +995,7 @@
       "A": "Et; Büyük çoğunluğu kas doku olmak üzere bağ doku, epitel yağ, kemik ve sinir doku ile kandan oluşan hayvansal besinlerdir",
       "B": "Rigor mortis; pH’ın düşüşüyle kas kasılması gerçekleşip hayvanın hareketsiz hale gelmesi, ölüm katılığı",
       "C": "Karkas; Kasaplık hayvanların uygun olarak kesilip, iç organları boşaltılıp, baş ve ayaklarından ayrıldıktan sonra elde edilen gövdesidir",
-      "D": "Jelatin; Uzun silindirik yapıdaki bağlayıcı doku proteinleridir."
+      "D": "Jelatin; Uzun silindirik yapıdaki bağlayıcı doku proteinleridir"
     },
     "answer": "D"
   },
@@ -1005,7 +1005,7 @@
       "A": "Yaşlı nüfusun artması",
       "B": "Bireysel sağlığı geliştirme isteği",
       "C": "Sağlık harcamalarının artması",
-      "D": "Genç nüfusun artması."
+      "D": "Genç nüfusun artması"
     },
     "answer": "D"
   },
@@ -1014,7 +1014,7 @@
     "options": {
       "A": "Soldurma",
       "B": "Fermentasyon",
-      "D": "Kavurma.",
+      "D": "Kavurma",
       "E": "Kurutma"
     },
     "answer": "D"
@@ -1025,14 +1025,14 @@
       "A": "Tanelerin depolama koşulları",
       "B": "Kavurma derecesi ve mekanizması",
       "C": "Demleme yöntemi",
-      "D": "Selüloz yapısının polimerizasyon hızı."
+      "D": "Selüloz yapısının polimerizasyon hızı"
     },
     "answer": "D"
   },
   "105": {
     "question": "Aşağıdakilerden hangisi bir mikroorganizmanın probiyotik olarak seçilebilmesi için sahip olması gereken kriterlerden değildir?",
     "options": {
-      "A": "Sindirilemeyen bir karbonhidrat yapısında olması.",
+      "A": "Sindirilemeyen bir karbonhidrat yapısında olması",
       "B": "Patojen ve toksik olmaması",
       "C": "Mide asidi ve safra asidine karşı dirençli olması",
       "D": "Sindirim kanalında canlı olarak hayatta kalabilmesi"
@@ -1042,7 +1042,7 @@
   "106": {
     "question": "Kesim sonrası kaslarda laktik asit birikmesiyle pH’ın düşmesi ve kasların kasılı kalması olayı hangisidir?",
     "options": {
-      "A": "Rigor mortis.",
+      "A": "Rigor mortis",
       "B": "Denatürasyon",
       "C": "Emülsiyon",
       "D": "Malaksasyon"
@@ -1053,7 +1053,7 @@
     "question": "Yaşlı hayvan etlerinin genç hayvanlara göre daha sert olmasının temel nedeni hangisidir?",
     "options": {
       "A": "Kas liflerinin çapının küçülmesi",
-      "B": "Bağ dokudaki kolajen çapraz bağlarının artması.",
+      "B": "Bağ dokudaki kolajen çapraz bağlarının artması",
       "C": "Yağ doku miktarının aşırı yükselmesi",
       "D": "Su tutma kapasitesinin artması"
     },
@@ -1064,7 +1064,7 @@
     "options": {
       "A": "Günlük enerji ihtiyacını hesaplamak",
       "B": "Akut vitamin yetersizliklerini çözmek",
-      "C": "Kronik hastalık riskini azaltmak ve sağlığı geliştirmek.",
+      "C": "Kronik hastalık riskini azaltmak ve sağlığı geliştirmek",
       "D": "Yapay besin üretimini tamamen durdurmak"
     },
     "answer": "C"
@@ -1073,7 +1073,7 @@
     "question": "Gıdaların büyüme, gelişme ve sağlığı koruyucu etkilerini etikette belirtmeye ne ad verilir?",
     "options": {
       "A": "Beslenme beyanı",
-      "B": "Sağlık beyanı.",
+      "B": "Sağlık beyanı",
       "C": "Kalori beyanı",
       "D": "Organik beyanı"
     },
@@ -1084,7 +1084,7 @@
     "options": {
       "A": "Fermentasyon",
       "B": "Kurutma",
-      "C": "Soldurma.",
+      "C": "Soldurma",
       "D": "Derecelendirme"
     },
     "answer": "C"
@@ -1092,7 +1092,7 @@
   "111": {
     "question": "Yeşil çayın siyah çaya göre daha yüksek oranda kateşin içermesinin temel nedeni nedir?",
     "options": {
-      "A": "Üretiminde fermentasyon yapılmaması.",
+      "A": "Üretiminde fermentasyon yapılmaması",
       "B": "Sadece gölgede kurutulması",
       "C": "Yapay antioksidan eklenmesi",
       "D": "Daha az su kaybederek üretilmesi"
@@ -1103,7 +1103,7 @@
     "question": "Robusta kahve çekirdeklerini Arabica çekirdeklerinden ayıran en belirgin kimyasal fark nedir?",
     "options": {
       "A": "Daha az kafein içermesi",
-      "B": "Daha yüksek kafein ve acı tada sahip olması.",
+      "B": "Daha yüksek kafein ve acı tada sahip olması",
       "C": "Hiç klorojenik asit içermemesi",
       "D": "Yağ oranının çok daha yüksek olması"
     },
@@ -1113,7 +1113,7 @@
     "question": "Yeşil kahve çekirdeklerinin kavrulması sırasında renk ve aroma oluşumunu sağlayan temel reaksiyon hangisidir?",
     "options": {
       "A": "Hidrojenasyon",
-      "B": "Maillard ve Karamelizasyon.",
+      "B": "Maillard ve Karamelizasyon",
       "C": "Oksidasyon",
       "D": "Emülsifikasyon"
     },
@@ -1124,7 +1124,7 @@
     "options": {
       "A": "Mide asidine ve safra tuzuna dirençli olması",
       "B": "Patojen ve toksik olmaması",
-      "C": "Bağırsak epiteline tutunamaması.",
+      "C": "Bağırsak epiteline tutunamaması",
       "D": "Depolama süresince canlı kalabilmesi"
     },
     "answer": "C"
@@ -1133,7 +1133,7 @@
     "question": "Canlı probiyotik bakteri ile prebiyotik lifi bir arada bulunduran gıdalara ne ad verilir?",
     "options": {
       "A": "Geleneksel besin",
-      "B": "Simbiyotik besin.",
+      "B": "Simbiyotik besin",
       "C": "Modifiye besin",
       "D": "Hidrojenize besin"
     },
@@ -1145,7 +1145,7 @@
       "A": "Bağlayıcı doku proteinleridir",
       "B": "Nötral tuz solüsyonlarında erir",
       "C": "Triptofan ve sistin içermez",
-      "D": "Çözeltilerin hepsinde erir."
+      "D": "Çözeltilerin hepsinde erir"
     },
     "answer": "D"
   },
@@ -1153,7 +1153,7 @@
     "question": "Etlerde besin değeri ve besin teknolojisi açısından önemli olmayan doku hangisidir?",
     "options": {
       "A": "Epitel",
-      "B": "Lenf.",
+      "B": "Lenf",
       "C": "Sinir",
       "D": "Kan"
     },
@@ -1164,7 +1164,7 @@
     "options": {
       "A": "Diyetle tüketilebilmeli",
       "B": "Besin olarak kalmalı",
-      "C": "Besin değeri dışında hedef işlevler üzerine negatif etkisi olmalı.",
+      "C": "Besin değeri dışında hedef işlevler üzerine negatif etkisi olmalı",
       "D": "Kesinlikle ilaç olmamalı"
     },
     "answer": "C"
@@ -1175,14 +1175,14 @@
       "A": "Reklam bütçelerini denetlemek",
       "B": "Fabrika lojistiğini yönetmek",
       "C": "Ürün fiyatlarını belirlemek",
-      "D": "Yeni ürünlerin gelişiminde rol oynamak."
+      "D": "Yeni ürünlerin gelişiminde rol oynamak"
     },
     "answer": "D"
   },
   "120": {
     "question": "Çay üretiminin ilk ve son aşamaları sırasıyla hangi şıkta doğru verilmiştir?",
     "options": {
-      "A": "Soldurma – Paketleme.",
+      "A": "Soldurma – Paketleme",
       "B": "Kıvırma – Derecelendirme",
       "C": "Soldurma – Kurutma",
       "D": "Fermentasyon – Paketleme"
@@ -1193,7 +1193,7 @@
     "question": "Aşağıdaki pigmentlerin hangisi az miktarda siyah çayda elde edilen ekstrakta bulunur?",
     "options": {
       "A": "Okzalik asit",
-      "B": "Akonitik asit.",
+      "B": "Akonitik asit",
       "C": "Süksinik asit",
       "D": "Sitrik asit"
     },
@@ -1204,7 +1204,7 @@
     "options": {
       "A": "Brezilya",
       "B": "Meksika",
-      "C": "Etiyopya.",
+      "C": "Etiyopya",
       "D": "Kolombiya"
     },
     "answer": "C"
@@ -1213,7 +1213,7 @@
     "question": "Kahve endüstrisinde küresel pazarın yaklaşık %70’ini oluşturan en yüksej ticari değere sahip ve aromatik lezzetiyle bilinen kahve türü hangisidir?",
     "options": {
       "A": "Coffee Racemosa",
-      "B": "Coffee Arabica.",
+      "B": "Coffee Arabica",
       "C": "Coffee Liberica",
       "D": "Coffee Robusta"
     },
@@ -1224,7 +1224,7 @@
     "options": {
       "A": "Sindirilemeyen karbonhidrat",
       "B": "Bakteri öldüren",
-      "C": "Yaşam için.",
+      "C": "Yaşam için",
       "D": "Hastalık yapıcı"
     },
     "answer": "C"
@@ -1232,7 +1232,7 @@
   "125": {
     "question": "Vücudumuza yararlı mikroorganizmaların çoğalmasını ve aktivitesini seçici olarak arttıran sindirilemeyen besin bileşimlerine ne ad verilir?",
     "options": {
-      "A": "Prebiyotik.",
+      "A": "Prebiyotik",
       "B": "Probiyotik",
       "C": "Antibiyotik",
       "D": "Patojen"
@@ -1244,7 +1244,7 @@
     "options": {
       "A": "Etin su tutma kapasitesinin artması",
       "B": "Kasların gevşemesi",
-      "C": "Et proteinlerinin su tutma kapasitesinin azalması.",
+      "C": "Et proteinlerinin su tutma kapasitesinin azalması",
       "D": "Yağ oranının artması"
     },
     "answer": "C"
@@ -1255,7 +1255,7 @@
       "A": "25°C",
       "B": "40°C",
       "C": "60°C",
-      "D": "80°C üzeri."
+      "D": "80°C üzeri"
     },
     "answer": "D"
   },
@@ -1263,7 +1263,7 @@
     "question": "İşlevsel besinlerin temel özelliklerinden biri aşağıdakilerden hangisidir?",
     "options": {
       "A": "Sadece ilaç formunda tüketilebilmesi",
-      "B": "Günlük diyette yer alması ve sağlık üzerinde olumlu etkiler göstermesi.",
+      "B": "Günlük diyette yer alması ve sağlık üzerinde olumlu etkiler göstermesi",
       "C": "Yalnızca vitamin ve mineral içermesi",
       "D": "Hastalıkları tamamen tedavi etmesi"
     },
@@ -1272,7 +1272,7 @@
   "129": {
     "question": "Aşağıdakilerden hangisi işlevsel besinlere örnek olarak verilebilir?",
     "options": {
-      "A": "n-3 yağ asidi ile zenginleştirilmiş yumurta.",
+      "A": "n-3 yağ asidi ile zenginleştirilmiş yumurta",
       "B": "Sadece saf şeker içeren ürünler",
       "C": "Yapay tatlandırıcı tabletleri",
       "D": "Enerji içermeyen ilaç kapsülleri"
@@ -1283,7 +1283,7 @@
     "question": "Çay üretiminde “soldurma” işleminin temel amacı aşağıdakilerden hangisidir?",
     "options": {
       "A": "Çayın paketlenmeye uygun hale gelmesini sağlamak",
-      "B": "Yapraktaki su miktarını azaltarak kıvırma ve fermentasyon için uygun ortam oluşturmak.",
+      "B": "Yapraktaki su miktarını azaltarak kıvırma ve fermentasyon için uygun ortam oluşturmak",
       "C": "Çay yapraklarının rengini koyulaştırmak",
       "D": "Çaydaki kafein miktarını artırmak"
     },
@@ -1292,7 +1292,7 @@
   "131": {
     "question": "Siyah çayın kalite değerlendirmesinde önemli kabul edilen TF/TR oranı ile ilgili aşağıdakilerden hangisi doğrudur",
     "options": {
-      "A": "İyi kaliteli çayda oran yaklaşık 1/10’dur.",
+      "A": "İyi kaliteli çayda oran yaklaşık 1/10’dur",
       "B": "Oran yükseldikçe çayın burukluğu tamamen kaybolur",
       "C": "Oranın düşük olması çayın parlaklığını artırır",
       "D": "TF/TR oranı sadece yeşil çay için kullanılır"
@@ -1304,7 +1304,7 @@
     "options": {
       "A": "Arabica’ya göre %50-60 daha fazla kafein içerir",
       "B": "Hastalıklara karşı daha dayanıklıdır",
-      "C": "Kahve pazarında en yüksek ticari değere sahiptir.",
+      "C": "Kahve pazarında en yüksek ticari değere sahiptir",
       "D": "Daha çok Endonezya ve Vietnam’da yetiştirilir"
     },
     "answer": "C"
@@ -1313,7 +1313,7 @@
     "question": "Kahvenin kavrulması sırasında meydana gelen değişikliklerden biri aşağıdakilerden hangisidir?",
     "options": {
       "A": "Nem oranının artması",
-      "B": "Kahve aromasından sorumlu bileşiklerin oluşması.",
+      "B": "Kahve aromasından sorumlu bileşiklerin oluşması",
       "C": "Protein miktarının tamamen korunması",
       "D": "Kafeinin tamamen yok olması"
     },
@@ -1323,7 +1323,7 @@
     "question": "Aşağıdakilerden hangisi prebiyotiklerin özelliklerinden biridir?",
     "options": {
       "A": "Midede tamamen sindirilmesi",
-      "B": "Kolon mikroflorası tarafından hidrolize edilebilmesi.",
+      "B": "Kolon mikroflorası tarafından hidrolize edilebilmesi",
       "C": "Sadece patojen bakterilerin çoğalmasını artırması",
       "D": "Vitamin kaynağı olması"
     },
@@ -1335,7 +1335,7 @@
       "A": "Laktoz intoleransı",
       "B": "İrritabl barsak sendromu",
       "C": "Diş çürüklerinin önlenmesi",
-      "D": "Kemik kırıklarının tedavisi."
+      "D": "Kemik kırıklarının tedavisi"
     },
     "answer": "D"
   },
@@ -1344,7 +1344,7 @@
     "options": {
       "A": "Kas dokusunda bulunan çözünür bir proteindir",
       "B": "Tek polipeptit zincirinden oluşur ve suda tamamen çözünür",
-      "C": "Bağ doku proteinidir ve üç polipeptit zincirinin oluşturduğu triple heliks yapıya sahiptir.",
+      "C": "Bağ doku proteinidir ve üç polipeptit zincirinin oluşturduğu triple heliks yapıya sahiptir",
       "D": "Yapısında yüksek oranda triptofan ve sistin bulunur"
     },
     "answer": "C"
@@ -1355,7 +1355,7 @@
       "A": "Miyofibriller proteinler yüksek iyonik kuvvetteki tuz çözeltilerinde çözünür",
       "B": "Miyojen ve miyoalbümin çözünür proteinler grubunda yer alır",
       "C": "Kollajen ve elastin çözünmeyen proteinler arasında bulunur",
-      "D": "Troponin ve miyozin çözünmeyen bağ doku proteinleridir."
+      "D": "Troponin ve miyozin çözünmeyen bağ doku proteinleridir"
     },
     "answer": "D"
   },
@@ -1365,14 +1365,14 @@
       "A": "Yaşlı nüfusun artması ve kronik hastalıkların yaygınlaşması",
       "B": "Bireylerin sağlıklı yaşam konusunda bilinçlenmesi ve sağlık geliştirme isteğinin artması",
       "C": "Diyetin hastalıkların prevalansı ve gelişimi üzerindeki etkisini gösteren bilimsel kanıtların bulunması",
-      "D": "Beslenmenin sağlık üzerinde hiçbir etkisinin olmadığının bilimsel olarak kanıtlanması."
+      "D": "Beslenmenin sağlık üzerinde hiçbir etkisinin olmadığının bilimsel olarak kanıtlanması"
     },
     "answer": "D"
   },
   "139": {
     "question": "Aşağıdakilerden hangisi işlevsel besinlerin kriterlerinden biri değildir?",
     "options": {
-      "A": "Tedavi amacıyla kullanılan ilaç formunda hazırlanması.",
+      "A": "Tedavi amacıyla kullanılan ilaç formunda hazırlanması",
       "B": "Hastalık riskini azaltıcı ve yaşam kalitesini artırıcı etkiye sahip olması",
       "C": "Günlük diyetle tüketilebilmesi ve normal tüketim miktarlarında etkisini gösterebilmesi",
       "D": "Temel beslenmenin dışında sağlık üzerine olumlu etkiler göstermesi"
@@ -1383,7 +1383,7 @@
     "question": "Çay üretiminde uygulanan “soldurma” işlemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": {
       "A": "Yaprakların nem oranını artırarak sertleşmesini sağlar",
-      "B": "Yaprakların kırılmadan kıvrılıp bükülmesine uygun ortam oluşturur ve fermentasyon için enzim aktivitesini başlatır.",
+      "B": "Yaprakların kırılmadan kıvrılıp bükülmesine uygun ortam oluşturur ve fermentasyon için enzim aktivitesini başlatır",
       "C": "Soldurma işlemi sırasında düşük sıcaklıkta dondurma uygulanır",
       "D": "Soldurma işleminin amacı yalnızca yaprak rengini koyulaştırmaktır"
     },
@@ -1393,7 +1393,7 @@
     "question": "Çay üretiminde uygulanan kıvırma işlemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": {
       "A": "Kıvırma işlemi sırasında yaprakların enzim aktivitesi tamamen durdurulur",
-      "B": "Orthodox yöntemde büyük çay yaprakları kullanılır ve açık kırmızı renkli çay oluşur.",
+      "B": "Orthodox yöntemde büyük çay yaprakları kullanılır ve açık kırmızı renkli çay oluşur",
       "C": "Kesme (CTC) yönteminde çay yaprakları kurutulmadan doğrudan paketlenir",
       "D": "Kıvırma işleminin amacı yalnızca çayın rengini koyulaştırmaktır"
     },
@@ -1404,7 +1404,7 @@
     "options": {
       "A": "Kahve çekirdekleri su içinde fermente edilerek kurutulur",
       "B": "Kurutma işlemi çekirdek nemi %50’ye ulaşıncaya kadar sürdürülür",
-      "C": "Hasat edilen kahve çekirdekleri geniş alanlarda güneş ışığı altında kurutulur ve bu yöntem su kaynaklarının sınırlı olduğu bölgelerde yaygındır.",
+      "C": "Hasat edilen kahve çekirdekleri geniş alanlarda güneş ışığı altında kurutulur ve bu yöntem su kaynaklarının sınırlı olduğu bölgelerde yaygındır",
       "D": "Kuru yöntemde kahve çekirdekleri doğrudan kavurma işlemine alınır"
     },
     "answer": "C"
@@ -1413,7 +1413,7 @@
     "question": "Aşağıdakilerden hangisi Kahve aromasını etkileyen etmenler arasında yer almaz?",
     "options": {
       "A": "Kavurma derecesi ve kavurma mekanizması",
-      "B": "Koku.",
+      "B": "Koku",
       "C": "Kahveyi demleme yöntemi",
       "D": "İklim"
     },
@@ -1424,7 +1424,7 @@
     "options": {
       "A": "Doğal floraya adapte olabilmesi",
       "B": "Antimikrobiyal maddeler sağlayabilmesi",
-      "C": "Konakçı sağlığı üzerinde olumsuz etkileri olması.",
+      "C": "Konakçı sağlığı üzerinde olumsuz etkileri olması",
       "D": "Bağırsak duvarına tutunabilmesi"
     },
     "answer": "C"
@@ -1432,7 +1432,7 @@
   "145": {
     "question": "Kahve çekirdeklerinin kavrulması sırasında gerçekleşen kimyasal değişimlerden hangisi yanlıştır?",
     "options": {
-      "A": "Tiamin miktarı artar.",
+      "A": "Tiamin miktarı artar",
       "B": "Sukrozun çoğunluğu karamelize olur",
       "C": "Trigonellin %5-10 arasında nikotinik aside dönüşür",
       "D": "Klorojenik asit azalır"
@@ -1443,7 +1443,7 @@
     "question": "Kahvede bulunan ve antioksidan aktiviteden sorumlu olan en temel fenolik bileşik grubu aşağıdakilerden hangisidir?",
     "options": {
       "A": "Diterpenler",
-      "B": "Klorojenik asitler.",
+      "B": "Klorojenik asitler",
       "C": "Alkaloidler",
       "D": "Polisakkaritler"
     },
@@ -1454,7 +1454,7 @@
     "options": {
       "A": "Patojenlerin epitele tutunmasını ve istila etmesini önlemek",
       "B": "Kısa zincirli yağ asitleri (KZYA) ve folik asit gibi vitaminlerin salınımını sağlamak",
-      "C": "Patojen mikroorganizmaların üremesini teşvik etmek.",
+      "C": "Patojen mikroorganizmaların üremesini teşvik etmek",
       "D": "Konakçının immün yanıtını düzenlemek"
     },
     "answer": "C"
@@ -1463,7 +1463,7 @@
     "question": "Aşağıdakilerden hangisi bir prebiyotik bileşen değildir?",
     "options": {
       "A": "İnülin",
-      "B": "Lactobacillus rhamnosus GG.",
+      "B": "Lactobacillus rhamnosus GG",
       "C": "Fruktooligosakkarit (FOS)",
       "D": "Galaktooligosakkarit (GOS)"
     },
@@ -1472,7 +1472,7 @@
   "149": {
     "question": "Siyah çayın deminin parlaklık, burukluk ve kuvvetini belirleyen en önemli kalite indikatörü aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Theaflavin / Thearubigin oranı.",
+      "A": "Theaflavin / Thearubigin oranı",
       "B": "Toplam karbonhidrat miktarı",
       "C": "Klorofil a ve b konsantrasyonu",
       "D": "Minerallerin toplam kuru maddedeki payı"
@@ -1485,7 +1485,7 @@
       "A": "Mineraller",
       "B": "Klorofiller",
       "C": "Lipidler",
-      "D": "Amino asitler."
+      "D": "Amino asitler"
     },
     "answer": "D"
   },
@@ -1493,7 +1493,7 @@
     "question": "Aşağıdakilerden hangisi bir besinin İşlevsel Besin olarak kabul edilmesi için gereken kriterlerden biri değildir?",
     "options": {
       "A": "Yaşam kalitesini artırıcı etkisi olmalı",
-      "B": "Kapsül veya şurup formunda ilaç olarak satılmalı.",
+      "B": "Kapsül veya şurup formunda ilaç olarak satılmalı",
       "C": "Diyetle tüketilebilir olmalı",
       "D": "Besin olarak kalmalı"
     },
@@ -1504,7 +1504,7 @@
     "options": {
       "A": "Yeni ürünlerin geliştirilmesi için besin sanayisiyle iş birliği yapmak",
       "B": "Halkın doğru bilgilenmesi için medya ile iletişimde kalmak",
-      "C": "İşlevsel besinleri ilaç yerine geçecek şekilde reçete etmek.",
+      "C": "İşlevsel besinleri ilaç yerine geçecek şekilde reçete etmek",
       "D": "Hastalık risklerini azaltmak için uygun diyet önerileri hazırlamak"
     },
     "answer": "C"
@@ -1514,7 +1514,7 @@
     "options": {
       "A": "pH’ın 5 olması",
       "B": "Oda sıcaklığında bekletme",
-      "C": "Fazla şeker kullanılması.",
+      "C": "Fazla şeker kullanılması",
       "D": "Yüksek molekül ağırlığı"
     },
     "answer": "C"
@@ -1525,7 +1525,7 @@
       "A": "% 10-15",
       "B": "% 40-50",
       "C": "% 5-10",
-      "D": "% 20-22."
+      "D": "% 20-22"
     },
     "answer": "D"
   },
@@ -1534,7 +1534,7 @@
     "options": {
       "A": "C vitamini bakımından zengindir",
       "B": "Kalsiyum miktarı yüksektir",
-      "C": "B grubu vitaminler bakımından zengindir.",
+      "C": "B grubu vitaminler bakımından zengindir",
       "D": "Çinko içermez"
     },
     "answer": "C"
@@ -1545,7 +1545,7 @@
       "A": "Lactobacillus türleri",
       "B": "Bifidobacterium türleri",
       "C": "Saccharomyces cerevisiae",
-      "D": "Staphylococcus aureus."
+      "D": "Staphylococcus aureus"
     },
     "answer": "D"
   },
@@ -1555,7 +1555,7 @@
       "A": "İnülin",
       "B": "Fruktooligosakkaritler",
       "C": "Galaktooligosakkaritler",
-      "D": "Kollajen."
+      "D": "Kollajen"
     },
     "answer": "D"
   },
@@ -1563,7 +1563,7 @@
     "question": "Kahvede bulunan fenolik bileşiklerin temel özelliği aşağıdakilerden hangisidir?",
     "options": {
       "A": "Kahvenin protein içeriğini artırmaları",
-      "B": "Antioksidan aktiviteye katkı sağlamaları.",
+      "B": "Antioksidan aktiviteye katkı sağlamaları",
       "C": "Kafein sentezini durdurmaları",
       "D": "Mineral emilimini tamamen engellemeleri"
     },
@@ -1572,7 +1572,7 @@
   "159": {
     "question": "Aşağıdaki bileşiklerden hangisi kahvenin fenolik bileşikleri arasında yer alır?",
     "options": {
-      "A": "Klorojenik asit.",
+      "A": "Klorojenik asit",
       "B": "Laktoz",
       "C": "Kazein",
       "D": "Nişasta"
@@ -1583,7 +1583,7 @@
     "question": "Aşağıdakilerden hangisi ette lezzetten sorumlu uçucu bileşiklerden değildir?",
     "options": {
       "A": "1-Octen-3-ol",
-      "B": "Sulfatid.",
+      "B": "Sulfatid",
       "C": "Asetoin",
       "D": "1-Pentem-3-ol"
     },
@@ -1595,7 +1595,7 @@
       "A": "Uzun ipliksi görünümdedir",
       "B": "Plazma ve serum olarak iki kısımdan meydana gelir",
       "C": "Kanın renk maddesi olup eritrositlerde bulunmaktadır",
-      "D": "Organizmanın iç ve dış yüzeyini koruyan, tipik formunu veren dokudur."
+      "D": "Organizmanın iç ve dış yüzeyini koruyan, tipik formunu veren dokudur"
     },
     "answer": "D"
   },
@@ -1605,7 +1605,7 @@
       "A": "Akut ishal",
       "B": "Laktoz intoleransı",
       "C": "Kolorektal kanser",
-      "D": "Şiddetli maya alerjisi."
+      "D": "Şiddetli maya alerjisi"
     },
     "answer": "D"
   },
@@ -1613,7 +1613,7 @@
     "question": "Aşağıdakilerden hangisi prebiyotikler için söylenemez?",
     "options": {
       "A": "Sindirime dirençlidir",
-      "B": "Kolon mikroflora bakterileri tarafından hidrolize edilemezler.",
+      "B": "Kolon mikroflora bakterileri tarafından hidrolize edilemezler",
       "C": "Konakçının sağlığı üzerinde olumlu etkileri olmalı",
       "D": "Kısıtlı sayıda olmak üzere daha çok bakterinin çoğalmasını uyarabilir"
     },
@@ -1624,7 +1624,7 @@
     "options": {
       "A": "Besin değeri dışında yemel hedefler üzerine pozitif etkisi olmalı",
       "B": "Diyetle tüketilebilmeli",
-      "C": "İlaç formunda sunulmalı.",
+      "C": "İlaç formunda sunulmalı",
       "D": "Yaşam kalitesini artırıcı etkisi olmalı"
     },
     "answer": "C"
@@ -1632,7 +1632,7 @@
   "165": {
     "question": "İşlevsel besin biliminin bilimsel olarak ortaya çıkışı ve onay sistemi olan FOSHU hangi ülke ile ilişkilidir?",
     "options": {
-      "A": "Japonya.",
+      "A": "Japonya",
       "B": "Avusturya",
       "C": "Amerika",
       "D": "Kanada"
@@ -1645,7 +1645,7 @@
       "A": "1870: Fransa’da çay tarımı hızla yayıldı",
       "B": "850: çay hakkında bilgiler Çinliler’e ulaştı",
       "C": "1200: İngiltere’de çay hakkında ilk kitap yayınlandı",
-      "D": "1610: Hollandalılar çayı Avrupa’ya soktu."
+      "D": "1610: Hollandalılar çayı Avrupa’ya soktu"
     },
     "answer": "D"
   },
@@ -1653,7 +1653,7 @@
     "question": "Aşağıdakilerden hangisi Flavan-3-oller grubu altında yer alan bileşenlerden biri değildir?",
     "options": {
       "A": "Gallokateşin gallat",
-      "B": "Süksinik asit.",
+      "B": "Süksinik asit",
       "C": "Epigallo kateşin",
       "D": "Theaflavin gallat"
     },
@@ -1662,7 +1662,7 @@
   "168": {
     "question": "Kahvenin kavrulması sırasında oluşan değişikliklerden hangisi yanlıştır?",
     "options": {
-      "A": "Selüloz ve araban miktarı artar.",
+      "A": "Selüloz ve araban miktarı artar",
       "B": "Sukrozun çoğunluğu karamelize olur",
       "C": "Malat laktar ve quinik asit artar",
       "D": "Nem %16 azalır"
@@ -1672,7 +1672,7 @@
   "169": {
     "question": "Dekafeinizasyon işleminin temel ilkesi nedir?",
     "options": {
-      "A": "Yeşil kahve çekirdeklerinin su veya buharla şişirilip kafeinin ekstrakte edilmesi.",
+      "A": "Yeşil kahve çekirdeklerinin su veya buharla şişirilip kafeinin ekstrakte edilmesi",
       "B": "Kahve çekirdeklerinin kimyasal olarak karemelize edilmesi",
       "C": "Buhar yardımı ile kahve çekirdeklerinde kalan kalıntıların ayrılması",
       "D": "Kahvenin suyla kaynatılıp tüm aromasının uçması"
@@ -1684,7 +1684,7 @@
     "options": {
       "A": "Mide asiditesine ve safra asitlerine karşı dirençli olması",
       "B": "Sindirim kanalında geçici de olsa kolonize olabilmesi ve hayatta kalması",
-      "C": "Konakçının kalın bağırsak florasında kalıcı olarak ömür boyu yerleşmesi.",
+      "C": "Konakçının kalın bağırsak florasında kalıcı olarak ömür boyu yerleşmesi",
       "D": "Patojen veya toksik etki göstermemesi ve güvenilirliğinin kanıtlanmış olması"
     },
     "answer": "C"
@@ -1693,7 +1693,7 @@
     "question": "Prebiyotik bileşenlerin insan vücudundaki sindirim basamakları ve fermentasyon süreçleri göz önüne alındığında, gastrointestinal sistemdeki metabolik ilerleyişi ile ilgili aşağıda verilen ifadelerden hangisi doğrudur?",
     "options": {
       "A": "Midedeki güçlü hidroklorik asit (HCl) etkisiyle tamamen monosakkaritlerine hidrolize edilirler",
-      "B": "Ağız ve ince bağırsakta enzimatik hidrolize uğramayarak kalın bağırsak (kolon) bölgesine kadar sindirilmeden ulaşırlar.",
+      "B": "Ağız ve ince bağırsakta enzimatik hidrolize uğramayarak kalın bağırsak (kolon) bölgesine kadar sindirilmeden ulaşırlar",
       "C": "İnce bağırsak mukozasından aktif taşıma mekanizmasıyla emilerek kana karışırlar",
       "D": "Kolondaki bakteriyel fermentasyonları sonucunda metabolik enerji değerleri net olarak 4.0 kcal/g şeklinde hesaplanır"
     },
@@ -1703,7 +1703,7 @@
     "question": "Kahve çekirdeklerinin dekafeinizasyon (kafeinsizleştirme) işlemleri ile ilgili aşağıda verilen ifadelerden hangisi doğrudur?",
     "options": {
       "A": "Dekafeinizasyon işlemi, kahvenin kendine has uçucu aroma bileşenlerinin korunması amacıyla kavurma ve öğütme aşamalarından sonra uygulanır",
-      "B": "Tüm dekafeinizasyon yöntemlerinde temel ilke; yeşil kahve çekirdeklerinin su veya buhar ile şişirilerek kafeinin ekstrakte edilebilir hale getirilmesidir.",
+      "B": "Tüm dekafeinizasyon yöntemlerinde temel ilke; yeşil kahve çekirdeklerinin su veya buhar ile şişirilerek kafeinin ekstrakte edilebilir hale getirilmesidir",
       "C": "Süperkritik karbondioksit (CO_2) metodunda, kafeini selektif olarak bağlamak için organik çözücü olarak etil asetat kullanımı zorunludur",
       "D": "İşlem tamamlandığında, çekirdeklerin raf ömrünü uzatmak adına nem düzeyi yeşil kahvenin orijinal nem değerinin çok daha altına (yaklaşık %1-2’ye) düşürülür"
     },
@@ -1714,7 +1714,7 @@
     "options": {
       "A": "Serbest aminoasitler ile indirgen şekerlerin reaksiyona girmesiyle kahveye özgü esmer renkli melanoidin pigmentlerinin oluşması",
       "B": "Yeşil çekirdekte yüksek oranda bulunan trigonellin molekülünün ısı etkisiyle parçalanarak nikotinik asit (B3 vitamini) oluşturması",
-      "C": "Akrilamid gibi ısıl işlem kontaminantlarının, özellikle kavurmanın ileri aşamalarında ve koyu kavrulmuş (dark roast) kahvelerde en yüksek konsantrasyona ulaşması.",
+      "C": "Akrilamid gibi ısıl işlem kontaminantlarının, özellikle kavurmanın ileri aşamalarında ve koyu kavrulmuş (dark roast) kahvelerde en yüksek konsantrasyona ulaşması",
       "D": "Polisakkaritlerin degredasyonu ve oligosakkaritlerin parçalanması neticesinde formik asit, asetik asit ve quinik asit gibi asidik bileşenlerin miktarında değişimler yaşanması"
     },
     "answer": "C"
@@ -1723,7 +1723,7 @@
     "question": "Siyah çay üretiminde, kıvrılmış yaş çay yapraklarının polifenol oksidaz ve peroksidaz gibi endojen enzimlerin etkisiyle biyokimyasal değişime uğradığı “fermantasyon” (oksidasyon) aşaması, son ürünün kalite kriterleri açısından kritik öneme sahiptir. Buna göre, siyah çayda demin rengi, koyuluğu, burukluğu ve parlaklığı için en önemli kalite indikatörü kabul edilen ve epikateşin ile epigallokateşinin yükseltgenmesi sonucu oluşan spesifik polifenolik bileşik aşağıdakilerden hangisidir?",
     "options": {
       "A": "Teobromin",
-      "B": "Theaflavin.",
+      "B": "Theaflavin",
       "C": "Pektin metil esteraz",
       "D": "Shikimic asit"
     },
@@ -1732,7 +1732,7 @@
   "175": {
     "question": "Çay yapraklarının işlenmesi sırasında uygulanan teknolojik işlemler, bileşimdeki nem miktarını ve enzim aktivitesini doğrudan etkileyerek nihai ürünün raf ömrünü ve kimyasal kararlılığını belirler. Çay işleme teknolojisinde, taze yapraklardaki yaklaşık %70-80 oranındaki nemin ilk olarak %50-55 seviyelerine düşürüldüğü aşama ile fermantasyonu tamamen sonlandırmak amacıyla nemin yaklaşık %3’e indirildiği aşama sırasıyla hangi seçenekte doğru verilmiştir?",
     "options": {
-      "A": "Soldurma – Kurutma.",
+      "A": "Soldurma – Kurutma",
       "B": "Kıvırma – Soldurma",
       "C": "Fermentasyon – Kıvırma",
       "D": "Soldurma – Derecelendirme"
@@ -1743,7 +1743,7 @@
     "question": "Bir besin matrisinde yer alan ve temel besleyici (makro/mikro) fonksiyonlarının ötesinde, insan fizyolojisi üzerinde antioksidan veya kolesterol düşürücü gibi spesifik biyolojik aktiviteler gösteren “biyoaktif bileşenlerin” (örneğin fonksiyonel gıdalardaki fitosteroller veya polifenoller) miktar tayininde, uçuculuk özelliklerinin düşük olması ve ısıl hassasiyetleri nedeniyle en yaygın ve güvenilir olarak tercih edilen kromatografik analiz yöntemi aşağıdakilerden hangisidir?",
     "options": {
       "A": "Gaz Kromatografisi – Kütle Spektrometrisi (GC-MS)",
-      "B": "Yüksek Performanslı Sıvı Kromatografisi (HPLC).",
+      "B": "Yüksek Performanslı Sıvı Kromatografisi (HPLC)",
       "C": "İnce Tabaka Kromatografisi (TLC)",
       "D": "Kapiler Elektroforez (CE)"
     },
@@ -1754,7 +1754,7 @@
     "options": {
       "A": "Tek Uyarı Testi",
       "B": "Eşlenmiş Kıyaslama Testi",
-      "C": "Duo-Trio (İkili-Üçlü) Testi.",
+      "C": "Duo-Trio (İkili-Üçlü) Testi",
       "D": "Üçgen Testi"
     },
     "answer": "C"
@@ -1764,7 +1764,7 @@
     "options": {
       "A": "Isıl işlemden önce ortama şeker eklenmesi koagülasyon sıcaklığını yükseltir ve jelleşme süresini uzatır",
       "B": "Tuz ilavesi, proteinlerin üzerindeki elektrik yükünü nötralize ederek jel yapısının oluşmasına yardımcı olur",
-      "C": "Koagülasyonun 2. Aşaması (proteinlerin bir araya toplanması) 1. Aşamadan (moleküllerin açılması) daha hızlı gerçekleşirse su tutma kapasitesi yüksek, mükemmel bir jel yapısı elde edilir.",
+      "C": "Koagülasyonun 2. Aşaması (proteinlerin bir araya toplanması) 1. Aşamadan (moleküllerin açılması) daha hızlı gerçekleşirse su tutma kapasitesi yüksek, mükemmel bir jel yapısı elde edilir",
       "D": "Yumurta akı proteinleri yumurta sarısına göre daha düşük sıcaklıklarda (yaklaşık 52-60°C civarı) koagüle olmaya başlar"
     },
     "answer": "C"
@@ -1775,7 +1775,7 @@
       "A": "Depolama sırasında meydana gelen CO_2 kaybı nedeniyle, yumurta akının pH değeri alkaliye doğru kayarak 7.6’dan 9.7 seviyelerine kadar yükselebilir",
       "B": "Yumurta akındaki suyun osmoz yoluyla yumurta sarısına geçmesi sonucunda vitellin zarı zayıflar ve sarı kısmının kuru madde yüzdesi düşer",
       "C": "Depolanma süresi arttıkça yumurtanın içindeki su kaybına bağlı olarak hava boşluğu genişler ve yumurta hafifler",
-      "D": "Yumurta akı proteinlerinin kararlılığı ve yapısı bozuldukça, ak kısmının viskozitesi (koyuluğu) artar ve sarıyı merkezde tutan şalaza bağları daha da sağlamlaşır."
+      "D": "Yumurta akı proteinlerinin kararlılığı ve yapısı bozuldukça, ak kısmının viskozitesi (koyuluğu) artar ve sarıyı merkezde tutan şalaza bağları daha da sağlamlaşır"
     },
     "answer": "D"
   },
@@ -1783,7 +1783,7 @@
     "question": "Kahve çekirdeklerinin kavrulma işlemi sırasında trigonellin maddesi %5-10 oranında hangi vitamine dönüşürken, tiamin (B1 vitamini) bu süreçte tamamen tahrip olur?",
     "options": {
       "A": "Vitamin C",
-      "B": "Nikotinik Asit.",
+      "B": "Nikotinik Asit",
       "C": "Vitamin B12",
       "D": "Vitamin D"
     },
@@ -1792,7 +1792,7 @@
   "181": {
     "question": "Kahvenin antioksidan aktivitesine en önemli katkıyı sağlayan ve yeşil çekirdekte en baskın bulunan fenolik bileşik grubu aşağıdakilerden hangisidir?",
     "options": {
-      "A": "Klorojenik asitler.",
+      "A": "Klorojenik asitler",
       "B": "Kafein",
       "C": "Diterpenler",
       "D": "Trigliseritler"
@@ -1804,7 +1804,7 @@
     "options": {
       "A": "Mide asiditesine karşı duyarlı olması",
       "B": "Sadece ağız boşluğunda kolonize olması",
-      "C": "Mide asiditesine ve safra asitlerine dirençli olması.",
+      "C": "Mide asiditesine ve safra asitlerine dirençli olması",
       "D": "Isıl işlem gördüğünde hemen parçalanması"
     },
     "answer": "C"
@@ -1814,7 +1814,7 @@
     "options": {
       "A": "İnce bağırsakta tamamen sindirilip kana karışırlar",
       "B": "Mide asidi ile tamamen parçalanarak enerji verirler",
-      "C": "Üst sindirim sisteminde sindirime direnç gösterip kolonda fermente edilirler.",
+      "C": "Üst sindirim sisteminde sindirime direnç gösterip kolonda fermente edilirler",
       "D": "Patojen bakterilerin çoğalmasını doğrudan desteklerler"
     },
     "answer": "C"
@@ -1824,7 +1824,7 @@
     "options": {
       "A": "1 / 1",
       "B": "1 / 5",
-      "C": "1 / 10.",
+      "C": "1 / 10",
       "D": "1 / 25"
     },
     "answer": "C"
@@ -1833,7 +1833,7 @@
     "question": "Çay tüketimi ile demir emilimi arasındaki ilişki hakkında kaynaklara göre hangi ifade doğrudur?",
     "options": {
       "A": "Bireyin demir depoları ne kadar dolu olursa olsun çay emilimi engeller",
-      "B": "Bireyin demir depoları yeterli düzeyde ise çay tüketimi demir durumunu etkilemez.",
+      "B": "Bireyin demir depoları yeterli düzeyde ise çay tüketimi demir durumunu etkilemez",
       "C": "Çay tüketimi sadece demir fazlalığı olan bireylerde emilimi artırır",
       "D": "Demir anemisi olanlarda çay tüketimi ferritin düzeyini yükseltir"
     },
@@ -1843,7 +1843,7 @@
     "question": "Yukarıda verilen Prebiyotiklerin özelliklerinden hangileri doğrudur ?",
     "options": {
       "A": "I. II. IV.",
-      "B": "I. II. III..",
+      "B": "I. II. III.",
       "C": "hepsi",
       "D": "III. IV."
     },
@@ -1855,7 +1855,7 @@
     "options": {
       "A": "siyah çay",
       "B": "kırmızı çay",
-      "C": "yeşil çay.",
+      "C": "yeşil çay",
       "D": "oolong çay"
     },
     "answer": "C"
@@ -1865,7 +1865,7 @@
     "options": {
       "A": "Coffea olarak bilinen bir bitki ailesinden gelmektedir",
       "B": "18. yüzyılda İsveçli botanikçi Carolus Linnaeus tarafından tanımlanmıştır",
-      "C": "İnsanlar tarafından ilk kez keşfedilmiştir.",
+      "C": "İnsanlar tarafından ilk kez keşfedilmiştir",
       "D": "Gelişmekte olan ülkelerin ihraç ettikleri en önemli tarım ürünüdür"
     },
     "answer": "C"
@@ -1874,7 +1874,7 @@
     "question": "Aşağıdakilerden hangisi tereyağı üretim yönteminin temel adımlarından biri değildir?",
     "options": {
       "A": "Olgunlaştırma (Matürasyon)",
-      "B": "Homojenizasyon.",
+      "B": "Homojenizasyon",
       "C": "Yayık (Çalkalama) İşlemi",
       "D": "Yıkama ve Tuzlama"
     },
@@ -1886,7 +1886,7 @@
       "A": "Soldurma",
       "B": "Fermentasyon",
       "C": "Derecelendirme",
-      "D": "Pastörizasyon."
+      "D": "Pastörizasyon"
     },
     "answer": "D"
   },
@@ -1896,7 +1896,7 @@
       "A": "Yaşlı nüfusun artması ve sağlık harcamalarının yükselmesi",
       "B": "Bireysel sağlığı geliştirme istekliliği ve bunun farkındalığı",
       "C": "Besin düzenlenmesindeki değişiklikler ve bilimsel kanıtların varlığı",
-      "D": "Gelişmekte olan ülkelerde tarımsal ihracat gelirlerinin düşmesi."
+      "D": "Gelişmekte olan ülkelerde tarımsal ihracat gelirlerinin düşmesi"
     },
     "answer": "D"
   },
@@ -1904,7 +1904,7 @@
     "question": "Aşağıdakilerden hangisi etlerde besin değeri ve besin teknolojisi açısından önemli olan dokulardan biridir?",
     "options": {
       "A": "Kemik",
-      "B": "Kas.",
+      "B": "Kas",
       "C": "Kıkırdak",
       "D": "Yağ"
     },
@@ -1914,7 +1914,7 @@
     "question": "Aşağıdakilerden hangisi duyusal analizlerin ayrıldığı iki ana değerlendirme dalıdır?",
     "options": {
       "A": "Mikrobiyolojik ve Proksimet değerlendirme",
-      "B": "Objektif ve Subjektif değerlendirme.",
+      "B": "Objektif ve Subjektif değerlendirme",
       "C": "Klinik ve Duyusal değerlendirme",
       "D": "Tanımlayıcı ve Farklılaşma testler"
     },
@@ -1926,7 +1926,7 @@
       "A": "Glikoz",
       "B": "Sukroz",
       "C": "Galaktoz",
-      "D": "Laktoz."
+      "D": "Laktoz"
     },
     "answer": "D"
   },
@@ -1935,7 +1935,7 @@
     "options": {
       "A": "Hastalık riskini azaltıcı etki gösterebilmesi",
       "B": "Diyetle tüketilebilmesi",
-      "C": "İlaç formunda hazırlanması zorunluluğu.",
+      "C": "İlaç formunda hazırlanması zorunluluğu",
       "D": "Yaşam kalitesini artırıcı etkisinin olması"
     },
     "answer": "C"
@@ -1946,7 +1946,7 @@
       "A": "FOSHU — Japonya — 1991",
       "B": "FUFOSE — Avrupa Birliği — 1996",
       "C": "DSHEA — Amerika — 1994",
-      "D": "ANZFA — Kanada — 1996."
+      "D": "ANZFA — Kanada — 1996"
     },
     "answer": "D"
   },
@@ -1956,7 +1956,7 @@
       "A": "Mide asidi ve safra asitlerine dirençli olması",
       "B": "Barsak duvarına tutunabilmesi",
       "C": "Üretim ve depolama sırasında canlı kalabilmesi",
-      "D": "Antibiyotiklere tamamen duyarlı olması."
+      "D": "Antibiyotiklere tamamen duyarlı olması"
     },
     "answer": "D"
   },
@@ -1965,7 +1965,7 @@
     "options": {
       "A": "Mide asiditesini artırması",
       "B": "Protein sindirimini tamamen durdurması",
-      "C": "Postprandiyal glikoz ve insülin seviyelerini düşürmesi.",
+      "C": "Postprandiyal glikoz ve insülin seviyelerini düşürmesi",
       "D": "İnce bağırsakta tam emilim göstermesi"
     },
     "answer": "C"
@@ -1976,7 +1976,7 @@
       "A": "Mide asidi ve safra asitlerine dirençli olması",
       "B": "Barsak duvarına tutunabilmesi",
       "C": "Üretim ve depolama sırasında canlı kalabilmesi",
-      "D": "Antibiyotiklere tamamen duyarlı olması."
+      "D": "Antibiyotiklere tamamen duyarlı olması"
     },
     "answer": "D"
   },
@@ -1985,7 +1985,7 @@
     "options": {
       "A": "Mide asiditesini artırması",
       "B": "Protein sindirimini tamamen durdurması",
-      "C": "Postprandiyal glikoz ve insülin seviyelerini düşürmesi.",
+      "C": "Postprandiyal glikoz ve insülin seviyelerini düşürmesi",
       "D": "İnce bağırsakta tam emilim göstermesi"
     },
     "answer": "C"
@@ -1994,7 +1994,7 @@
     "question": "Aşağıdakilerden hangisi siyah çay üretiminde fermentasyon aşamasının temel sonuçlarından biridir?",
     "options": {
       "A": "Çay yaprağındaki su miktarının %80’e çıkması",
-      "B": "Yaprak renginin bakırımsı kırmızıya dönüşmesi.",
+      "B": "Yaprak renginin bakırımsı kırmızıya dönüşmesi",
       "C": "Kateşinlerin tamamen yok olması",
       "D": "Kafein miktarının sıfırlanması"
     },
@@ -2005,7 +2005,7 @@
     "options": {
       "A": "İyi kaliteli çayda oran 1/1 olmalıdır",
       "B": "TF/TR oranı yalnızca yeşil çay için kullanılır",
-      "C": "Oranın 1/25 veya daha düşük olması çayın parlaklığını ve kuvvetini azaltır.",
+      "C": "Oranın 1/25 veya daha düşük olması çayın parlaklığını ve kuvvetini azaltır",
       "D": "Thearubigin miktarı arttıkça kalite kesin olarak artar"
     },
     "answer": "C"
@@ -2014,7 +2014,7 @@
     "question": "Probiyotik besinlerin tanımı aşağıdakilerden hangisidir?",
     "options": {
       "A": "İçerisinde yalnızca vitamin bulunan besinler",
-      "B": "Raf ömrü boyunca yeterli miktarda canlı probiyotik mikroorganizma içeren besinler.",
+      "B": "Raf ömrü boyunca yeterli miktarda canlı probiyotik mikroorganizma içeren besinler",
       "C": "Protein içermeyen fermente ürünler",
       "D": "Sadece doğal yollarla elde edilen ürünler"
     },
@@ -2023,11 +2023,261 @@
   "204": {
     "question": "Aşağıdakilerden hangisi doğal probiyotik besin kaynaklarından biridir?",
     "options": {
-      "A": "Yoğurt.",
+      "A": "Yoğurt",
       "B": "Beyaz ekmek",
       "C": "Margarin",
       "D": "Gazlı içecek"
     },
     "answer": "A"
+  },
+  "205": {
+    "question": "Stanoller ile steroller arasındaki kimyasal farklara ilişkin aşağıda verilen ifadelerden hangisi doğrudur?",
+    "options": {
+      "A": "Steroller ile stanoller arasındaki tek fark, her ikisinin de sadece insan vücudunda sentezlenebilmesidir",
+      "B": "Stanoller, sterol halkalarında çift bağ içermeyen doymuş yapılardır",
+      "C": "Stanoller yüksek yağlı ortamlarda çözünemezken, steroller çok hızlı çözünür",
+      "D": "Stanoller, sterollere kıyasla çift bağ sayısı daha yüksek olan doymamış bileşiklerdir"
+    },
+    "answer": "B"
+  },
+  "206": {
+    "question": "Bitkisel sterollerin bitkilerdeki temel işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": {
+      "A": "Çeşitli metabolitlerin sentezinde rol oynamak",
+      "B": "Bitki hücre duvarının geçirgenliğini ve akışkanlığını düzenlemek",
+      "C": "İnsan organizmasında kolesterol sentezini tamamen durdurarak sindirim kanalını kaplamak",
+      "D": "Bitkinin büyümesi için gerekli çeşitli biyolojik maddelerin öncüsü olmak"
+    },
+    "answer": "C"
+  },
+  "207": {
+    "question": "Bitkisel stanoller ile steroller arasındaki temel yapısal fark aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Stanollerin yan zincirlerinde daha fazla çift bağ bulunması",
+      "B": "Sterollerin tamamen doymuş yapıda olması",
+      "C": "Stanollerin sterol halkalarında çift bağ içermemesi",
+      "D": "Sterollerin yalnızca hayvansal kaynaklı olması"
+    },
+    "answer": "C"
+  },
+  "208": {
+    "question": "Aşağıdakilerden hangisi bitkisel sterollerin bitkilerdeki temel işlevlerinden biri değildir?",
+    "options": {
+      "A": "Hücre duvarı geçirgenliğini düzenlemek",
+      "B": "Metabolit sentezine katkı sağlamak",
+      "C": "Çeşitli biyolojik maddelerin öncüsü olmak",
+      "D": "Bitkinin enerji üretiminde ATP sentezlemek"
+    },
+    "answer": "D"
+  },
+  "209": {
+    "question": "Aşağıdaki sterol/stanol bileşiklerinden hangisinin barsaklardan emilim oranı en düşüktür?",
+    "options": {
+      "A": "Campesterol",
+      "B": "Campestanol",
+      "C": "Sitosterol",
+      "D": "Sitostanol"
+    },
+    "answer": "D"
+  },
+  "210": {
+    "question": "Bitkisel sterol ve stanollerin kolesterol düşürücü etkisinin keşfedildiği yıl aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "1910",
+      "B": "1938",
+      "C": "1951",
+      "D": "1972"
+    },
+    "answer": "C"
+  },
+  "211": {
+    "question": "Aşağıdakilerden hangisi slayta göre yaygın bulunan bitkisel steroller ve stanoller arasında yer almaz?",
+    "options": {
+      "A": "Sitosterol",
+      "B": "Campesterol",
+      "C": "Stigmasterol",
+      "D": "Ergosterol"
+    },
+    "answer": "D"
+  },
+  "212": {
+    "question": "Slayta göre standart diyetle günlük 2 g bitkisel sterol tüketimine ulaşılamamasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sterollerin toksik olması",
+      "B": "Emilimlerinin aşırı yüksek olması",
+      "C": "Besinlerde sınırlı düzeyde bulunmaları",
+      "D": "Yalnızca hayvansal ürünlerde bulunmaları"
+    },
+    "answer": "C"
+  },
+  "213": {
+    "question": "Aşağıdakilerden hangisi bitkisel sterol ve stanollerin fonksiyonel besinlere eklenme nedenlerinden biri olarak verilmiştir?",
+    "options": {
+      "A": "Protein sentezini artırmaları",
+      "B": "Emilimlerini tamamen engellemeleri",
+      "C": "Çözünebilirlik ve emilimi artırma düşüncesi",
+      "D": "Vitamin üretimini sağlamaları"
+    },
+    "answer": "C"
+  },
+  "214": {
+    "question": "Aşağıdaki ifadelerden hangisi bitkisel sterol ve stanoller için doğrudur?",
+    "options": {
+      "A": "Kolesterolden tamamen farklı kimyasal yapıdadırlar",
+      "B": "Stanollerin kolesterol üzerindeki etkisi sterollerden çok daha düşüktür",
+      "C": "Steroller yalnızca yüksek yağlı ortamlarda çözünebilir",
+      "D": "Sterol ve stanoller kolesterole benzer bitkisel bileşenlerdir"
+    },
+    "answer": "D"
+  },
+  "215": {
+    "question": "Bitkisel sterollerin bitkilerdeki temel işlevleri arasında aşağıdakilerden hangisi yer almaz",
+    "options": {
+      "A": "Hücre duvarının geçirgenlik ve akışkanlığını düzenlemek",
+      "B": "Çeşitli metabolitlerin sentezinde rol oynamak",
+      "C": "İnsan vücudunda esansiyel amino asit sentezinde görev almak",
+      "D": "Bitkinin büyümesi için gerekli çeşitli biyolojik maddelerin öncüsü olma"
+    },
+    "answer": "C"
+  },
+  "216": {
+    "question": "Bitkisel stanoller ile bitkisel steroller arasındaki fark aşağıdakilerden hangisinde doğru verilmiştir?\nAşağıdakilerden hangisi doğada yaygın olarak bulunan bitki sterollerindendir?",
+    "options": {
+      "A": "Kalsiferol-tokoferol",
+      "B": "Sitosterol-campesterol",
+      "C": "Kolesterol-Ergosterol",
+      "D": "Lanolin-squalene"
+    },
+    "answer": "B"
+  },
+  "217": {
+    "question": "Emilim oranları kıyaslandığında, en düşük emilim oranına (%1) sahip olan bileşik aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sitosterol",
+      "B": "Campesterol",
+      "C": "Kolesterol",
+      "D": "Sitostanol"
+    },
+    "answer": "D"
+  },
+  "218": {
+    "question": "Kolesterol, sterol ve stanol molekülleri arasındaki farkı oluşturan bölgeler aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "İçerdikleri oksijen atomlarının toplam halka sayısı",
+      "B": "Sadece molekülün en ucunda yer alan hidroksil (OH) grubunun konumu",
+      "C": "Yan zincirdeki etil-metil grupları veya çift bağlar",
+      "D": "Moleküllerin taşıdığı azot atomlarının dizilimi"
+    },
+    "answer": "C"
+  },
+  "219": {
+    "question": "Bitkisel stanoller ile steroller arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Stanoller doymamış yapıdadır",
+      "B": "Steroller çift bağ içermez",
+      "C": "Stanoller sterollerin doyurulmuş halidir",
+      "D": "Steroller sadece hayvansal kaynaklıdır"
+    },
+    "answer": "C"
+  },
+  "220": {
+    "question": "Aşağıdakilerden hangisi yaygın bulunan bitkisel sterollerden biridir?",
+    "options": {
+      "A": "Glikoz",
+      "B": "Sitosterol",
+      "C": "Laktoz",
+      "D": "Fruktoz"
+    },
+    "answer": "B"
+  },
+  "221": {
+    "question": "Kolesterol, sterol ve stanol arasındaki önemli fark aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Protein miktarları",
+      "B": "Vitamin içerikleri",
+      "C": "Yan zincirdeki etil-metil grupları veya çift bağlar",
+      "D": "Mineral oranları"
+    },
+    "answer": "C"
+  },
+  "222": {
+    "question": "Bitkisel sterollerin bitkilerdeki temel görevlerinden biri aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Protein sentezini durdurmak",
+      "B": "Hücre duvarının geçirgenlik ve akışkanlığını düzenlemek",
+      "C": "Vitamin üretimini engellemek",
+      "D": "Fotosentezi azaltmak"
+    },
+    "answer": "B"
+  },
+  "223": {
+    "question": "Slaytlarda stanollerin sterol halkalarında çift bağ olmadığını (doyurulmuş olduğunu) ve bu yüzden düşük yağlı ortamlarda daha iyi çözündüğünü gördük.\nBu kimyasal fark, gıda endüstrisinde fonksiyonel ürün geliştirirken ne işe yarar?",
+    "options": {
+      "A": "Ürünlerin raf ömrünü kısaltır",
+      "B": "Yağ asidi miktarını artırır",
+      "C": "Az yağlı süt veya meyve suyu gibi farklı besinlere de eklenebilmesini sağlar",
+      "D": "Bağırsaklardan emilim oranını kolesterolden daha yüksek yapar"
+    },
+    "answer": "C"
+  },
+  "224": {
+    "question": "Kolesterolün vücutta emilim oranı %40-60 arasındayken bitkisel sterol ve stanollerin emilimi çok daha düşüktür.\nBuna göre, bağırsaklardan emilim oranı en düşük olan (%1 civarı) molekül aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sitostanol",
+      "B": "Campesterol",
+      "C": "Sitosterol",
+      "D": "Stigmasterol"
+    },
+    "answer": "A"
+  },
+  "225": {
+    "question": "Amerika Kalp Vakfı, kolesterolü düşürmek için günde 2g bitkisel sterol/stanol öneriyor. Ancak normal diyetlerle (vejetaryen dahil) en fazla 150-450 mg/gün alınabiliyor.\nDiyetle bu 2g hedefine ulaşılamamasının temel nedeni nedir?",
+    "options": {
+      "A": "Sterollerin sadece hayvansal gıdalarda bulunması",
+      "B": "Besinlerde çok az miktarda bulunmaları. (Bu yüzden fonksiyonel besinlere ihtiyaç duyulur)",
+      "C": "Pişirme sırasında sterollerin yapısının tamamen bozulması",
+      "D": "İnsan vücudunun bitkisel sterolleri midede parçalaması"
+    },
+    "answer": "B"
+  },
+  "226": {
+    "question": "Bitkisel sterollerin bitki organizmasındaki temel işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": {
+      "A": "insan organizması için kolesterol sentezlemek",
+      "B": "hücre duvarının geçirgenliğini ve akışkanlığını düzenlemek",
+      "C": "çeşitli metabolitlerin  sentezinde rol oynamak",
+      "D": "bitkinin büyümesi için gerekli biyolojik maddelere öncülük etmek"
+    },
+    "answer": "A"
+  },
+  "227": {
+    "question": "Aşağıdakilerden hangisi bitkisel stanoller için doğru bir bilgi değildir?",
+    "options": {
+      "A": "Sterollerin doyurulmuş halidir",
+      "B": "Düşük yağlı ortamlarda daha iyi çözünebilirliğe sahiptirler",
+      "C": "Sterol halkaları çift bağ içerir",
+      "D": "Farklı besinlere eklenebilirler"
+    },
+    "answer": "C"
+  },
+  "228": {
+    "question": "Aşağıdakilerden hangisi yaygın bulunan bitkisel sterollerden biridir?",
+    "options": {
+      "A": "Sitosterol",
+      "B": "Laktoz",
+      "C": "Glikojen",
+      "D": "Fruktoz"
+    },
+    "answer": "A"
+  },
+  "229": {
+    "question": "Kolesterolün bağırsaklardan emilim oranı kaçtır?",
+    "options": {
+      "A": "%5-10",
+      "B": "%15-25",
+      "C": "%35-40",
+      "D": "%40-60"
+    },
+    "answer": "D"
   }
 }
