@@ -1,811 +1,811 @@
 {
   "1": {
-    "question": "Aşağıdakilerden hangisi örgütü bir arada tutan bağdır?",
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Kültür",
-      "B": "Strateji",
-      "C": "Politika",
-      "D": "Vizyon",
-      "E": "Misyon"
+      "A": "Sosyal",
+      "B": "Çevresel",
+      "C": "Kültürel",
+      "D": "Toplumsal",
+      "E": "Ekonomik"
     },
-    "answer": "A"
+    "answer": "C",
+    "notes": "Bu alanda çalışanların birçoğu için sürdürülebilirlik, birbirine bağlı\nçevresel, ekonomik ve sosyal etki alanları ile tanımlanır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilemez?"
   },
   "2": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Örgüt kültürü",
-      "B": "Kurumsal vatandaşlık",
-      "C": "Örgütsel yapı",
-      "D": "Örgütsel adalet",
-      "E": "Örgütsel öğrenme"
+      "A": "Bilimsel belirsizliktir.",
+      "B": "Bilimsel belirginliktir.",
+      "C": "Bilimsel kesinliktir.",
+      "D": "Bilimsel yetersizliktir.",
+      "E": "Bilimsel eksikliktir."
     },
     "answer": "A",
-    "notes": "…………. duyu oluşumunu haber verdiğinden ve karmaşık verilerin,\nsorunlu durumların belirsiz program teknolojilerinin yorumlanmasını\nsağladığından, kültürün öğrenmeye rehberlik etiğini söylemek\nmümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+    "notes": "……………, bir faaliyeAn çevre açısından olumsuz neAceler doğuracağı\nkonusunda ciddi bir şüphenin var olması halinde bilimsel bir kanıJn\nortaya çıkışı beklenmeden önleyici tedbirlerin alınmasını öngörür.\nİhAyat ilkesinin ortaya çıkmasındaki en önemli etken ………………….\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   },
   "3": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "question": "Duygusal zeka alanında en önemli isimlerden biri Daniel Goleman’e göre aşağıdakilerden hangisi duygusal zekanın alt bölümlerinden biri değildir?",
     "options": {
-      "A": "Kültürün",
-      "B": "Stratejinin",
-      "C": "Politikanın",
-      "D": "Vizyonun",
-      "E": "Misyonun"
+      "A": "Öz denetim",
+      "B": "Sosyal farkındalık",
+      "C": "Öz yönetim",
+      "D": "İlişki yönetimi",
+      "E": "Öz farkındalık"
     },
-    "answer": "A",
-    "notes": "Örgüt kültürü duyu oluşumunu haber verdiğinden ve karmaşık\nverilerin, sorunlu durumların belirsiz program teknolojilerinin\nyorumlanmasını sağladığından, …………. öğrenmeye rehberlik etiğini\nsöylemek mümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+    "answer": "A"
   },
   "4": {
     "question": "Aşağıdakilerden hangisi günümüzde üniversitelerin temel fonksiyonlarından biri değildir?",
     "options": {
       "A": "Eğitim",
-      "B": "Öğretim",
-      "C": "Toplumsal katkı",
-      "D": "AraşTrma",
-      "E": "İnsan Kaynakları"
-    },
-    "answer": "E"
-  },
-  "5": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Nitelik",
-      "B": "Uygulama",
-      "C": "Kalite",
-      "D": "Yönetim",
-      "E": "Liderlik"
-    },
-    "answer": "C",
-    "notes": "YükseköğreAm Kanunu, üniversitelere toplumsal katkı yapmalarını\ngörev olarak değerlendirmektedir.\nÜniversiteler yerel, bölgesel ve ulusal toplumla bütünleşmelidirler ve\ntopluma katkı sağlayacak yaklaşım ve uygulamalar benimsemelidirler.\nSöz konusu bu toplumsal içerikli görevler de toplumsal katkı olarak\nanılmaktadır.\nBu arzuyu taşıyan yükseköğreAm kurumları bir takım standart\nuygulamalar ve ………. kriterlerini karşılamak durumundadır.\nYukarıdaki metindeki ……….. yere aşağıdakilerden hangisi\ngetirilmelidir?"
-  },
-  "6": {
-    "question": "Üniversitelerdeki toplumsal katkı fonksiyonu aşağıda belirtilenlerden hangisiyle en yakın temas halindedir?",
-    "options": {
-      "A": "İnsan kaynakları",
-      "B": "Kalite",
-      "C": "Halkla ilişkiler",
-      "D": "Kurumsal iletişim",
-      "E": "Bilişim sistemleri"
+      "B": "İnsan Kaynakları",
+      "C": "AraşTrma",
+      "D": "Toplumsal katkı",
+      "E": "Öğretim"
     },
     "answer": "B"
   },
-  "7": {
-    "question": "Üniversitelerin kentler üzerindeki katkıları öncelikle nasıldır?",
+  "5": {
+    "question": "Bireyin diğer bireylerin, grupların veya toplulukların bakış açılarını göz önünde bulundurma ve bu anlayışı onlarla tüm etkileşimlerine uygulama yeteneği nedir?",
     "options": {
-      "A": "Sosyal",
-      "B": "Kültürel",
-      "C": "Ekolojik",
-      "D": "Sürdürülebilir",
-      "E": "Ekonomik"
+      "A": "Sosyal duyarlılık",
+      "B": "Sosyal nezaket",
+      "C": "Sosyal farkındalık",
+      "D": "Sosyal hassasiyet",
+      "E": "Sosyal sorumluluk"
     },
-    "answer": "E"
+    "answer": "C"
+  },
+  "6": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Sürdürülebilir",
+      "B": "Girişimci",
+      "C": "Sorumlu",
+      "D": "Yenilikçi",
+      "E": "Menfaatçi"
+    },
+    "answer": "D",
+    "notes": "Birçok yazar, sosyal girişimciliğin en belirgin özelliğini sosyal girişimsel\nakAvitelerin kâr amacı gütmeyen doğası olarak tanımlamaktadır\n(Mair ve MarA, 2006). Bu yazarlar sosyal girişimciliği, sosyal bir\namaçla ya da kâr amaçsız bir sektörde yapılan …………. faaliyetler\nolarak görürler.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
+  },
+  "7": {
+    "question": "Sürdürülebilir Kalkınma Amaçları'nın süresi 2030'da dolacağı için 2020-2030 yılları arası aşağıdakilerden hangisi olarak adlandırılmaktadır?",
+    "options": {
+      "A": "Gelişme Onyılı",
+      "B": "Değişim Onyılı",
+      "C": "Sürdürülebilir Kalkınma Onyılı",
+      "D": "Eylem Onyılı",
+      "E": "Sürdürülebilirlik Onyılı"
+    },
+    "answer": "D"
   },
   "8": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Kültürel",
-      "B": "Toplumsal",
-      "C": "Çevresel",
-      "D": "Ekonomik",
-      "E": "Sosyal"
+      "A": "Kalite",
+      "B": "Uygulama",
+      "C": "Liderlik",
+      "D": "Nitelik",
+      "E": "Yönetim"
     },
     "answer": "A",
-    "notes": "Bu alanda çalışanların birçoğu için sürdürülebilirlik, birbirine bağlı\nçevresel, ekonomik ve sosyal etki alanları ile tanımlanır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilemez?"
+    "notes": "YükseköğreAm Kanunu, üniversitelere toplumsal katkı yapmalarını\ngörev olarak değerlendirmektedir.\nÜniversiteler yerel, bölgesel ve ulusal toplumla bütünleşmelidirler ve\ntopluma katkı sağlayacak yaklaşım ve uygulamalar benimsemelidirler.\nSöz konusu bu toplumsal içerikli görevler de toplumsal katkı olarak\nanılmaktadır.\nBu arzuyu taşıyan yükseköğreAm kurumları bir takım standart\nuygulamalar ve ………. kriterlerini karşılamak durumundadır.\nYukarıdaki metindeki ……….. yere aşağıdakilerden hangisi\ngetirilmelidir?"
   },
   "9": {
-    "question": "Aşağıdakilerden hangisi sürdürülebilir gelişmenin alt etki alanlarından biridir?",
+    "question": "Sosyal girişimci aşağıdakilerden hangisine sahip olan girişimcidir?",
     "options": {
-      "A": "Kültürel",
-      "B": "Toplumsal",
-      "C": "Çevresel",
-      "D": "Ekonomik",
-      "E": "Sosyal"
-    },
-    "answer": "A"
-  },
-  "10": {
-    "question": "Sürdürülebilirliğe doğru ilerlemek, aynı zamanda uluslararası ve ulusal hukuk, kentsel planlama ve ulaşım, tedarik zinciri yönetimi, yerel ve bireysel yaşam tarzı ve etik tüketim konularını da ilgilendiren Nasıl bir mücadeledir?",
-    "options": {
-      "A": "Politik",
-      "B": "Kültürel",
-      "C": "Çevresel",
-      "D": "Ekonomik",
-      "E": "Sosyal"
+      "A": "Sosyal amaçlara",
+      "B": "Sosyal stratejilere",
+      "C": "Sosyal hedeflere",
+      "D": "Sosyal vizyona",
+      "E": "Sosyal misyona"
     },
     "answer": "E"
   },
-  "11": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
+  "10": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
     "options": {
-      "A": "Refah",
-      "B": "Değişim",
-      "C": "Kriz",
-      "D": "Çözülme",
-      "E": "Durağan"
+      "A": "Kurumsal vatandaşlık",
+      "B": "Örgütsel yapı",
+      "C": "Örgütsel adalet",
+      "D": "Örgütsel öğrenme",
+      "E": "Örgüt kültürü"
     },
-    "answer": "C",
-    "notes": "Sürdürülebilirlik tarihi, ilk medeniyetlerden günümüze kadar insan\negemen ekolojik sistemleri izler. Bu tarihin karakterisAk bir özelliği\nşudur: Belirli bir toplumun bölgesel başarısı artar, ardından ……….\ndönemi olur. Bu durumda ya toplum yeni edindiği tecrübesi ile\nsürdürülebilir bir hale gelir ya da çöküşe geçer.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+    "answer": "D",
+    "notes": "………………. kavramının en önemli unsuru tutum ve değerlerden oluşan\nve bireylerin aksiyon ve davranışlarını yönlendiren ve örgütü meydana\ngeAren kültürdür.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "11": {
+    "question": "Aşağıdakilerden hangisi sosyal girişimci sürecin bir aşaması değildir?",
+    "options": {
+      "A": "İlgilenme",
+      "B": "Tasarım",
+      "C": "Olanak Tanıma",
+      "D": "Planlama",
+      "E": "Gerçekleştirme"
+    },
+    "answer": "D"
   },
   "12": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "İhtiyat ilkesi",
-      "B": "Önlem ilkesi",
-      "C": "Sürdürülebilirlik ilkesi",
-      "D": "Dikkat ilkesi",
-      "E": "Aciliyet ilkesi"
-    },
-    "answer": "A",
-    "notes": "……………, bir faaliyeAn çevre açısından olumsuz neAceler doğuracağı\nkonusunda ciddi bir şüphenin var olması halinde bilimsel bir kanıJn\nortaya çıkışı beklenmeden önleyici tedbirlerin alınmasını öngörür.\nİhAyat ilkesinin ortaya çıkmasındaki en önemli etken bilimsel\nbelirsizlikAr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "13": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Bilimsel kesinliktir.",
-      "B": "Bilimsel belirsizliktir.",
-      "C": "Bilimsel yetersizliktir.",
-      "D": "Bilimsel eksikliktir.",
-      "E": "Bilimsel belirginliktir."
-    },
-    "answer": "B",
-    "notes": "……………, bir faaliyeAn çevre açısından olumsuz neAceler doğuracağı\nkonusunda ciddi bir şüphenin var olması halinde bilimsel bir kanıJn\nortaya çıkışı beklenmeden önleyici tedbirlerin alınmasını öngörür.\nİhAyat ilkesinin ortaya çıkmasındaki en önemli etken ………………….\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "14": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Üretimin artması",
-      "B": "Kaynakların artması",
-      "C": "Hızlı nüfus arFşı",
-      "D": "Bilimin ilerlemesi",
-      "E": "Tüketimin artması"
-    },
-    "answer": "C",
-    "notes": "Sanayi devrimiyle birlikte dünyada çok sayıda ekonomik gelişmeler\nyaşanmışJr. Bununla birlikte ………….. ve teknolojinin ilerlemesi,\nberaberinde üreAmin artmasına neden olmuştur. Ama bu sırada doğal\nkaynakların sınırlı olduğu gerçeği göz ardı edilmiş, hiç\ntükenmeyecekmiş gibi kullanılmışJr. Bu gelişmelerin yaraMğı\nekonomik ve teknolojik anlamdaki büyüme çevresel anlamda\nproblemlerin ortaya çıkmasına zemin hazırlamışJr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "15": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
-    "options": {
-      "A": "2030",
-      "B": "2035",
-      "C": "2040",
-      "D": "2032",
-      "E": "2045"
-    },
-    "answer": "A",
-    "notes": "Sürdürülebilir Kalkınma Hedefleri/Amaçları (SKA) (Küresel Amaçlar),\nBirleşmiş Milletler üyesi ülkeler taraTndan ………… sonuna kadar\nulaşılması amaçlanan hedefleri içeren bir evrensel eylem çağrısıdır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "16": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
-    "options": {
-      "A": "Binyıl Kalkınma Hedefleri’nin",
-      "B": "Yüzyıl Kalkınma Hedefleri’nin",
-      "C": "Yüzyıl Gelişme Hedefleri’nin",
-      "D": "Binyıl Gelişme Hedefleri’nin",
-      "E": "Küresel Amaçlar’nın"
-    },
-    "answer": "A",
-    "notes": "Sürdürülebilir Kalkınma Amaçları (SKA), diğer bir deyişle Küresel\nAmaçlar, ………………….. ilerlemeleri üzerine inşa edilmekle birlikte iklim\ndeğişikliği, ekonomik eşitsizlik, yenilikçilik, sürdürülebilir tükeAm, barış\nve adalet gibi yeni alanları içerir.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "17": {
-    "question": "Sürdürülebilir Kalkınma Amaçları'nın süresi 2030'da dolacağı için 2020-2030 yılları arası aşağıdakilerden hangisi olarak adlandırılmaktadır?",
-    "options": {
-      "A": "Gelişme Onyılı",
-      "B": "Eylem Onyılı",
-      "C": "Değişim Onyılı",
-      "D": "Sürdürülebilirlik Onyılı",
-      "E": "Sürdürülebilir Kalkınma Onyılı"
-    },
-    "answer": "B"
-  },
-  "18": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Likit",
-      "B": "Fosil",
-      "C": "Sürdürülebilir",
-      "D": "KaT",
-      "E": "Yenilenebilir"
-    },
-    "answer": "B",
-    "notes": "………. yakıtlara dayanan küresel ekonomi ve sera gazı emisyonlarının\nartması, iklim sistemimizde çok büyük değişiklikler yaraJyor. Bu\ndeğişiklikler de tüm kıtaları etkiliyor. Temiz enerjinin teşvik edilmesi,\n2011 yılı iAbarıyla küresel enerjinin %20’den fazlasının yenilenebilir\nkaynaklardan üreAlmesini sağlamışJr.\nYukarıdaki cümledeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "19": {
-    "question": "Bireyin diğer bireylerin, grupların veya toplulukların bakış açılarını göz önünde bulundurma ve bu anlayışı onlarla tüm etkileşimlerine uygulama yeteneği nedir?",
-    "options": {
-      "A": "Sosyal duyarlılık",
-      "B": "Sosyal farkındalık",
-      "C": "Sosyal sorumluluk",
-      "D": "Sosyal hassasiyet",
-      "E": "Sosyal nezaket"
-    },
-    "answer": "B"
-  },
-  "20": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Sosyal duyarlılık",
-      "B": "Sosyal farkındalık",
-      "C": "Sosyal sorumluluk",
-      "D": "Sosyal hassasiyet",
-      "E": "Sosyal nezaket"
-    },
-    "answer": "B",
-    "notes": "Duygusal zekayı gelişArmenin üçüncü adımıdır ve hepimizin kendi\niçimizde gelişArmek için çalışmamız gereken bir beceridir. Geniş\nanlamda, etraTmızdaki dünyanın farkında olmak ve anlamak\nanlamına gelir. Buna çevreler, kültürler, topluluklar, toplumsal\nnormlar, sorunlar, mücadeleler ve içinde yaşadığımız sosyal atmosferi\noluşturan diğer tüm alanlar dahildir.\nYukarıdaki metinde tanımlanan seçeneklerdekilerden hangisidir?"
-  },
-  "21": {
-    "question": "Duygusal zeka alanında en önemli isimlerden biri Daniel Goleman’e göre aşağıdakilerden hangisi duygusal zekanın alt bölümlerinden biri değildir?",
-    "options": {
-      "A": "Öz farkındalık",
-      "B": "Öz yönetim",
-      "C": "Öz denetim",
-      "D": "Sosyal farkındalık",
-      "E": "İlişki yönetimi"
-    },
-    "answer": "C"
-  },
-  "22": {
-    "question": "Aşağıdakilerden hangisi sosyal farkındalığın etkili bir bileşenidir?",
-    "options": {
-      "A": "Empati",
-      "B": "Sempati",
-      "C": "Hassasiyet",
-      "D": "Duyarlılık",
-      "E": "Bilinç"
-    },
-    "answer": "A"
-  },
-  "23": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Sosyal menfaat",
+      "A": "Sosyal sorumluluk",
       "B": "Sosyal katkı",
       "C": "Sosyal değer",
-      "D": "Sosyal çıkT",
-      "E": "Sosyal sorumluluk"
+      "D": "Sosyal menfaat",
+      "E": "Sosyal çıkT"
     },
     "answer": "C",
     "notes": "Sosyal girişimcilik tanımlarında kişisel servet veya ortakların\nservetlerini arMrmaktan ziyade …………… yaratmaya değinilir ve bu\nfaaliyetler aracılığı ile yenilik oluşturulur.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
   },
-  "24": {
+  "13": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "Binyıl Kalkınma Hedefleri’nin",
+      "B": "Binyıl Gelişme Hedefleri’nin",
+      "C": "Küresel Amaçlar’nın",
+      "D": "Yüzyıl Gelişme Hedefleri’nin",
+      "E": "Yüzyıl Kalkınma Hedefleri’nin"
+    },
+    "answer": "A",
+    "notes": "Sürdürülebilir Kalkınma Amaçları (SKA), diğer bir deyişle Küresel\nAmaçlar, ………………….. ilerlemeleri üzerine inşa edilmekle birlikte iklim\ndeğişikliği, ekonomik eşitsizlik, yenilikçilik, sürdürülebilir tükeAm, barış\nve adalet gibi yeni alanları içerir.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "14": {
+    "question": "Eğer bir organizasyon incelenirken sadece bu organizasyonun yapı ve fonksiyonlarından söz ediliyor fakat dış çevreden söz edilmiyorsa, organizasyon ile ilgili konulara nasıl bir sistem açısından bakılıyor demektir?",
+    "options": {
+      "A": "Dahili",
+      "B": "Açık",
+      "C": "Kapalı",
+      "D": "Hiçbiri",
+      "E": "Harici"
+    },
+    "answer": "C"
+  },
+  "15": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Menfaatçi",
-      "B": "Yenilikçi",
-      "C": "Sürdürülebilir",
-      "D": "Girişimci",
-      "E": "Sorumlu"
+      "A": "Sosyal değişim becerileri",
+      "B": "Sosyal farkındalık becerileri",
+      "C": "Sosyal bilinç aşamaları",
+      "D": "Sosyal empati düzeyi",
+      "E": "Sosyal gelişim aşamaları"
     },
     "answer": "B",
-    "notes": "Birçok yazar, sosyal girişimciliğin en belirgin özelliğini sosyal girişimsel\nakAvitelerin kâr amacı gütmeyen doğası olarak tanımlamaktadır\n(Mair ve MarA, 2006). Bu yazarlar sosyal girişimciliği, sosyal bir\namaçla ya da kâr amaçsız bir sektörde yapılan …………. faaliyetler\nolarak görürler.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
+    "notes": "Yaş aldıkça, ………………. ve toplumsal farkındalık, bireyin topluma ve\ndünyaya nasıl uyum sağladığını ve katkıda bulunduğunu, ayrıca\ndünyadan ihAyaç duyduğumuz şeyleri nasıl elde etiğini anlamamıza\nyardımcı olur.\nYukarıdaki metindeki …………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   },
-  "25": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+  "16": {
+    "question": "Üniversitelerdeki toplumsal katkı fonksiyonu aşağıda belirtilenlerden hangisiyle en yakın temas halindedir?",
     "options": {
-      "A": "Örgüt kültürü",
-      "B": "Kurumsal vatandaşlık",
-      "C": "Örgütsel yapı",
-      "D": "Örgütsel adalet",
-      "E": "Örgütsel öğrenme"
+      "A": "Kurumsal iletişim",
+      "B": "Kalite",
+      "C": "İnsan kaynakları",
+      "D": "Bilişim sistemleri",
+      "E": "Halkla ilişkiler"
     },
-    "answer": "A",
-    "notes": "…………. duyu oluşumunu haber verdiğinden ve karmaşık verilerin,\nsorunlu durumların belirsiz program teknolojilerinin yorumlanmasını\nsağladığından, kültürün öğrenmeye rehberlik etiğini söylemek\nmümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+    "answer": "B"
   },
-  "26": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+  "17": {
+    "question": "Aşağıdakilerden hangisi sosyal girişimcilik örneği değildir?",
     "options": {
-      "A": "Kültürün",
-      "B": "Stratejinin",
-      "C": "Politikanın",
-      "D": "Vizyonun",
-      "E": "Misyonun"
-    },
-    "answer": "A",
-    "notes": "Örgüt kültürü duyu oluşumunu haber verdiğinden ve karmaşık\nverilerin, sorunlu durumların belirsiz program teknolojilerinin\nyorumlanmasını sağladığından, …………. öğrenmeye rehberlik etiğini\nsöylemek mümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "27": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
-    "options": {
-      "A": "Değişmeye",
-      "B": "Öğrenmeye",
-      "C": "Direnmeye",
-      "D": "İlerlemeye",
-      "E": "Gelişmeye"
-    },
-    "answer": "B",
-    "notes": "Örgüt kültürü duyu oluşumunu haber verdiğinden ve karmaşık\nverilerin, sorunlu durumların belirsiz program teknolojilerinin\nyorumlanmasını sağladığından,kültürün ……….. rehberlik etiğini\nsöylemek mümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "28": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
-    "options": {
-      "A": "Örgüt kültürü",
-      "B": "Kurumsal vatandaşlık",
-      "C": "Örgütsel yapı",
-      "D": "Örgütsel adalet",
-      "E": "Örgütsel öğrenme"
-    },
-    "answer": "E",
-    "notes": "………………. kavramının en önemli unsuru tutum ve değerlerden oluşan\nve bireylerin aksiyon ve davranışlarını yönlendiren ve örgütü meydana\ngeAren kültürdür.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "29": {
-    "question": "Öğrenen örgüt öğrenmeyi teşvik eden kültür ve değer bütününe sahiptir. Öğrenme kültüründe aşağıdakilerden hangisi söz konusu değildir?",
-    "options": {
-      "A": "Deneyime açıklık",
-      "B": "Risk alımını teşvik etme",
-      "C": "Başarısızlıkları kabul etme",
-      "D": "Başarısızlıklardan öğrenme",
-      "E": "Riski minimum düzeye indirgeme"
+      "A": "Ebeveynler tarakndan çocuklarına eğitim vermek amacıyla kurulmuş kâr amacı gütmeyen bir eğitim kooperatifi",
+      "B": "Yenilenebilir enerji alanında ürün üreten, kârı ile gelişmekte olan bölgelerde temiz enerji üretimi ve kullanımına yaTrım yapan bir şirket",
+      "C": "Finansmana erişmekte zorlanan kişilere mikro kredi veren iktisadi işletmesi olan bir vakıf",
+      "D": "Finansmana erişmekte zorlanan kişilere mikro kredi veren iktisadi işletmesi olan bir vakıf",
+      "E": "Yıllık kârının bir kısmını sosyal sorumluluk projelerine ayıran bir şirket"
     },
     "answer": "E"
+  },
+  "18": {
+    "question": "Sosyal girişimciler ne itibariyle diğer girişimcilerinden farklıdırlar?",
+    "options": {
+      "A": "Hedefleri",
+      "B": "Misyonları",
+      "C": "Stratejileri",
+      "D": "Vizyonları",
+      "E": "amaçları"
+    },
+    "answer": "B"
+  },
+  "19": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "2032",
+      "B": "2045",
+      "C": "2030",
+      "D": "2040",
+      "E": "2035"
+    },
+    "answer": "C",
+    "notes": "Sürdürülebilir Kalkınma Hedefleri/Amaçları (SKA) (Küresel Amaçlar),\nBirleşmiş Milletler üyesi ülkeler taraTndan ………… sonuna kadar\nulaşılması amaçlanan hedefleri içeren bir evrensel eylem çağrısıdır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "20": {
+    "question": "Sürdürülebilir tüketim, aşağıdakilerden hangisinin de sürdürülebilir olmasını mümkün kılacakTr?",
+    "options": {
+      "A": "Pazarlamanın",
+      "B": "Bilimin",
+      "C": "Kaynakların",
+      "D": "Üretimin",
+      "E": "Teknolojinin"
+    },
+    "answer": "D"
+  },
+  "21": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Sosyal duyarlılık",
+      "B": "Sosyal sorumluluk",
+      "C": "Sosyal nezaket",
+      "D": "Sosyal farkındalık",
+      "E": "Sosyal hassasiyet"
+    },
+    "answer": "D",
+    "notes": "Duygusal zekayı gelişArmenin üçüncü adımıdır ve hepimizin kendi\niçimizde gelişArmek için çalışmamız gereken bir beceridir. Geniş\nanlamda, etraTmızdaki dünyanın farkında olmak ve anlamak\nanlamına gelir. Buna çevreler, kültürler, topluluklar, toplumsal\nnormlar, sorunlar, mücadeleler ve içinde yaşadığımız sosyal atmosferi\noluşturan diğer tüm alanlar dahildir.\nYukarıdaki metinde tanımlanan seçeneklerdekilerden hangisidir?"
+  },
+  "22": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "Çevreci",
+      "B": "Uzun vade",
+      "C": "Bütüncül",
+      "D": "Toplumsal",
+      "E": "İyimser"
+    },
+    "answer": "B",
+    "notes": "Bazı sürdürülebilirlik uzmanları ve uygulayıcıları, sürdürülebilirliğin\n………. düşünme prensibini vurgulayacak şekilde, \"gelecek nesiller”i de\nbir boyut olarak öngörmüşlerdir.\nYukarıdaki cümledeki ………. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "23": {
+    "question": "Aşağıdaki metni lüFen okuyunuz. Yukarıdaki metinde tanımlanan BM Sürdürülebilir Kalkınma Hedefi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Sanayi, Yenilikçilik ve Altyapı",
+      "B": "Sorumlu üretim ve tüketim",
+      "C": "İnsana Yakışır İş ve Ekonomik Büyüme",
+      "D": "Sürdürülebilir Şehirler ve Topluluklar",
+      "E": "Eşitsizliklerin AzalTlması"
+    },
+    "answer": "C",
+    "notes": "Sürdürülebilir ekonomik büyüme, daha yüksek verimlilik düzeyleri ve\nteknolojik yenilikleri teşvik eder. Girişimcilik ve iş imkanlarının teşvik\nedilmesi bunun anahtarıdır; zorla çalışJrma, kölelik ve insan AcareAni\nortadan kaldırmanın anahtarı da etkin önlemlerdir. Amaç, bu hedefler\nhaJrda tutularak, 2030 yılına kadar tam ve üretken isAhdam, tüm\nkadınlar ve erkekler için insana yakışır iş sağlamakJr."
+  },
+  "24": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "Öğrenmeye",
+      "B": "Direnmeye",
+      "C": "İlerlemeye",
+      "D": "Değişmeye",
+      "E": "Gelişmeye"
+    },
+    "answer": "A",
+    "notes": "Örgüt kültürü duyu oluşumunu haber verdiğinden ve karmaşık\nverilerin, sorunlu durumların belirsiz program teknolojilerinin\nyorumlanmasını sağladığından,kültürün ……….. rehberlik etiğini\nsöylemek mümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "25": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Önlem ilkesi",
+      "B": "Sürdürülebilirlik ilkesi",
+      "C": "İhtiyat ilkesi",
+      "D": "Aciliyet ilkesi",
+      "E": "Dikkat ilkesi"
+    },
+    "answer": "C",
+    "notes": "……………, bir faaliyeAn çevre açısından olumsuz neAceler doğuracağı\nkonusunda ciddi bir şüphenin var olması halinde bilimsel bir kanıJn\nortaya çıkışı beklenmeden önleyici tedbirlerin alınmasını öngörür.\nİhAyat ilkesinin ortaya çıkmasındaki en önemli etken bilimsel\nbelirsizlikAr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "26": {
+    "question": "Üniversite topluluğunun farklı üyelerinin üniversite sosyal sorumluluk uygulamasına kaTlımının sağlandığı ve uygulamanın güçlendirildiği üniversite sosyal sorumluluk uygulamalarının hayata geçirilme aşaması aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Gelişim",
+      "B": "Kendi kendine teşhis",
+      "C": "Taahhüt",
+      "D": "Raporlama ve iletişim",
+      "E": "Yerine getirme"
+    },
+    "answer": "C"
+  },
+  "27": {
+    "question": "Öğrenen örgüt öğrenmeyi teşvik eden kültür ve değer bütününe sahiptir. Öğrenme kültüründe aşağıdakilerden hangisi söz konusu değildir?",
+    "options": {
+      "A": "Riski minimum düzeye indirgeme",
+      "B": "Başarısızlıklardan öğrenme",
+      "C": "Risk alımını teşvik etme",
+      "D": "Başarısızlıkları kabul etme",
+      "E": "Deneyime açıklık"
+    },
+    "answer": "A"
+  },
+  "28": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Toplumsal",
+      "B": "Sosyal",
+      "C": "Ekonomik",
+      "D": "Kültürel",
+      "E": "Çevresel"
+    },
+    "answer": "D",
+    "notes": "Bu alanda çalışanların birçoğu için sürdürülebilirlik, birbirine bağlı\nçevresel, ekonomik ve sosyal etki alanları ile tanımlanır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilemez?"
+  },
+  "29": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "2030",
+      "B": "2032",
+      "C": "2040",
+      "D": "2045",
+      "E": "2035"
+    },
+    "answer": "A",
+    "notes": "Sürdürülebilir Kalkınma Hedefleri/Amaçları (SKA) (Küresel Amaçlar),\nBirleşmiş Milletler üyesi ülkeler taraTndan ………… sonuna kadar\nulaşılması amaçlanan hedefleri içeren bir evrensel eylem çağrısıdır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   },
   "30": {
     "question": "Aşağıdaki cümledeki lüFen okuyunuz.",
     "options": {
       "A": "İstenç",
-      "B": "Direnç",
+      "B": "Kapasite",
       "C": "İlerleme",
-      "D": "Kapasite",
+      "D": "Direnç",
       "E": "Gelişme"
     },
-    "answer": "B",
+    "answer": "D",
     "notes": "Her ne kadar kültür genelde öğrenme ve değişime karşı\n“………. kaynağı” veya “savunmacı ruAnlerin kaynağı”\nolarak görülse de kültür, öğrenmeyi arMrıcı deneyimlerin\nyorumlanmasında ve etkin çözümlerin inşasında yaraJcı potansiyele\nsahipAr.\nYukarıdaki cümledeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   },
   "31": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Sosyalleşme",
-      "B": "İletişim",
-      "C": "Haberleşme",
-      "D": "Müzakere",
-      "E": "Beyin krTnaları yaratma"
-    },
-    "answer": "A",
-    "notes": "Örgütün uzun süreli uyumluluğu, …………. süreci yardımıyla kültürünün\ntemel unsurlarını sürekli kılmasına bağlıdır. Fakat bunu yaparken yeni\nfikirlerin değerlenmesine imkan tanıyacak yeni kültürel varsayımların\noluşumuna da imkan tanıyacakJr.\nYukarıdaki cümledeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "32": {
-    "question": "Aşağıdakilerden hangisi öğrenen örgütün teşvik etmesi gerekenlerden biri değildir?",
-    "options": {
-      "A": "AraşTrmayı",
-      "B": "Diyalogu",
-      "C": "Haberleşmeyi",
-      "D": "Risk alınımını",
-      "E": "Deneyimi"
-    },
-    "answer": "C"
-  },
-  "33": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Nitelik",
-      "B": "Uygulama",
-      "C": "Kalite",
-      "D": "Yönetim",
-      "E": "Liderlik"
-    },
-    "answer": "C",
-    "notes": "YükseköğreAm Kanunu, üniversitelere toplumsal katkı yapmalarını\ngörev olarak değerlendirmektedir.\nÜniversiteler yerel, bölgesel ve ulusal toplumla bütünleşmelidirler ve\ntopluma katkı sağlayacak yaklaşım ve uygulamalar benimsemelidirler.\nSöz konusu bu toplumsal içerikli görevler de toplumsal katkı olarak\nanılmaktadır.\nBu arzuyu taşıyan yükseköğreAm kurumları bir takım standart\nuygulamalar ve ………. kriterlerini karşılamak durumundadır.\nYukarıdaki metindeki ……….. yere aşağıdakilerden hangisi\ngetirilmelidir?"
-  },
-  "34": {
-    "question": "Üniversitelerdeki toplumsal katkı fonksiyonu aşağıda belirtilenlerden hangisiyle en yakın temas halindedir?",
-    "options": {
-      "A": "İnsan kaynakları",
-      "B": "Kalite",
-      "C": "Halkla ilişkiler",
-      "D": "Kurumsal iletişim",
-      "E": "Bilişim sistemleri"
-    },
-    "answer": "B"
-  },
-  "35": {
-    "question": "Üniversitelerin kentler üzerindeki katkıları öncelikle nasıldır?",
-    "options": {
-      "A": "Sosyal",
-      "B": "Kültürel",
-      "C": "Ekolojik",
-      "D": "Sürdürülebilir",
-      "E": "Ekonomik"
-    },
-    "answer": "E"
-  },
-  "36": {
-    "question": "Üniversite topluluğunun farklı üyelerinin üniversite sosyal sorumluluk uygulamasına kaTlımının sağlandığı ve uygulamanın güçlendirildiği üniversite sosyal sorumluluk uygulamalarının hayata geçirilme aşaması aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Taahhüt",
+      "A": "Raporlama ve iletişim",
       "B": "Kendi kendine teşhis",
-      "C": "Gelişim",
-      "D": "Yerine getirme",
-      "E": "Raporlama ve iletişim"
-    },
-    "answer": "A"
-  },
-  "37": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Taahhüt",
-      "B": "Kendi kendine teşhis",
-      "C": "Gelişim",
-      "D": "Yerine getirme",
-      "E": "Raporlama ve iletişim"
+      "C": "Taahhüt",
+      "D": "Gelişim",
+      "E": "Yerine getirme"
     },
     "answer": "B",
     "notes": "Bu adımda üniversiteler, sosyal sorumluluk yaklaşımları ve\nuygulamaları açısından nasıl olduklarını değerlendirmeli, güçlü ve\nzayıf yönleri belirlemek, iyileşArme gereken alanları tespit etmek için\nkendi kendilerine teşhis gerçekleşArmelidirler. Üniversiteler,\nsürdürmekte oldukları sosyal sorumluluk düzeyini belirlemek için\nkendilerini analiz etmelidirler. Bu süreç çok yönlü ve kaJlımcıdır.\nÜniversitenin personel, profesörler ve öğrenciler gibi dahili ve yerel\ntopluluk üyeleri, devlet daireleri, mezunlar, tedarikçiler gibi harici\nüyeleri bu durumu belirleme sürecine akAf olarak kaJlmalıdırlar.\nBu aşamada anketler, odak grupları ile görüşmeler gibi farklı\naraşJrma yöntemleri kullanılır. Bu aşama bir öğrenme sürecinin ve\ngelişimin gerçekleşAği süreçlerdir.\nYukarıdaki metinde tanımlanan üniversite sosyal sorumluluk\nuygulamalarının hayata geçirilme aşaması aşağıdaki hangi seçenekte\nverilmiştir?"
   },
+  "32": {
+    "question": "Duygusal zeka alanında en önemli isimlerden biri Daniel Goleman’e göre aşağıdakilerden hangisi duygusal zekanın alt bölümlerinden biri değildir?",
+    "options": {
+      "A": "İlişki yönetimi",
+      "B": "Öz farkındalık",
+      "C": "Sosyal farkındalık",
+      "D": "Öz denetim",
+      "E": "Öz yönetim"
+    },
+    "answer": "D"
+  },
+  "33": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "Örgüt kültürü",
+      "B": "Örgütsel yapı",
+      "C": "Örgütsel öğrenme",
+      "D": "Örgütsel adalet",
+      "E": "Kurumsal vatandaşlık"
+    },
+    "answer": "A",
+    "notes": "…………. duyu oluşumunu haber verdiğinden ve karmaşık verilerin,\nsorunlu durumların belirsiz program teknolojilerinin yorumlanmasını\nsağladığından, kültürün öğrenmeye rehberlik etiğini söylemek\nmümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "34": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Yenilikçi",
+      "B": "Sürdürülebilir",
+      "C": "Girişimci",
+      "D": "Sorumlu",
+      "E": "Menfaatçi"
+    },
+    "answer": "A",
+    "notes": "Birçok yazar, sosyal girişimciliğin en belirgin özelliğini sosyal girişimsel\nakAvitelerin kâr amacı gütmeyen doğası olarak tanımlamaktadır\n(Mair ve MarA, 2006). Bu yazarlar sosyal girişimciliği, sosyal bir\namaçla ya da kâr amaçsız bir sektörde yapılan …………. faaliyetler\nolarak görürler.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
+  },
+  "35": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Sürdürülebilir pazarlama",
+      "B": "Sürdürülebilir tüketim",
+      "C": "Sürdürülebilir ekonomi",
+      "D": "Sürdürülebilir doğal kaynaklar",
+      "E": "Sürdürülebilir politika"
+    },
+    "answer": "B",
+    "notes": "Dünyanın bir bölümünde sınırlı olan doğal kaynaklar hızla tükeAlirken,\nkimi yerlerde insanların zorunlu ihAyaçlarını dahi giderememesi gelir\nadaletsizliği gibi toplumsal sorunların belirginleşmesine 19emin\nhazırlamışJr. Bu sorunlar, ………….. çalışmalarının temel nedenini\noluşturmuştur.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "36": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Yenilenebilir",
+      "B": "KaT",
+      "C": "Likit",
+      "D": "Sürdürülebilir",
+      "E": "Fosil"
+    },
+    "answer": "E",
+    "notes": "………. yakıtlara dayanan küresel ekonomi ve sera gazı emisyonlarının\nartması, iklim sistemimizde çok büyük değişiklikler yaraJyor. Bu\ndeğişiklikler de tüm kıtaları etkiliyor. Temiz enerjinin teşvik edilmesi,\n2011 yılı iAbarıyla küresel enerjinin %20’den fazlasının yenilenebilir\nkaynaklardan üreAlmesini sağlamışJr.\nYukarıdaki cümledeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "37": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Bilimsel kesinliktir.",
+      "B": "Bilimsel eksikliktir.",
+      "C": "Bilimsel belirginliktir.",
+      "D": "Bilimsel belirsizliktir.",
+      "E": "Bilimsel yetersizliktir."
+    },
+    "answer": "D",
+    "notes": "……………, bir faaliyeAn çevre açısından olumsuz neAceler doğuracağı\nkonusunda ciddi bir şüphenin var olması halinde bilimsel bir kanıJn\nortaya çıkışı beklenmeden önleyici tedbirlerin alınmasını öngörür.\nİhAyat ilkesinin ortaya çıkmasındaki en önemli etken ………………….\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
   "38": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Kültürel",
-      "B": "Toplumsal",
-      "C": "Çevresel",
-      "D": "Ekonomik",
-      "E": "Sosyal"
+      "A": "Tüketimin artması",
+      "B": "Üretimin artması",
+      "C": "Kaynakların artması",
+      "D": "Bilimin ilerlemesi",
+      "E": "Hızlı nüfus arFşı"
     },
-    "answer": "A",
-    "notes": "Bu alanda çalışanların birçoğu için sürdürülebilirlik, birbirine bağlı\nçevresel, ekonomik ve sosyal etki alanları ile tanımlanır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilemez?"
+    "answer": "E",
+    "notes": "Sanayi devrimiyle birlikte dünyada çok sayıda ekonomik gelişmeler\nyaşanmışJr. Bununla birlikte ………….. ve teknolojinin ilerlemesi,\nberaberinde üreAmin artmasına neden olmuştur. Ama bu sırada doğal\nkaynakların sınırlı olduğu gerçeği göz ardı edilmiş, hiç\ntükenmeyecekmiş gibi kullanılmışJr. Bu gelişmelerin yaraMğı\nekonomik ve teknolojik anlamdaki büyüme çevresel anlamda\nproblemlerin ortaya çıkmasına zemin hazırlamışJr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   },
   "39": {
-    "question": "Aşağıdakilerden hangisi sürdürülebilir gelişmenin alt etki alanlarından biridir?",
+    "question": "Sürdürülebilir Kalkınma Amaçları'nın süresi 2030'da dolacağı için 2020-2030 yılları arası aşağıdakilerden hangisi olarak adlandırılmaktadır?",
     "options": {
-      "A": "Kültürel",
-      "B": "Toplumsal",
-      "C": "Çevresel",
-      "D": "Ekonomik",
-      "E": "Sosyal"
+      "A": "Eylem Onyılı",
+      "B": "Sürdürülebilir Kalkınma Onyılı",
+      "C": "Gelişme Onyılı",
+      "D": "Sürdürülebilirlik Onyılı",
+      "E": "Değişim Onyılı"
     },
     "answer": "A"
   },
   "40": {
-    "question": "Sürdürülebilirliğe doğru ilerlemek, aynı zamanda uluslararası ve yerel ve bireysel yaşam tarzı ve etik tüketim konularını da ilgilendiren Nasıl bir mücadeledir?",
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Politik",
-      "B": "Kültürel",
-      "C": "Çevresel",
-      "D": "Ekonomik",
-      "E": "Sosyal"
+      "A": "Sosyal çıkT",
+      "B": "Sosyal sorumluluk",
+      "C": "Sosyal katkı",
+      "D": "Sosyal menfaat",
+      "E": "Sosyal değer"
     },
-    "answer": "E"
+    "answer": "E",
+    "notes": "Sosyal girişimcilik tanımlarında kişisel servet veya ortakların\nservetlerini arMrmaktan ziyade …………… yaratmaya değinilir ve bu\nfaaliyetler aracılığı ile yenilik oluşturulur.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
   },
   "41": {
-    "question": "Eğer bir organizasyon incelenirken sadece bu organizasyonun yapı ve fonksiyonlarından söz ediliyor fakat dış çevreden söz edilmiyorsa, organizasyon ile ilgili konulara nasıl bir sistem açısından bakılıyor demektir?",
+    "question": "Organizasyonlar belirli pay sahipleri tarakndan sahiplenilmediklerinde ve kâr organizasyonu yönlendiren temel amaç olmadığında ne olurlar?",
     "options": {
-      "A": "Açık",
-      "B": "Kapalı",
-      "C": "Dahili",
-      "D": "Harici",
-      "E": "Hiçbiri"
+      "A": "Sorumlu",
+      "B": "Sürdürülebilir",
+      "C": "Sosyal",
+      "D": "Yenilikçi",
+      "E": "Girişimci"
     },
-    "answer": "B"
+    "answer": "C"
   },
   "42": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "question": "Sürdürülebilirliğe doğru ilerlemek, aynı zamanda uluslararası ve ulusal hukuk, kentsel planlama ve ulaşım, tedarik zinciri yönetimi, yerel ve bireysel yaşam tarzı ve etik tüketim konularını da ilgilendiren Nasıl bir mücadeledir?",
     "options": {
-      "A": "Uzun vade",
-      "B": "Çevreci",
-      "C": "Toplumsal",
-      "D": "Bütüncül",
-      "E": "İyimser"
+      "A": "Ekonomik",
+      "B": "Çevresel",
+      "C": "Politik",
+      "D": "Sosyal",
+      "E": "Kültürel"
     },
-    "answer": "A",
-    "notes": "Bazı sürdürülebilirlik uzmanları ve uygulayıcıları, sürdürülebilirliğin\n………. düşünme prensibini vurgulayacak şekilde, \"gelecek nesiller”i de\nbir boyut olarak öngörmüşlerdir.\nYukarıdaki cümledeki ………. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+    "answer": "D"
   },
   "43": {
-    "question": "Tüm insanların ırk, renk, ulusal köken, yetenek veya gelir düzeyine bakılmaksızın çevresel ve sağlık tehlikelerine karşı aynı derecede korunmaya sahip olması gerektiği fikri seçeneklerdekilerden hangisidir?",
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Çevreci adalet",
-      "B": "Örgütsel adalet",
-      "C": "Kurumsal eşitlik",
-      "D": "Etik liderlik",
-      "E": "Sorumlu vatandaşlık"
+      "A": "Müzakere",
+      "B": "Beyin krTnaları yaratma",
+      "C": "Haberleşme",
+      "D": "İletişim",
+      "E": "Sosyalleşme"
+    },
+    "answer": "E",
+    "notes": "Örgütün uzun süreli uyumluluğu, …………. süreci yardımıyla kültürünün\ntemel unsurlarını sürekli kılmasına bağlıdır. Fakat bunu yaparken yeni\nfikirlerin değerlenmesine imkan tanıyacak yeni kültürel varsayımların\noluşumuna da imkan tanıyacakJr.\nYukarıdaki cümledeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "44": {
+    "question": "Aşağıdakilerden hangisi örgütü bir arada tutan bağdır?",
+    "options": {
+      "A": "Vizyon",
+      "B": "Misyon",
+      "C": "Kültür",
+      "D": "Politika",
+      "E": "Strateji"
+    },
+    "answer": "C"
+  },
+  "45": {
+    "question": "Üniversitelerin kentler üzerindeki katkıları öncelikle nasıldır?",
+    "options": {
+      "A": "Ekonomik",
+      "B": "Sosyal",
+      "C": "Kültürel",
+      "D": "Sürdürülebilir",
+      "E": "Ekolojik"
     },
     "answer": "A"
   },
-  "44": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Bilimsel kesinliktir.",
-      "B": "Bilimsel belirsizliktir.",
-      "C": "Bilimsel yetersizliktir.",
-      "D": "Bilimsel eksikliktir.",
-      "E": "Bilimsel belirginliktir."
-    },
-    "answer": "B",
-    "notes": "……………, bir faaliyeAn çevre açısından olumsuz neAceler doğuracağı\nkonusunda ciddi bir şüphenin var olması halinde bilimsel bir kanıJn\nortaya çıkışı beklenmeden önleyici tedbirlerin alınmasını öngörür.\nİhAyat ilkesinin ortaya çıkmasındaki en önemli etken ………………….\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "45": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Üretimin artması",
-      "B": "Kaynakların artması",
-      "C": "Hızlı nüfus arFşı",
-      "D": "Bilimin ilerlemesi",
-      "E": "Tüketimin artması"
-    },
-    "answer": "C",
-    "notes": "Sanayi devrimiyle birlikte dünyada çok sayıda ekonomik gelişmeler\nyaşanmışJr. Bununla birlikte ………….. ve teknolojinin ilerlemesi,\nberaberinde üreAmin artmasına neden olmuştur. Ama bu sırada doğal\nkaynakların sınırlı olduğu gerçeği göz ardı edilmiş, hiç\ntükenmeyecekmiş gibi kullanılmışJr. Bu gelişmelerin yaraMğı\nekonomik ve teknolojik anlamdaki büyüme çevresel anlamda\nproblemlerin ortaya çıkmasına zemin hazırlamışJr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
   "46": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "question": "Aşağıdakilerden hangisi sürdürülebilir gelişmenin alt etki alanlarından biridir?",
     "options": {
-      "A": "Üretimin",
-      "B": "Pazarlamanın",
-      "C": "Teknolojinin",
-      "D": "Bilimin",
-      "E": "Tüketimin"
+      "A": "Sosyal",
+      "B": "Kültürel",
+      "C": "Ekonomik",
+      "D": "Toplumsal",
+      "E": "Çevresel"
     },
-    "answer": "C",
-    "notes": "Sanayi devrimiyle birlikte dünyada çok sayıda ekonomik gelişmeler\nyaşanmışJr. Bununla birlikte hızlı nüfus arJşı ve ………… ilerlemesi,\nberaberinde üreAmin artmasına neden olmuştur. Ama bu sırada doğal\nkaynakların sınırlı olduğu gerçeği göz ardı edilmiş, hiç\ntükenmeyecekmiş gibi kullanılmışJr. Bu gelişmelerin yaraMğı\nekonomik ve teknolojik anlamdaki büyüme çevresel anlamda\nproblemlerin ortaya çıkmasına zemin hazırlamışJr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+    "answer": "B"
   },
   "47": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Sürdürülebilir tüketim",
-      "B": "Sürdürülebilir pazarlama",
-      "C": "Sürdürülebilir politika",
-      "D": "Sürdürülebilir ekonomi",
-      "E": "Sürdürülebilir doğal kaynaklar"
+      "A": "Yönetim",
+      "B": "Kalite",
+      "C": "Uygulama",
+      "D": "Nitelik",
+      "E": "Liderlik"
     },
-    "answer": "A",
-    "notes": "Dünyanın bir bölümünde sınırlı olan doğal kaynaklar hızla tükeAlirken,\nkimi yerlerde insanların zorunlu ihAyaçlarını dahi giderememesi gelir\nadaletsizliği gibi toplumsal sorunların belirginleşmesine 19emin\nhazırlamışJr. Bu sorunlar, ………….. çalışmalarının temel nedenini\noluşturmuştur.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+    "answer": "B",
+    "notes": "YükseköğreAm Kanunu, üniversitelere toplumsal katkı yapmalarını\ngörev olarak değerlendirmektedir.\nÜniversiteler yerel, bölgesel ve ulusal toplumla bütünleşmelidirler ve\ntopluma katkı sağlayacak yaklaşım ve uygulamalar benimsemelidirler.\nSöz konusu bu toplumsal içerikli görevler de toplumsal katkı olarak\nanılmaktadır.\nBu arzuyu taşıyan yükseköğreAm kurumları bir takım standart\nuygulamalar ve ………. kriterlerini karşılamak durumundadır.\nYukarıdaki metindeki ……….. yere aşağıdakilerden hangisi\ngetirilmelidir?"
   },
   "48": {
-    "question": "Sürdürülebilir tüketim, aşağıdakilerden hangisinin de sürdürülebilir olmasını mümkün kılacakTr?",
-    "options": {
-      "A": "Üretimin",
-      "B": "Pazarlamanın",
-      "C": "Teknolojinin",
-      "D": "Bilimin",
-      "E": "Kaynakların"
-    },
-    "answer": "A"
-  },
-  "49": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
-    "options": {
-      "A": "2030",
-      "B": "2035",
-      "C": "2040",
-      "D": "2032",
-      "E": "2045"
-    },
-    "answer": "A",
-    "notes": "Sürdürülebilir Kalkınma Hedefleri/Amaçları (SKA) (Küresel Amaçlar),\nBirleşmiş Milletler üyesi ülkeler taraTndan ………… sonuna kadar\nulaşılması amaçlanan hedefleri içeren bir evrensel eylem çağrısıdır.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "50": {
-    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
-    "options": {
-      "A": "Binyıl Kalkınma Hedefleri’nin",
-      "B": "Yüzyıl Kalkınma Hedefleri’nin",
-      "C": "Yüzyıl Gelişme Hedefleri’nin",
-      "D": "Binyıl Gelişme Hedefleri’nin",
-      "E": "Küresel Amaçlar’nın"
-    },
-    "answer": "A",
-    "notes": "Sürdürülebilir Kalkınma Amaçları (SKA), diğer bir deyişle Küresel\nAmaçlar, ………………….. ilerlemeleri üzerine inşa edilmekle birlikte iklim\ndeğişikliği, ekonomik eşitsizlik, yenilikçilik, sürdürülebilir tükeAm, barış\nve adalet gibi yeni alanları içerir.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "51": {
-    "question": "Sürdürülebilir Kalkınma Amaçları'nın süresi 2030'da dolacağı için 2020-2030 yılları arası aşağıdakilerden hangisi olarak adlandırılmaktadır?",
-    "options": {
-      "A": "Gelişme Onyılı",
-      "B": "Eylem Onyılı",
-      "C": "Değişim Onyılı",
-      "D": "Sürdürülebilirlik Onyılı",
-      "E": "Sürdürülebilir Kalkınma Onyılı"
-    },
-    "answer": "B"
-  },
-  "52": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Yenilenebilir",
-      "B": "Erişilebilir",
-      "C": "Sürdürülebilir",
-      "D": "Yenilenemez",
-      "E": "Hiçbiri"
-    },
-    "answer": "A",
-    "notes": "Her beş insandan birinin elektriğe erişimi yok ve talep artmaya devam\netikçe, dünya genelinde ……………… enerji üreAminde büyük bir arJş\ngerekecek. 2030’a kadar erişilebilir enerjiye herkesin kavuşmasını\nsağlamak için güneş, rüzgar ve termal gibi temiz enerji kaynaklarına\nyaJrım yapmak gerekiyor. Gelişmekte olan ülkelerin tümünde temiz\nenerji sağlayacak altyapının genişleAlmesi ve teknolojinin\nyükselAlmesi, hem büyümeyi teşvik edebilecek hem de çevreye katkıda\nbulunabilecek kriAk önem taşıyan bir hedegir.\nYukarıdaki metindeki …………. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "53": {
-    "question": "Aşağıdaki metni lüFen okuyunuz. Yukarıdaki metinde tanımlanan BM Sürdürülebilir Kalkınma Hedefi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Sanayi, Yenilikçilik ve Altyapı",
-      "B": "İnsana Yakışır İş ve Ekonomik Büyüme",
-      "C": "Eşitsizliklerin AzalTlması",
-      "D": "Sürdürülebilir Şehirler ve Topluluklar",
-      "E": "Sorumlu üretim ve tüketim"
-    },
-    "answer": "B",
-    "notes": "Sürdürülebilir ekonomik büyüme, daha yüksek verimlilik düzeyleri ve\nteknolojik yenilikleri teşvik eder. Girişimcilik ve iş imkanlarının teşvik\nedilmesi bunun anahtarıdır; zorla çalışJrma, kölelik ve insan AcareAni\nortadan kaldırmanın anahtarı da etkin önlemlerdir. Amaç, bu hedefler\nhaJrda tutularak, 2030 yılına kadar tam ve üretken isAhdam, tüm\nkadınlar ve erkekler için insana yakışır iş sağlamakJr."
-  },
-  "54": {
-    "question": "Aşağıdaki metni lüFen okuyunuz. Aşağıdaki metinde tanımlanan BM Sürdürülebilir Kalkınma Hedefi aşağıdakilerden hangisidir?",
-    "options": {
-      "A": "Sanayi, Yenilikçilik ve Altyapı",
-      "B": "İnsana Yakışır İş ve Ekonomik Büyüme",
-      "C": "Eşitsizliklerin AzalTlması",
-      "D": "Sürdürülebilir Şehirler ve Topluluklar",
-      "E": "Sorumlu üretim ve tüketim"
-    },
-    "answer": "A",
-    "notes": "Bilgi ve birikime eşit erişimi sağlamanın yanı sıra yenilik ve girişimciliği\ngelişArme açısından, dijital eşitsizliği gidermek kriAk önem taşıyor.\nSürdürülebilir endüstrilerin desteklenmesi, çevre dostu teknolojilerin\ngelişArilmesi, bilgi ve birikime herkesin eşit erişimini sağlama, bilimsel\naraşJrma ve yeniliğe yaJrım yapılması, bu eylemlerin toplumsal\ncinsiyet boyutunun planlanması ve bu önceliklerin inşaat, sanayi ve\nfinansmanın her alanında dikkate alınması sürdürülebilir kalkınmayı\nmümkün kılan önemli yollardır."
-  },
-  "55": {
-    "question": "Bireyin diğer bireylerin, grupların veya toplulukların bakış açılarını göz önünde bulundurma ve bu anlayışı onlarla tüm etkileşimlerine uygulama yeteneği nedir?",
-    "options": {
-      "A": "Sosyal duyarlılık",
-      "B": "Sosyal farkındalık",
-      "C": "Sosyal sorumluluk",
-      "D": "Sosyal hassasiyet",
-      "E": "Sosyal nezaket"
-    },
-    "answer": "B"
-  },
-  "56": {
-    "question": "Aşağıdaki metni lüFen okuyunuz. Yukarıdaki metinde tanımlanan seçeneklerdekielrden hangisidir?",
-    "options": {
-      "A": "Sosyal duyarlılık",
-      "B": "Sosyal farkındalık",
-      "C": "Sosyal sorumluluk",
-      "D": "Sosyal hassasiyet",
-      "E": "Sosyal nezaket"
-    },
-    "answer": "B",
-    "notes": "Duygusal zekayı gelişArmenin üçüncü adımıdır sosyal farkındalık ve\nhepimizin kendi içimizde gelişArmek için çalışmamız gereken bir\nbeceridir. Geniş anlamda, etraTmızdaki dünyanın farkında olmak ve\nanlamak anlamına gelir. Buna çevreler, kültürler, topluluklar,\ntoplumsal normlar, sorunlar, mücadeleler ve içinde yaşadığımız sosyal\natmosferi oluşturan diğer tüm alanlar dahildir."
-  },
-  "57": {
-    "question": "Duygusal zeka alanında en önemli isimlerden biri Daniel Goleman’e göre aşağıdakilerden hangisi duygusal zekanın alt bölümlerinden biri değildir?",
-    "options": {
-      "A": "Öz farkındalık",
-      "B": "Öz yönetim",
-      "C": "Öz denetim",
-      "D": "Sosyal farkındalık",
-      "E": "İlişki yönetimi"
-    },
-    "answer": "C"
-  },
-  "58": {
     "question": "Sosyal farkındalığı anlamanın en kolay yolu hangisidir?",
     "options": {
-      "A": "Empati",
-      "B": "Sempati",
+      "A": "Sempati",
+      "B": "Empati",
       "C": "Düşünce",
       "D": "Duyarlılık",
       "E": "Bilinç"
     },
     "answer": "C"
   },
-  "59": {
+  "49": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Sosyal farkındalık becerileri",
-      "B": "Sosyal gelişim aşamaları",
-      "C": "Sosyal değişim becerileri",
-      "D": "Sosyal empati düzeyi",
-      "E": "Sosyal bilinç aşamaları"
-    },
-    "answer": "A",
-    "notes": "Yaş aldıkça, ………………. ve toplumsal farkındalık, bireyin topluma ve\ndünyaya nasıl uyum sağladığını ve katkıda bulunduğunu, ayrıca\ndünyadan ihAyaç duyduğumuz şeyleri nasıl elde etiğini anlamamıza\nyardımcı olur.\nYukarıdaki metindeki …………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
-  },
-  "60": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
-    "options": {
-      "A": "Sosyal duyarlılık",
+      "A": "Sosyal nezaket",
       "B": "Sosyal farkındalık",
       "C": "Sosyal sorumluluk",
-      "D": "Sosyal hassasiyet",
-      "E": "Sosyal nezaket"
+      "D": "Sosyal duyarlılık",
+      "E": "Sosyal hassasiyet"
     },
     "answer": "B",
     "notes": "…………… çocukluk yaş grubunda (okul yıllarında) hala gelişmekte olsa\nda, çocuklarda gelişArilmesi hayaA önem taşıyan bir beceridir.\nYalnızca yaşam boyu sürecek etkileri nedeniyle değil, aynı zamanda\nkendileri ve başkaları için eğiAmlerinden en iyi şekilde\nyararlanmalarına da yardımcı olur.\nYukarıdaki metindeki …………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   },
-  "61": {
+  "50": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Sosyal menfaat",
-      "B": "Sosyal katkı",
-      "C": "Sosyal değer",
-      "D": "Sosyal çıkT",
+      "A": "Sosyal değer",
+      "B": "Sosyal çıkT",
+      "C": "Sosyal fayda",
+      "D": "Sosyal sorumluluk",
+      "E": "Sosyal menfaat"
+    },
+    "answer": "C",
+    "notes": "Temel misyonu göz ardı etmeksizin, kâr amaçlı bir işletmenin temel\nilkelerini uygulayarak gelir maksimizasyonu yaratmakJr (Peredo ve\nMcLean, 2006). Yani tamamen etkinlik ve verimlilik bazlı çalışan sosyal\ngirişimcilik örneklerine rastlamak da mümkündür. Buradaki amaç ise\nhem ………. hem de kâr elde etmekAr.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
+  },
+  "51": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Yenilenebilir",
+      "B": "Yenilenemez",
+      "C": "Erişilebilir",
+      "D": "Hiçbiri",
+      "E": "Sürdürülebilir"
+    },
+    "answer": "A",
+    "notes": "Her beş insandan birinin elektriğe erişimi yok ve talep artmaya devam\netikçe, dünya genelinde ……………… enerji üreAminde büyük bir arJş\ngerekecek. 2030’a kadar erişilebilir enerjiye herkesin kavuşmasını\nsağlamak için güneş, rüzgar ve termal gibi temiz enerji kaynaklarına\nyaJrım yapmak gerekiyor. Gelişmekte olan ülkelerin tümünde temiz\nenerji sağlayacak altyapının genişleAlmesi ve teknolojinin\nyükselAlmesi, hem büyümeyi teşvik edebilecek hem de çevreye katkıda\nbulunabilecek kriAk önem taşıyan bir hedegir.\nYukarıdaki metindeki …………. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "52": {
+    "question": "Bireyin diğer bireylerin, grupların veya toplulukların bakış açılarını göz önünde bulundurma ve bu anlayışı onlarla tüm etkileşimlerine uygulama yeteneği nedir?",
+    "options": {
+      "A": "Sosyal farkındalık",
+      "B": "Sosyal sorumluluk",
+      "C": "Sosyal duyarlılık",
+      "D": "Sosyal hassasiyet",
+      "E": "Sosyal nezaket"
+    },
+    "answer": "A"
+  },
+  "53": {
+    "question": "Aşağıdaki metni lüFen okuyunuz. Yukarıdaki metinde tanımlanan seçeneklerdekielrden hangisidir?",
+    "options": {
+      "A": "Sosyal hassasiyet",
+      "B": "Sosyal duyarlılık",
+      "C": "Sosyal farkındalık",
+      "D": "Sosyal nezaket",
       "E": "Sosyal sorumluluk"
     },
     "answer": "C",
-    "notes": "Sosyal girişimcilik tanımlarında kişisel servet veya ortakların\nservetlerini arMrmaktan ziyade …………… yaratmaya değinilir ve bu\nfaaliyetler aracılığı ile yenilik oluşturulur.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
+    "notes": "Duygusal zekayı gelişArmenin üçüncü adımıdır sosyal farkındalık ve\nhepimizin kendi içimizde gelişArmek için çalışmamız gereken bir\nbeceridir. Geniş anlamda, etraTmızdaki dünyanın farkında olmak ve\nanlamak anlamına gelir. Buna çevreler, kültürler, topluluklar,\ntoplumsal normlar, sorunlar, mücadeleler ve içinde yaşadığımız sosyal\natmosferi oluşturan diğer tüm alanlar dahildir."
   },
-  "62": {
+  "54": {
     "question": "Aşağıdaki metni lüFen okuyunuz.",
     "options": {
-      "A": "Menfaatçi",
-      "B": "Yenilikçi",
-      "C": "Sürdürülebilir",
-      "D": "Girişimci",
-      "E": "Sorumlu"
+      "A": "Hızlı nüfus arFşı",
+      "B": "Üretimin artması",
+      "C": "Bilimin ilerlemesi",
+      "D": "Kaynakların artması",
+      "E": "Tüketimin artması"
     },
-    "answer": "B",
-    "notes": "Birçok yazar, sosyal girişimciliğin en belirgin özelliğini sosyal girişimsel\nakAvitelerin kâr amacı gütmeyen doğası olarak tanımlamaktadır\n(Mair ve MarA, 2006). Bu yazarlar sosyal girişimciliği, sosyal bir\namaçla ya da kâr amaçsız bir sektörde yapılan …………. faaliyetler\nolarak görürler.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
+    "answer": "A",
+    "notes": "Sanayi devrimiyle birlikte dünyada çok sayıda ekonomik gelişmeler\nyaşanmışJr. Bununla birlikte ………….. ve teknolojinin ilerlemesi,\nberaberinde üreAmin artmasına neden olmuştur. Ama bu sırada doğal\nkaynakların sınırlı olduğu gerçeği göz ardı edilmiş, hiç\ntükenmeyecekmiş gibi kullanılmışJr. Bu gelişmelerin yaraMğı\nekonomik ve teknolojik anlamdaki büyüme çevresel anlamda\nproblemlerin ortaya çıkmasına zemin hazırlamışJr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   },
-  "63": {
-    "question": "Organizasyonlar belirli pay sahipleri tarakndan sahiplenilmediklerinde ve kâr organizasyonu yönlendiren temel amaç olmadığında ne olurlar?",
+  "55": {
+    "question": "Tüm insanların ırk, renk, ulusal köken, yetenek veya gelir düzeyine bakılmaksızın çevresel ve sağlık tehlikelerine karşı aynı derecede korunmaya sahip olması gerektiği fikri seçeneklerdekilerden hangisidir?",
+    "options": {
+      "A": "Örgütsel adalet",
+      "B": "Etik liderlik",
+      "C": "Çevreci adalet",
+      "D": "Sorumlu vatandaşlık",
+      "E": "Kurumsal eşitlik"
+    },
+    "answer": "C"
+  },
+  "56": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "Kültürün",
+      "B": "Misyonun",
+      "C": "Vizyonun",
+      "D": "Politikanın",
+      "E": "Stratejinin"
+    },
+    "answer": "A",
+    "notes": "Örgüt kültürü duyu oluşumunu haber verdiğinden ve karmaşık\nverilerin, sorunlu durumların belirsiz program teknolojilerinin\nyorumlanmasını sağladığından, …………. öğrenmeye rehberlik etiğini\nsöylemek mümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "57": {
+    "question": "Üniversitelerin kentler üzerindeki katkıları öncelikle nasıldır?",
     "options": {
       "A": "Sosyal",
-      "B": "Yenilikçi",
-      "C": "Sürdürülebilir",
-      "D": "Girişimci",
-      "E": "Sorumlu"
+      "B": "Ekonomik",
+      "C": "Kültürel",
+      "D": "Ekolojik",
+      "E": "Sürdürülebilir"
+    },
+    "answer": "B"
+  },
+  "58": {
+    "question": "Aşağıdakilerden hangisi sürdürülebilir gelişmenin alt etki alanlarından biridir?",
+    "options": {
+      "A": "Kültürel",
+      "B": "Toplumsal",
+      "C": "Ekonomik",
+      "D": "Çevresel",
+      "E": "Sosyal"
     },
     "answer": "A"
+  },
+  "59": {
+    "question": "Aşağıdakilerden hangisi öğrenen örgütün teşvik etmesi gerekenlerden biri değildir?",
+    "options": {
+      "A": "Diyalogu",
+      "B": "Risk alınımını",
+      "C": "Haberleşmeyi",
+      "D": "Deneyimi",
+      "E": "AraşTrmayı"
+    },
+    "answer": "C"
+  },
+  "60": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
+    "options": {
+      "A": "Örgütsel adalet",
+      "B": "Örgütsel öğrenme",
+      "C": "Kurumsal vatandaşlık",
+      "D": "Örgüt kültürü",
+      "E": "Örgütsel yapı"
+    },
+    "answer": "D",
+    "notes": "…………. duyu oluşumunu haber verdiğinden ve karmaşık verilerin,\nsorunlu durumların belirsiz program teknolojilerinin yorumlanmasını\nsağladığından, kültürün öğrenmeye rehberlik etiğini söylemek\nmümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "61": {
+    "question": "Aşağıdakilerden hangisi bir ihtiyacı, boşluğu ve krsatları tanımlamak olan sosyal girişimci sürecin aşamasıdır?",
+    "options": {
+      "A": "Gerçekleştirme",
+      "B": "Tasarım",
+      "C": "Planlama",
+      "D": "Olanak Tanıma",
+      "E": "İlgilenme"
+    },
+    "answer": "B"
+  },
+  "62": {
+    "question": "Üniversitelerdeki toplumsal katkı fonksiyonu aşağıda belirtilenlerden hangisiyle en yakın temas halindedir?",
+    "options": {
+      "A": "İnsan kaynakları",
+      "B": "Halkla ilişkiler",
+      "C": "Kalite",
+      "D": "Bilişim sistemleri",
+      "E": "Kurumsal iletişim"
+    },
+    "answer": "C"
+  },
+  "63": {
+    "question": "Aşağıdakilerden hangisi sosyal farkındalığın etkili bir bileşenidir?",
+    "options": {
+      "A": "Bilinç",
+      "B": "Duyarlılık",
+      "C": "Hassasiyet",
+      "D": "Sempati",
+      "E": "Empati"
+    },
+    "answer": "E"
   },
   "64": {
     "question": "Sosyal girişimcilik işletme sektöründeki girişimcilikten farklı olarak düşünülebilir. İş/İşletme sektöründeki girişimcilik ne güdüsüyle ilgilidir?",
     "options": {
-      "A": "Menfaat",
-      "B": "Kar",
+      "A": "Birikim",
+      "B": "Menfaat",
       "C": "Kazanç",
-      "D": "Birikim",
+      "D": "Kar",
       "E": "Sermaye"
     },
-    "answer": "B"
+    "answer": "D"
   },
   "65": {
-    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "question": "Sürdürülebilirliğe doğru ilerlemek, aynı zamanda uluslararası ve yerel ve bireysel yaşam tarzı ve etik tüketim konularını da ilgilendiren Nasıl bir mücadeledir?",
     "options": {
-      "A": "Sosyal menfaat",
-      "B": "Sosyal fayda",
-      "C": "Sosyal değer",
-      "D": "Sosyal çıkT",
-      "E": "Sosyal sorumluluk"
-    },
-    "answer": "B",
-    "notes": "Temel misyonu göz ardı etmeksizin, kâr amaçlı bir işletmenin temel\nilkelerini uygulayarak gelir maksimizasyonu yaratmakJr (Peredo ve\nMcLean, 2006). Yani tamamen etkinlik ve verimlilik bazlı çalışan sosyal\ngirişimcilik örneklerine rastlamak da mümkündür. Buradaki amaç ise\nhem ………. hem de kâr elde etmekAr.\nYukarıdaki metindeki ………….. yere seçeneklerden hangisi gelmelidir?"
-  },
-  "66": {
-    "question": "Sosyal girişimciler ne itibariyle diğer girişimcilerinden farklıdırlar?",
-    "options": {
-      "A": "Misyonları",
-      "B": "Vizyonları",
-      "C": "Hedefleri",
-      "D": "amaçları",
-      "E": "Stratejileri"
-    },
-    "answer": "A"
-  },
-  "67": {
-    "question": "Sosyal girişimci aşağıdakilerden hangisine sahip olan girişimcidir?",
-    "options": {
-      "A": "Sosyal misyona",
-      "B": "Sosyal vizyona",
-      "C": "Sosyal hedeflere",
-      "D": "Sosyal amaçlara",
-      "E": "Sosyal stratejilere"
-    },
-    "answer": "A"
-  },
-  "68": {
-    "question": "Aşağıdakilerden hangisi sosyal girişimci sürecin bir aşaması değildir?",
-    "options": {
-      "A": "Tasarım",
-      "B": "Planlama",
-      "C": "Olanak Tanıma",
-      "D": "Gerçekleştirme",
-      "E": "İlgilenme"
+      "A": "Ekonomik",
+      "B": "Sosyal",
+      "C": "Çevresel",
+      "D": "Kültürel",
+      "E": "Politik"
     },
     "answer": "B"
   },
-  "69": {
-    "question": "Aşağıdakilerden hangisi bir ihtiyacı, boşluğu ve krsatları tanımlamak olan sosyal girişimci sürecin aşamasıdır?",
+  "66": {
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
     "options": {
-      "A": "Tasarım",
-      "B": "Planlama",
-      "C": "Olanak Tanıma",
-      "D": "Gerçekleştirme",
-      "E": "İlgilenme"
+      "A": "Yüzyıl Gelişme Hedefleri’nin",
+      "B": "Binyıl Gelişme Hedefleri’nin",
+      "C": "Binyıl Kalkınma Hedefleri’nin",
+      "D": "Küresel Amaçlar’nın",
+      "E": "Yüzyıl Kalkınma Hedefleri’nin"
     },
-    "answer": "A"
+    "answer": "C",
+    "notes": "Sürdürülebilir Kalkınma Amaçları (SKA), diğer bir deyişle Küresel\nAmaçlar, ………………….. ilerlemeleri üzerine inşa edilmekle birlikte iklim\ndeğişikliği, ekonomik eşitsizlik, yenilikçilik, sürdürülebilir tükeAm, barış\nve adalet gibi yeni alanları içerir.\nYukarıdaki cümledeki ………….. yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "67": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Değişim",
+      "B": "Refah",
+      "C": "Durağan",
+      "D": "Kriz",
+      "E": "Çözülme"
+    },
+    "answer": "D",
+    "notes": "Sürdürülebilirlik tarihi, ilk medeniyetlerden günümüze kadar insan\negemen ekolojik sistemleri izler. Bu tarihin karakterisAk bir özelliği\nşudur: Belirli bir toplumun bölgesel başarısı artar, ardından ……….\ndönemi olur. Bu durumda ya toplum yeni edindiği tecrübesi ile\nsürdürülebilir bir hale gelir ya da çöküşe geçer.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "68": {
+    "question": "Aşağıdaki metni lüFen okuyunuz.",
+    "options": {
+      "A": "Teknolojinin",
+      "B": "Pazarlamanın",
+      "C": "Bilimin",
+      "D": "Tüketimin",
+      "E": "Üretimin"
+    },
+    "answer": "A",
+    "notes": "Sanayi devrimiyle birlikte dünyada çok sayıda ekonomik gelişmeler\nyaşanmışJr. Bununla birlikte hızlı nüfus arJşı ve ………… ilerlemesi,\nberaberinde üreAmin artmasına neden olmuştur. Ama bu sırada doğal\nkaynakların sınırlı olduğu gerçeği göz ardı edilmiş, hiç\ntükenmeyecekmiş gibi kullanılmışJr. Bu gelişmelerin yaraMğı\nekonomik ve teknolojik anlamdaki büyüme çevresel anlamda\nproblemlerin ortaya çıkmasına zemin hazırlamışJr.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
+  },
+  "69": {
+    "question": "Aşağıdaki metni lüFen okuyunuz. Aşağıdaki metinde tanımlanan BM Sürdürülebilir Kalkınma Hedefi aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Eşitsizliklerin AzalTlması",
+      "B": "Sorumlu üretim ve tüketim",
+      "C": "Sürdürülebilir Şehirler ve Topluluklar",
+      "D": "Sanayi, Yenilikçilik ve Altyapı",
+      "E": "İnsana Yakışır İş ve Ekonomik Büyüme"
+    },
+    "answer": "D",
+    "notes": "Bilgi ve birikime eşit erişimi sağlamanın yanı sıra yenilik ve girişimciliği\ngelişArme açısından, dijital eşitsizliği gidermek kriAk önem taşıyor.\nSürdürülebilir endüstrilerin desteklenmesi, çevre dostu teknolojilerin\ngelişArilmesi, bilgi ve birikime herkesin eşit erişimini sağlama, bilimsel\naraşJrma ve yeniliğe yaJrım yapılması, bu eylemlerin toplumsal\ncinsiyet boyutunun planlanması ve bu önceliklerin inşaat, sanayi ve\nfinansmanın her alanında dikkate alınması sürdürülebilir kalkınmayı\nmümkün kılan önemli yollardır."
   },
   "70": {
-    "question": "Aşağıdakilerden hangisi sosyal girişimcilik örneği değildir?",
+    "question": "Aşağıdaki cümleyi lüFen okuyunuz.",
     "options": {
-      "A": "Finansmana erişmekte zorlanan kişilere mikro kredi veren iktisadi işletmesi olan bir vakıf",
-      "B": "Yenilenebilir enerji alanında ürün üreten, kârı ile gelişmekte olan bölgelerde temiz enerji üretimi ve kullanımına yaTrım yapan bir şirket",
-      "C": "Ebeveynler tarakndan çocuklarına eğitim vermek amacıyla kurulmuş kâr amacı gütmeyen bir eğitim kooperatifi",
-      "D": "Finansmana erişmekte zorlanan kişilere mikro kredi veren iktisadi işletmesi olan bir vakıf",
-      "E": "Yıllık kârının bir kısmını sosyal sorumluluk projelerine ayıran bir şirket"
+      "A": "Vizyonun",
+      "B": "Politikanın",
+      "C": "Stratejinin",
+      "D": "Kültürün",
+      "E": "Misyonun"
     },
-    "answer": "E"
+    "answer": "D",
+    "notes": "Örgüt kültürü duyu oluşumunu haber verdiğinden ve karmaşık\nverilerin, sorunlu durumların belirsiz program teknolojilerinin\nyorumlanmasını sağladığından, …………. öğrenmeye rehberlik etiğini\nsöylemek mümkün olabilir.\nYukarıdaki metindeki ………… yere seçeneklerdekilerden hangisi\ngetirilmelidir?"
   }
 }
